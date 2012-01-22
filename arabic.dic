@@ -50,6 +50,7 @@
  ("après" "ba^da" "24")
  ("arabe" "^arab" "39")
  ("arabe (langue)" "^arabiyya(t)" "43")
+ ("arbre" "chajara(t), achjàr" "")
  ("argent" "nouqoùd" "23")
  ("arriver" "waSala, yaSilou" "19")
  ("assiette" "?, SouHoun" "")
@@ -58,6 +59,7 @@
  ("au début de la syllabe" "awwal al-maqta" "")
  ("au début du mot" "awwal al-kalima" "?")
  ("au milieu du mot" "binous al-kalima" "?")
+ ("au revoir" "wadà^an" "")
  ("aussi" "ayDan" "25")
  ("aussitôt / immédiatement" "faouran" "25")
  ("autobus" "bàS" "34")
@@ -1478,11 +1480,16 @@
 
 
 ;;;
-;;;; Rosetta
+;;;; Rosetta 1.1
 ;;;
 
 
-("Rosetta"
+("Rosetta 1.1"
+ "homme"
+ "garcon"
+ "fille"
+ "au revoir"
+ "arbre"
  "nuage"
  "couleur"
  "assiette"
