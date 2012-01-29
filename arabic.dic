@@ -35,6 +35,7 @@
  ("adulte (mature)" "ràchid" "")
  ("affamé" "jaou^an" "")
  ("affamé(e)" "jaou^àn / jaou^ànat (diptote)" "31")
+ ("age" "^oumr" "")
  ("âge" "sinn" "39")
  ("aimer" "aHabba, youHibbou" "")
  ("ainsi" "hakadhà" "41")
@@ -46,6 +47,7 @@
  ("anglais" "inkilìziyya(t)" "43")
  ("année" "sana(t), sanawàt" "38")
  ("années" "sanatan" "38")
+ ("appartement" "chaqqa(t)" "")
  ("appeler" "nàdà, younàdì" "?")
  ("après" "ba^da" "24")
  ("arabe" "^arab" "39")
@@ -71,11 +73,12 @@
  ("avoir faim" "ja'a" "")
  ("b" "ba" "1")
  ("bain / salle de bain / toilettes" "Hammàm" "26")
- ("balle, ballon" "koura(t)" "")
+ ("balle, ballon" "koura(t), à(t)" "")
  ("beau" "jamìl" "13")
  ("beaucoup" "kathìran" "22")
+ ("bébé" "radì^" "")
  ("besoin" "Hàjat" "33")
- ("bicyclette" "darràja(t)" "")
+ ("bicyclette" "darràja(t), à(t)" "")
  ("bien" "assanti" "?")
  ("bien!" "Hasanan" "30")
  ("bienvenue (à)" "ahlan (bi-)" "31")
@@ -105,9 +108,11 @@
  ("centre" "markaz" "22")
  ("certes" "inna" "22")
  ("cette / celle-ci" "hadhihi" "27")
+ ("ceux" "ha'oulà'i" "")
  ("ch" "chin" "17")
  ("chaire (à prêcher)" "minbar" "40")
  ("chaise" "koursiyy, karàs" "")
+ ("chambre à coucher" "ghourfati al'naoumi" "")
  ("chameau" "jamal" "39")
  ("chapeau" "qoubba^a(t)" "")
  ("chaque" "koull" "39")
@@ -116,6 +121,7 @@
  ("cheval" "jawàd, jiwàd" "")
  ("chez / auprès de / selon / au moment ou" "^inda" "23")
  ("chien" "kalb" "15")
+ ("chiffe, numéro" "raqm, arqàm" "")
  ("chose / object" "chay'" "22")
  ("ciel" "samà'" "")
  ("cinq" "khamsa" "")
@@ -142,7 +148,8 @@
  ("courrier / poste" "barìd" "19")
  ("courrir" "jarà, yajrì" "")
  ("coûteux / cher" "mouklif" "23")
- ("cuisiner" "Tabakha, yaTboukhou (?)" "")
+ ("cuisine" "maTbakh" "")
+ ("cuisiner" "Tabakha, yaTboukhou" "")
  ("D" "Dad" "23")
  ("d" "dal" "3")
  ("d'habitude" "^àdatan" "38")
@@ -181,6 +188,7 @@
  ("dur d'oreille" "thaqìlou as-sam^i" "29")
  ("eau" "mà'" "30")
  ("école" "madrasa(t)" "")
+ ("écouter" "stami^à" "")
  ("écrire" "kataba, yaktoubou" "1")
  ("écrivain" "kàtib" "1")
  ("Égypte" "Misr" "19")
@@ -188,10 +196,11 @@
  ("elle" "hiya" "18")
  ("elle est trouvée" "toùjadou" "43")
  ("elle suffit" "takfì" "38")
+ ("embrasser" "qabbila, youqabbilou" "")
  ("emplettes" "tasawwouq" "18")
  ("en quête de" "baHthan ^an" "36")
  ("endroit" "makàn, amàkin" "27")
- ("enfant" "Tifla(t), aTfàl" "")
+ ("enfant" "Tifla(t), aTfàl, ibn" "")
  ("énorme" "Dakhm" "37")
  ("enseignant" "mou^allim" "")
  ("enseigner" "darrasa, youdarrisou" "33")
@@ -200,6 +209,7 @@
  ("entreprise" "charika(t)" "38")
  ("entrer" "dakhala, yadkhoulou" "3")
  ("épouse" "zaouja(t)" "40")
+ ("époux" "zaouj" "")
  ("erreur" "khaTà'" "")
  ("es-ce que" "hal" "13")
  ("et" "wa" "2")
@@ -207,11 +217,13 @@
  ("étrange" "gharìb" "30")
  ("étranger" "ajnabiyy" "43")
  ("être" "kàna, yakoùnou" "24")
+ ("être debout" "yaqifou" "")
  ("être malade / tomber malade" "mariDa, yamraDou" "25")
  ("étude" "diràsa(t)" "38")
  ("étudiant" "Tàlib, Toullàb" "39")
  ("étudier" "darasa, yadrousou" "3")
  ("eux" "houm" "26")
+ ("évier" "mighsala(t)" "")
  ("examiner" "naZara, yanZourou fì" "32")
  ("excusez-moi" "ou^dhournì" "43")
  ("exemple" "mathal" "")
@@ -220,11 +232,12 @@
  ("faire" "fa^ala" "36")
  ("faire, confectionner, travailler" "^amila, ya^malou" "33")
  ("fait de manger" "akl" "32")
- ("famille" "ahl" "33")
+ ("famille" "ahl, ^à'ila(t)" "33")
  ("fatigant" "mout^ib" "26")
  ("fatigué" "mout^ab" "29")
  ("femme" "imra'a(t), mar'a(t), nisà'" "")
  ("femmes" "nisà'" "40")
+ ("fenêtre" "nàfidha(t)" "")
  ("fête" "^ìd" "36")
  ("fête de la Rupture du Jeûne" "^ìdou (a)l-FiTri" "33")
  ("fille" "bint, banàt" "8")
@@ -246,6 +259,7 @@
  ("grand-père" "jadd" "11")
  ("H" "Ha" "16")
  ("h" "ha" "11")
+ ("habiter" "yaskounou" "")
  ("herbe" "^ouchb" "")
  ("heure / montre" "sà^a(t)" "24")
  ("hibou" "boùm" "")
@@ -272,11 +286,12 @@
  ("jeune homme / jeunes gens" "chàbb, choubbàn" "32")
  ("jeune marié / jeune mariée" "^arìs, ^aroùs" "33")
  ("joie" "faraH" "34")
+ ("jouer" "la^iba, yal^abou" "")
  ("jour" "yaoum" "")
  ("jour, aujourd'hui" "yaoumoun, al-yaouma" "18")
- ("journal" "SaHìfa(t)" "43")
+ ("journal" "SaHìfa(t), SouHouf" "43")
  ("joyeux / content" "masroùr" "24")
- ("jupe" "tannoùra(t)" "")
+ ("jupe" "tannoùra(t), à(t)" "")
  ("jusque" "Hattà" "41")
  ("k" "kaf" "1")
  ("kh" "kha" "3")
@@ -363,13 +378,13 @@
  ("ô / eh" "yà" "17")
  ("obtention" "HouSoùl" "38")
  ("occasion" "mounàsaba(t)" "36")
- ("oeuf" "baìDa(t)" "")
+ ("oeuf" "bayDa(t), bìD" "")
  ("offre" "taqdìm" "36")
  ("on l'écrit" "touktab" "")
  ("oncle / tante maternel" "khàl / khàla(t)" "36")
  ("oncle / tante paternel" "^amm / ^amma(t)" "36")
  ("or" "dhahab" "22")
- ("ordinateur" "HàSoùb" "")
+ ("ordinateur" "HàSoùb, kombìoùtar" "")
  ("ou" "aou" "43")
  ("où" "ayna" "11")
  ("ou (interrogative)" "am" "43")
@@ -387,7 +402,9 @@
  ("papa" "ab" "")
  ("par exemple" "mathalan" "39")
  ("paradis / jardin" "janna(t) / jannàt" "31")
+ ("parc" "mountazah" "")
  ("parce que" "li'anna" "26")
+ ("parents" "wàlidà" "")
  ("parfait" "moumtàz" "24")
  ("parfaitement" "tamàman" "39")
  ("parler" "takallama, yatakallamou" "43")
@@ -409,6 +426,7 @@
  ("peu" "qalìlan" "23")
  ("peut-être, il se peut que, déjà" "qad" "38")
  ("phrase" "joumla" "")
+ ("pièce" "ghourfa(t)" "")
  ("place" "sàHat" "43")
  ("plein de" "Hàfil (bi-)" "34")
  ("poète" "chà^ir" "37")
@@ -416,9 +434,9 @@
  ("poix chiches" "HoummouS" "41")
  ("policier" "chourTiyy" "")
  ("pomme" "touffàHa(t)" "")
+ ("pont" "jisr, jousoùr" "")
  ("porte" "bàb" "")
  ("porte-monnaie" "miHfaZatou an-nouqoùdi" "41")
- ("porter (des vetements)" "labasa, yalbasou (?)" "")
  ("portes" "abwàb" "")
  ("posséder" "malaka, yamlikou" "38")
  ("poulet / volaille" "dajàj" "30")
@@ -449,11 +467,14 @@
  ("quoi / qu'es-ce que" "mà" "4")
  ("quoi?" "màdhà" "32")
  ("r" "ra" "3")
+ ("radio" "ràdiou" "")
  ("ragoût" "tàjin" "30")
  ("rassasié" "chab^an" "")
+ ("regarder" "youchàhid" "")
  ("regarder" "naZara, yanZourou ilà" "32")
  ("région" "minTaqat" "26")
  ("remplir" "mala'a, yamla'ou" "")
+ ("rencontre" "liqà'" "")
  ("rencontrer" "laqiya, yalqà" "41")
  ("repas, plat, met" "aklat" "34")
  ("répliquer / répondre" "radda, yarouddou" "37")
@@ -465,6 +486,7 @@
  ("retour" "roujoù^" "27")
  ("réunion" "ijtimà^" "24")
  ("revenir / retourner" "raja^a, yarji^ou" "20")
+ ("revêtir" "labisa, yalbasou" "")
  ("revue" "majalla(t)" "43")
  ("rivage" "sàHil" "39")
  ("riz" "arouzz" "")
@@ -476,6 +498,9 @@
  ("s" "sin" "2")
  ("sac" "kìs, akyàs" "41")
  ("salade" "salaTat" "32")
+ ("salle à manger" "ghourfatou al'Ta^àmi" "")
+ ("salle de bain" "Hammàm" "")
+ ("salon" "ghourfatou jouloùsin" "")
  ("salon de réception" "majlis" "37")
  ("salut / paix" "salàm" "20")
  ("salut, salutations" "salàm, salàmàt" "34")
@@ -484,13 +509,14 @@
  ("sang" "dam" "")
  ("sans" "bilà" "39")
  ("sauf" "illà" "38")
- ("savoir" "^arafa ya^rifou" "31")
+ ("savoir" "^arafa ya^rifou, ^alima ya^lamou" "31")
  ("se lever" "nahaDa, yanhaDou" "")
  ("se prononce" "nouqraou" "")
  ("se réjouir" "fariHa, yafraHou" "22")
  ("seau" "daloù" "")
  ("semaine" "ousboù^" "27")
  ("sept" "sab'a" "")
+ ("serrer contre soi" "^àniqou" "")
  ("serviteur" "khadim" "19")
  ("seulement" "faqaT" "30")
  ("six" "sittat" "31")
@@ -512,6 +538,7 @@
  ("table" "mà’ida(t)" "19")
  ("tasse" "koùb" "")
  ("téléphone" "hàtif, hawàtif" "38")
+ ("télévision" "talfizioun" "")
  ("temps" "waqt" "40")
  ("temps (climat)" "jaww" "")
  ("terme (d'âge)" "akhir" "39")
@@ -521,6 +548,7 @@
  ("titre" "nouan" "?")
  ("toi (féminin)" "anti" "13")
  ("toi (masculin)" "anta" "10")
+ ("toilette" "mirHàD" "")
  ("ton / ta / tes (féminin)" "-ki" "9")
  ("ton / ta / tes (masculin)" "-ka" "11")
  ("tour" "dawr" "")
@@ -556,6 +584,7 @@
  ("vite" "bi-sour&a (pserra)" "?")
  ("vitrine" "wàjiha(t)" "41")
  ("vive" "dàma" "")
+ ("vivre" "^àcha, yà^ichou" "")
  ("voir" "ra'à, yarà" "36")
  ("voisin" "jàr" "15")
  ("voiture" "sayyàra(t)" "20")
@@ -1158,7 +1187,7 @@
  "conduire"
  "cuisiner"
  "nager"
- "porter (des vetements)"
+ "revêtir"
  "acheter"
  "ouvrir"
  "tourner"
@@ -1453,7 +1482,6 @@
  "assoiffé"
  "université"
  "plein de"
- "famille"
  "public / général"
  "avant"
  "midi"
@@ -1477,6 +1505,15 @@
 
 ("<Session>"
 )
+
+
+;;;
+;;;; Rosetta
+;;;
+
+
+("Rosetta"
+ "savoir")
 
 
 ;;;
@@ -1526,7 +1563,7 @@
  "pomme"
  "chapeau"
  "balle, ballon"
- "porter (des vetements)"
+ "revêtir"
  "acheter"
  "bol"
  "jupe"
@@ -1537,3 +1574,63 @@
  "pantalon"
  "lire"
  "courrir")
+
+
+;;;
+;;;; Rosetta 1.2
+;;;
+
+
+("Rosetta 1.2"
+ "rencontre"
+ "parc"
+ "regarder"
+ "évier"
+ "pont"
+ "vivre"
+ "chiffe, numéro"
+ "habiter"
+ "être debout"
+ "écouter"
+ "regarder"
+ "chambre à coucher"
+ "salle à manger"
+ "salle de bain"
+ "cuisine"
+ "salon"
+ "pièce"
+ "radio"
+ "télévision"
+ "ordinateur"
+ "enfant"
+ "famille"
+ "embrasser"
+ "serrer contre soi"
+ "toilette"
+ "fenêtre"
+ "porte"
+ "appartement"
+ "ceux"
+ "jouer"
+ "parents"
+ "époux"
+ "bébé"
+ "age")
+
+
+;;;
+;;;; Rosetta 1.3
+;;;
+
+
+("Rosetta 1.3"
+)
+
+
+;;;
+;;;; Rosetta 1.4
+;;;
+
+
+("Rosetta 1.4"
+)
