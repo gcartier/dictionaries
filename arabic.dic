@@ -274,6 +274,7 @@
  ("étudier" "darasa, yadrousou" "3")
  ("eux" "houm" "26")
  ("évier" "mighsala(t)" "")
+ ("exagéré" "ghàya(t)" "")
  ("examiner" "naZara, yanZourou fì" "32")
  ("excusez-moi" "ou^dhournì" "43")
  ("exemple" "mathal" "")
@@ -289,6 +290,7 @@
  ("femme" "imra'a(t), mar'a(t), nisà'" "")
  ("femmes" "nisà'" "40")
  ("fenêtre" "nàfidha(t)" "")
+ ("fermé" "moughlaq" "")
  ("fête" "^ìd" "36")
  ("fête de la Rupture du Jeûne" "^ìdou (a)l-FiTri" "33")
  ("fille" "bint, banàt" "8")
@@ -340,7 +342,7 @@
  ("islamique" "islàmiyy" "40")
  ("j" "jim" "2")
  ("jardin" "boustàn" "13")
- ("jaune" "aSfar, Safrà'" "")
+ ("jaune" "aSfar, Safrà', Soufrou" "")
  ("je t'en prie" "tafaDDal" "31")
  ("je vous en prie" "tafaDDaloù" "31")
  ("jeu" "lou^ba(t)" "")
@@ -373,6 +375,7 @@
  ("léger" "khafìf" "")
  ("légume" "khouDàr" "")
  ("lent" "baTì'" "")
+ ("lequel" "alladhì" "")
  ("les fleurs" "azhàr" "36")
  ("lettre" "risàla(t)" "19")
  ("lettre d'un mot" "Harf" "")
@@ -475,6 +478,7 @@
  ("oui" "na’am" "18")
  ("oui (bien)" "aiwa" "?")
  ("ours" "doubb" "")
+ ("ouvert" "maftoùH" "")
  ("ouvrir" "fataHa, yaftaHou" "")
  ("page" "waraqa" "")
  ("pain" "khoubz" "30")
@@ -714,6 +718,7 @@
  ("vouloir" "aràda, yourìdou" "43")
  ("vous (pronon)" "antoum" "23")
  ("vous deux (pronom affixe)" "koumà" "37")
+ ("vous êtez le (la) bienvenue" "anta (anti) ^alà al'raHbi wa al'sa^a(t)" "")
  ("voyage" "safar" "26")
  ("voyageur" "mousàfir" "26")
  ("vrai" "SaHìH" "")
@@ -1523,7 +1528,7 @@
 
 
 ("Expressions"
-)
+ "vous êtez le (la) bienvenue")
 
 
 ;;;
@@ -1759,6 +1764,12 @@
 
 
 ("Rosetta 1.4"
+ "laquelle"
+ "lequel"
+ "vous êtez le (la) bienvenue"
+ "ouvert"
+ "fermé"
+ "exagéré"
  "tous"
  "quelques-uns"
  "pourquoi pas"
