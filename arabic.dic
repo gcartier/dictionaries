@@ -12,6 +12,7 @@
  ("2ième personne du pluriel" "-toum" "23")
  ("a / à" "alif" "2")
  ("à / pour" "li" "10")
+ ("à côté de" "bijànibi" "")
  ("à l'occasion de" "bi-mounàsabati" "33")
  ("à la fin du mot, attaché" "arril al-kalima mowsoul" "?")
  ("à la fin du mot, detaché" "arril al-kalima mafsoul" "?")
@@ -40,6 +41,7 @@
  ("aimer" "aHabba, youHibbou" "")
  ("ainsi" "hakadhà" "41")
  ("aller" "dhahaba, yadhhabou" "11")
+ ("aller (mot)" "dhàhib" "")
  ("alors" "idhan / ^inda'idhin," "30, 36")
  ("âme" "nafs" "38")
  ("ami" "Sadìq, aSdiqà'ou (diptote)" "31")
@@ -78,12 +80,14 @@
  ("b" "ba" "1")
  ("bain / salle de bain / toilettes" "Hammàm" "26")
  ("balle, ballon" "koura(t), à(t)" "")
+ ("banque" "bank" "")
  ("bas" "jaouàrib" "")
  ("baton" "maDrib" "")
  ("beau" "jamìl" "13")
  ("beaucoup" "kathìran" "22")
  ("bébé" "radì^" "")
  ("besoin" "Hàjat" "33")
+ ("bibliothèque" "maktaba(t)" "")
  ("bicyclette" "darràja(t), à(t)" "")
  ("bien" "assanti" "?")
  ("bien!" "Hasanan" "30")
@@ -113,13 +117,15 @@
  ("brosser (les dents ?)" "yousawwikou" "")
  ("brun" "bounniya(t)" "")
  ("bureau" "maktab" "8")
+ ("bureau de poste" "maktabou barìdin" "")
  ("c'est quoi" "chou yani" "?")
  ("c'est vrai" "SaHìH" "38")
  ("cadeau" "hadiyya(t)" "36")
  ("café (boisson)" "qahwa" "29")
- ("café (lieu)" "maqhan" "29")
+ ("café (lieu)" "maqhà" "29")
  ("capitale" "^àSima(t)" "20")
  ("carotte" "jazar" "")
+ ("carte" "kharìTa(t)" "")
  ("carte de crédit" "biTàqàtou al'itimàni" "")
  ("cause / raison / motif" "sabab" "25")
  ("ce / ceci" "hadhà" "24")
@@ -202,6 +208,7 @@
  ("dent" "sinn, asnàn" "")
  ("dépense" "badhlou" "40")
  ("dernier" "ahìr" "")
+ ("derrière" "khalf" "")
  ("descendre" "nazala" "23")
  ("dessous" "taHta" "")
  ("dessus" "faouqa" "")
@@ -227,7 +234,7 @@
  ("dormir" "nàma, yanàmou" "")
  ("draps" "milà'a(t)" "")
  ("droit (juridique)" "Haqq, Houqoùq" "33")
- ("droite" "yàmin" "43")
+ ("droite" "yamìn" "43")
  ("du bien" "khayr" "23")
  ("duel" "mouthannà" "37")
  ("dur d'oreille" "thaqìlou as-sam^i" "29")
@@ -261,6 +268,7 @@
  ("équipement" "mou^addà(t)" "")
  ("erreur" "khaTà'" "")
  ("es-ce que" "hal" "13")
+ ("essence" "waqoùd" "")
  ("et" "wa" "2")
  ("état (d'une personne)" "Hàl" "17")
  ("été" "Saìf" "")
@@ -439,6 +447,7 @@
  ("mot" "kalima(t)" "39")
  ("mouillé" "moubtall" "")
  ("mur" "jidar" "?")
+ ("musée" "moutHaf" "")
  ("n" "noun" "8")
  ("nager" "sabaHa, yasbaHou" "")
  ("naissance" "mìlàd" "36")
@@ -644,7 +653,9 @@
  ("sortir" "kharaja, yakhroujou" "8")
  ("soulier" "Hidhà'" "")
  ("souper" "^achà'" "")
+ ("stade" "istàd" "")
  ("station" "maHaTTat" "33")
+ ("station d'essence" "maHaTTatou waqoùdin" "")
  ("stylo" "qalam, aqlàm" "9")
  ("sur" "^alà" "19")
  ("syllabe" "maqta" "")
@@ -676,6 +687,7 @@
  ("tous" "jamì^" "")
  ("train" "qiTàr" "33")
  ("trajet / voyage" "safrat" "27")
+ ("travail" "^amal" "")
  ("travailler" "^amila, ya^malou" "")
  ("très" "jiddan" "18")
  ("trois" "thalàtha" "")
@@ -1831,6 +1843,57 @@
  "parapluie"
  "échelle"
  "ticket")
+
+
+;;;
+;;;; Rosetta 2.1
+;;;
+
+
+("Rosetta 2.1"
+ "droite"
+ "gauche"
+ "à côté de"
+ "devant"
+ "derrière"
+ "carte"
+ "essence"
+ "aller (mot)"
+ "travail"
+ "station d'essence"
+ "stade"
+ "bibliothèque"
+ "musée"
+ "banque"
+ "café (lieu)"
+ "bureau de poste")
+
+
+;;;
+;;;; Rosetta 2.2
+;;;
+
+
+("Rosetta 2.2"
+)
+
+
+;;;
+;;;; Rosetta 2.3
+;;;
+
+
+("Rosetta 2.3"
+)
+
+
+;;;
+;;;; Rosetta 2.4
+;;;
+
+
+("Rosetta 2.4"
+)
 
 
 ;;;
