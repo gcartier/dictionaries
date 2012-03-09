@@ -9,7 +9,18 @@
 (("&" "ayn" "18")
  ("'" "hamza" "1")
  ("(et) mais" "walakinna" "23")
+ ("1" "wàHidoun, wàHidatoun, Hàdì" "")
+ ("2" "ithnàni, ithnatàni, thànì" "")
  ("2ième personne du pluriel" "-toum" "23")
+ ("3" "thalàthou, thalàthatou, thàlithou" "")
+ ("4" "arba^ou, arba^atou, ràbi^ou" "")
+ ("5" "khamsou, khamsatou, khàmisou" "")
+ ("6" "sittou, sittatou, sàdisou" "")
+ ("7" "sab^ou, sab^atou, sàbi^ou" "")
+ ("8" "thamànì, thamàniyatou, thàminou" "")
+ ("9" "tis^ou, tis^atou, tàsi^ou" "")
+ ("_10" "^achrou, ^achratou, ^àchirou" "")
+ ("_20" "^ichroùna" "")
  ("a / à" "alif" "2")
  ("à / pour" "li" "10")
  ("à côté de" "bijànibi" "")
@@ -40,8 +51,8 @@
  ("âge" "sinn" "39")
  ("aimer" "aHabba, youHibbou" "")
  ("ainsi" "hakadhà" "41")
+ ("allant" "dhàhib" "")
  ("aller" "dhahaba, yadhhabou" "11")
- ("aller (mot)" "dhàhib" "")
  ("alors" "idhan / ^inda'idhin," "30, 36")
  ("âme" "nafs" "38")
  ("ami" "Sadìq, aSdiqà'ou (diptote)" "31")
@@ -57,6 +68,7 @@
  ("arabe (langue)" "^arabiyya(t)" "43")
  ("arbre" "chajara(t), achjàr" "")
  ("argent" "nouqoùd" "23")
+ ("arrêt d'autobus" "moùqifou al'Hàfilàt" "")
  ("arriver" "waSala, yaSilou" "19")
  ("assiette" "SaHn, SouHoun" "")
  ("assoiffé" "^aTchànou" "29")
@@ -68,7 +80,7 @@
  ("auprès" "ladà" "")
  ("aussi" "ayDan" "25")
  ("aussitôt / immédiatement" "faouran" "25")
- ("autobus" "bàS" "34")
+ ("autobus" "bàS, Hàfila(t)" "34")
  ("automne" "kharìf" "")
  ("autour" "Haoula" "37")
  ("autre" "àkhara" "43")
@@ -150,6 +162,7 @@
  ("chèque" "chìkàt" "")
  ("cher" "ghàlì, ghàlyat" "")
  ("cheval" "jawàd, jiwàd" "")
+ ("chevauche (?) (un autobus, un train, ...)" "yastaqillou" "")
  ("cheveux" "cha^r" "")
  ("chez / auprès de / selon / au moment ou" "^inda" "23")
  ("chien" "kalb" "15")
@@ -234,7 +247,7 @@
  ("dormir" "nàma, yanàmou" "")
  ("draps" "milà'a(t)" "")
  ("droit (juridique)" "Haqq, Houqoùq" "33")
- ("droite" "yamìn" "43")
+ ("droite" "yamìn, youmna" "43")
  ("du bien" "khayr" "23")
  ("duel" "mouthannà" "37")
  ("dur d'oreille" "thaqìlou as-sam^i" "29")
@@ -317,12 +330,12 @@
  ("garcon" "walad, aoulad" "3")
  ("garçon de restaurant" "ghars" "31")
  ("gare de train" "maHaTTatou (a)l-qiTàri" "33")
- ("gauche" "yasàr" "43")
+ ("gauche" "yasàr, yousra" "43")
  ("gens" "nàs" "")
  ("gh" "ghayn" "26")
  ("golf" "ghoùlf" "")
  ("gout" "Ta^m" "")
- ("gouter" "dhàqa, yadhoùquou" "")
+ ("gouter" "dhàqa, yadhoùqou" "")
  ("grand" "kabìr" "22")
  ("grand-père" "jadd" "11")
  ("gris" "ramàdiyya(t)" "")
@@ -352,6 +365,7 @@
  ("jardin" "boustàn" "13")
  ("jaune" "aSfar, Safrà', Soufrou" "")
  ("je t'en prie" "tafaDDal" "31")
+ ("je vais vers" "i'dhahab bittijàhi" "")
  ("je vous en prie" "tafaDDaloù" "31")
  ("jeu" "lou^ba(t)" "")
  ("jeudi" "yaouma al-khamìs" "24")
@@ -390,9 +404,11 @@
  ("leurs" "-houm" "26")
  ("libre" "hourr" "")
  ("ligne" "satir" "?")
+ ("ligne, rangée" "Saff" "")
  ("lire" "qara'a, yaqra'ou" "")
  ("liste / carte de restaurant" "qà'imat, qawà'imou" "32")
  ("lit" "sarìr" "")
+ ("lit (une carte, ...)" "youTàli^ou" "")
  ("livre" "kitàb, koutoub" "4")
  ("locaux" "maHallàt" "43")
  ("lointain, loin (de)" "ba^ìd (^an)" "40")
@@ -431,6 +447,7 @@
  ("mère" "wàlida(t)" "17")
  ("mesure" "qiyàs" "")
  ("métal" "ma^dan" "")
+ ("métro" "qiTàrou al'anfàqa" "")
  ("métropole" "misr" "19")
  ("midi" "Zouhr" "24")
  ("milieu" "wasaT" "13")
@@ -612,6 +629,7 @@
  ("S" "Sad" "19")
  ("s" "sin" "2")
  ("sac" "kìs, akyàs" "41")
+ ("saison" "faSl" "")
  ("salade" "salaTa(t)" "32")
  ("sale" "mouttasikh" "")
  ("salle à manger" "ghourfatou al'Ta^àmi" "")
@@ -641,6 +659,7 @@
  ("serviette" "minchafa(t)" "")
  ("serviteur" "khadim" "19")
  ("seulement" "faqaT" "30")
+ ("siège" "maq^ad" "")
  ("similaire" "moutachàbiha(t)" "")
  ("six" "sittat" "31")
  ("sixième" "sàdis" "24")
@@ -664,6 +683,7 @@
  ("t" "ta" "1")
  ("table" "mà’ida(t)" "19")
  ("tasse" "koùb" "")
+ ("taxi" "sayyàratou oujara(t)" "")
  ("téléphone" "hàtif, hawàtif" "38")
  ("télévision" "talfizioun" "")
  ("temps" "waqt" "40")
@@ -680,9 +700,11 @@
  ("toi (féminin)" "anti" "13")
  ("toi (masculin)" "anta" "10")
  ("toilette" "mirHàD" "")
+ ("toilettes" "daouratou al'miyàh" "")
  ("ton / ta / tes (féminin)" "-ki" "9")
  ("ton / ta / tes (masculin)" "-ka" "11")
  ("tour" "dawr" "")
+ ("tourne" "tan^atifou" "")
  ("tourner" "dàra, yadoùrou" "43")
  ("tous" "jamì^" "")
  ("train" "qiTàr" "33")
@@ -1455,6 +1477,17 @@
 
 
 ("Numbers"
+ "_20"
+ "_10"
+ "9"
+ "8"
+ "7"
+ "6"
+ "5"
+ "4"
+ "3"
+ "2"
+ "1"
  "zéro"
  "un"
  "deux"
@@ -1710,6 +1743,7 @@
 
 
 ("Rosetta 1.3"
+ "saison"
  "acheter"
  "acheter"
  "couverture"
@@ -1851,6 +1885,19 @@
 
 
 ("Rosetta 2.1"
+ "lit (une carte, ...)"
+ "je vais vers"
+ "tourne"
+ "monter en selle, en voiture, ..."
+ "arrêt d'autobus"
+ "siège"
+ "chevauche (?) (un autobus, un train, ...)"
+ "taxi"
+ "autobus"
+ "métro"
+ "premier"
+ "toilettes"
+ "ligne, rangée"
  "droite"
  "gauche"
  "à côté de"
@@ -1858,7 +1905,7 @@
  "derrière"
  "carte"
  "essence"
- "aller (mot)"
+ "allant"
  "travail"
  "station d'essence"
  "stade"
@@ -1897,17 +1944,12 @@
 
 
 ;;;
-;;;; Questions
+;;;; <Questions>
 ;;;
 
 
-("Questions"
- "être debout"
- "acheter"
- "fini"
- "devoir"
- "appeler"
- "serrer contre soi")
+("<Questions>"
+)
 
 
 ;;;
@@ -1916,29 +1958,10 @@
 
 
 ("<Review>"
- "ceux"
- "assiette"
- "vivre (en quelque part)"
- "court, petit"
- "regarder (quelque chose)"
- "chiffre, numéro"
- "serrer contre soi"
- "acheter"
- "bébé"
- "affamé"
- "jouer"
- "clef"
- "sentir (se)"
- "habiter"
- "cheveux"
- "age"
+ "manger (?)"
  "écouter (quelque chose)"
- "bol"
- "arbre"
- "embrasser"
- "tasse"
- "chaud"
- "nuage")
+ "gouter"
+ "doigt")
 
 
 ;;;
@@ -1951,207 +1974,79 @@
 
 
 ;;;
-;;;; Rosetta Review
+;;;; <Rosetta>
 ;;;
 
 
-("Rosetta Review"
- "oreiller"
- "semaine"
- "chandail"
- "fenêtre"
- "souper"
- "écouter (quelque chose)"
- "savon"
- "bol"
- "brosser (les cheveux ?)"
- "nuit"
- "réveiller"
- "propre"
- "nuage"
- "mauvais"
- "dehors"
- "sale"
- "déjeuner"
- "chemise"
- "conduire"
- "automne"
- "marcher"
- "laver"
- "rose"
- "acheter"
- "ceinture"
- "personne"
- "visage"
- "age"
- "dent"
- "diner"
- "sentir quelque chose"
- "courrir"
- "bas"
- "habiter"
- "bébé"
- "parler"
- "sec"
- "printemps"
- "gouter"
- "court, petit"
- "hopital"
- "fleur"
- "être debout"
- "chapeau"
- "complet"
- "cuisiner"
- "manteau"
- "brosse à dents"
- "herbe"
- "clef"
- "été"
- "pied"
+("<Rosetta>"
+ "chevauche (?) (un autobus, un train, ...)"
+ "carte"
+ "vieux"
+ "ticket"
+ "tous"
+ "brisé"
+ "mouillé"
+ "fait de"
+ "pharmacie"
+ "carte de crédit"
+ "fermé"
+ "pas"
+ "arrêt d'autobus"
+ "couverture"
  "draps"
- "gens"
- "cheveux"
- "visiter"
- "couleur"
- "arbre"
- "sentir (se)"
- "animal"
- "gout"
- "assiette"
+ "laquelle"
+ "différent"
+ "tourne"
+ "exagéré"
+ "siège"
+ "cher"
+ "toilettes"
+ "certains"
+ "comptant (payer)"
+ "prix"
+ "réveiller"
+ "lequel"
+ "théatre"
+ "essence"
+ "quelques-uns"
+ "lourd"
+ "se réveiller"
+ "pourquoi pas"
+ "doigt"
+ "quincaillerie"
+ "parapluie"
+ "concert"
+ "pâte à dents"
+ "propre"
+ "auprès"
+ "premier"
+ "ligne, rangée"
+ "ouvert"
+ "similaire"
+ "métro"
+ "station d'essence"
+ "dimanche"
+ "vendre"
+ "doigt de pied"
+ "oreiller"
+ "manger (?)"
+ "chèque"
+ "taxi"
+ "couter"
+ "bonne nuit"
+ "monnaie"
+ "monter en selle, en voiture, ..."
+ "équipement"
+ "lent"
+ "à côté de"
+ "mesure"
+ "pièce (de monnaie)"
+ "gouter"
+ "léger"
+ "musée"
+ "derrière"
+ "je vais vers"
+ "nuage"
  "ceux"
- "revêtir"
- "hiver"
- "odeur"
- "doigt de pied"
- "toilette"
- "famille"
- "lire"
- "travailler"
- "nager"
- "jeu"
- "vendredi"
- "ciel"
- "doigt"
- "serrer contre soi"
- "dedans"
- "bonne nuit"
- "blond"
- "brosser (les dents ?)"
- "vivre (en quelque part)"
- "manger (?)"
- "brosse"
- "rencontre"
- "appartement"
- "jouer"
- "dimanche"
- "cravate"
- "chiffre, numéro"
- "serviette"
- "se réveiller"
- "embrasser"
- "pays"
- "pâte à dents"
- "regarder (quelque chose)"
- "tasse"
- "mouillé")
-
-
-;;;
-;;;; Rosetta Essential
-;;;
-
-
-("Rosetta Essential"
- "hiver"
- "oreiller"
- "arbre"
- "déjeuner"
- "sale"
- "acheter"
- "dent"
- "doigt"
- "chaise"
- "écouter (quelque chose)"
- "draps"
- "odeur"
- "doigt de pied"
- "serviette"
- "nuage"
- "mauvais"
- "habiter"
- "brosser (les cheveux ?)"
- "chemise"
- "regarder (quelque chose)"
- "diner"
- "brosser (les dents ?)"
- "dimanche"
- "rencontre"
- "gouter"
- "vivre (en quelque part)"
- "mouillé"
- "serrer contre soi"
- "embrasser"
- "gens"
- "réveiller"
- "propre"
- "brosse à dents"
- "jeu"
- "age"
- "visage"
- "sec"
- "automne"
- "vendredi"
- "bonne nuit"
- "printemps"
- "sentir quelque chose"
- "hopital"
- "se réveiller"
- "animal"
- "souper"
- "manger (?)"
- "bébé"
- "pâte à dents"
- "ceinture")
-
-
-;;;
-;;;; Rosette Minimal
-;;;
-
-
-("Rosette Minimal"
- "acheter"
- "brosser (les cheveux ?)"
- "automne"
- "vivre (en quelque part)"
- "odeur"
- "embrasser"
- "animal"
- "hopital"
- "visage"
- "écouter (quelque chose)"
- "mauvais"
- "doigt"
- "oreiller"
- "habiter"
- "pâte à dents"
- "réveiller"
- "draps"
- "sale"
- "regarder (quelque chose)"
- "printemps"
- "propre"
- "nuage"
- "brosser (les dents ?)"
- "souper"
- "dent"
- "gouter"
- "sec"
- "sentir quelque chose"
- "vendredi"
- "serviette"
- "doigt de pied"
- "mouillé"
- "manger (?)"
- "serrer contre soi"
- "se réveiller")
+ "journal"
+ "vivre (en quelque part)")
