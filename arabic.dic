@@ -45,6 +45,7 @@
  ("activité" "nachàT" "41")
  ("addition, compte" "Hisàb" "32")
  ("adulte (mature)" "ràchid" "")
+ ("aéroport" "maTàr" "")
  ("affamé" "jaou^an ou jài^oun" "")
  ("affamé(e)" "jaou^àn / jaou^ànat (diptote)" "31")
  ("age" "^oumr" "")
@@ -72,6 +73,7 @@
  ("arriver" "waSala, yaSilou" "19")
  ("assiette" "SaHn, SouHoun" "")
  ("assoiffé" "^aTchànou" "29")
+ ("attendre" "intaZara, yantaZirou" "")
  ("attente" "intiZàr" "34")
  ("au début de la syllabe" "awwal al-maqta" "")
  ("au début du mot" "awwal al-kalima" "?")
@@ -87,8 +89,9 @@
  ("avant" "qabla an + cas indirect" "32")
  ("avec" "ma^a" "18")
  ("avec / au moyen de" "bi" "9")
+ ("avion" "Tà'ira(t)" "")
  ("avoir besoin" "yaHtàjou" "")
- ("avoir faim" "ja'a" "")
+ ("avoir faim" "jà^a, yajoù^ou" "")
  ("b" "ba" "1")
  ("bain / salle de bain / toilettes" "Hammàm" "26")
  ("balle, ballon" "koura(t), à(t)" "")
@@ -186,11 +189,11 @@
  ("commerce (le)" "tijàra(t)" "38")
  ("compatible" "moulà'im" "")
  ("complet" "badla(t)" "")
- ("comprendre" "fahima yafhamou" "29")
+ ("comprendre" "fahima, yafhamou" "29")
  ("comptant (payer)" "naqdan" "")
  ("concert" "Hafloun moùsìqiyyoun" "")
  ("conduire" "qàda, yaqoùdou" "")
- ("connaître" "^arafa ya^rifou" "31")
+ ("connaître" "^arafa, ya^rifou" "31")
  ("contemplation" "tafarrouj" "40")
  ("continu" "kefi" "")
  ("corne de gazelle" "ka^bou ghazàlin" "32")
@@ -217,12 +220,12 @@
  ("délicieux" "Tayyib" "36")
  ("délicieux, savoureux" "ladhìdh" "31")
  ("demain" "ghadan" "41")
- ("demander" "Talaba yaTloubou" "32")
+ ("demander" "Talaba, yaTloubou" "32")
  ("dent" "sinn, asnàn" "")
  ("dépense" "badhlou" "40")
  ("dernier" "ahìr" "")
  ("derrière" "khalf" "")
- ("descendre" "nazala" "23")
+ ("descendre" "nazala, yanzilou" "23")
  ("dessous" "taHta" "")
  ("dessus" "faouqa" "")
  ("deux" "ithnàn" "")
@@ -262,6 +265,7 @@
  ("elle" "hiya" "18")
  ("elle est trouvée" "toùjadou" "43")
  ("elle suffit" "takfì" "38")
+ ("elle va vers l'avant" "tadhhabou bittijàhi al'amàma" "")
  ("embrasser" "qabbila, youqabbilou" "")
  ("emplettes" "tasawwouq" "18")
  ("en quête de" "baHthan ^an" "36")
@@ -301,7 +305,7 @@
  ("exemple" "mathal" "")
  ("expert" "khabìr" "18")
  ("f" "fa" "5")
- ("faire" "fa^ala" "36")
+ ("faire" "fa^ala, yaf^alou" "36")
  ("faire, confectionner, travailler" "^amila, ya^malou" "33")
  ("fait de" "maSnoù^" "")
  ("fait de manger" "akl" "32")
@@ -329,6 +333,7 @@
  ("fruits" "thimàr" "36")
  ("garcon" "walad, aoulad" "3")
  ("garçon de restaurant" "ghars" "31")
+ ("gare d'autobus" "maHaTTatou Hàfilàtin" "")
  ("gare de train" "maHaTTatou (a)l-qiTàri" "33")
  ("gauche" "yasàr, yousra" "43")
  ("gens" "nàs" "")
@@ -427,7 +432,7 @@
  ("maître" "oustàdh" "10")
  ("malade" "marìD" "25")
  ("maman" "oumm, oummahàt" "34")
- ("manger" "akala / ya'koulou" "31")
+ ("manger" "akala, ya'koulou" "31")
  ("manger (?)" "yatanàwalou" "")
  ("manteau" "mi^Taf" "")
  ("marché" "soùq" "11")
@@ -455,10 +460,12 @@
  ("moi" "anà" "9")
  ("moi seul" "waHdì" "37")
  ("mois" "chahr, chouhoùr" "33")
+ ("moitié" "niSf" "")
  ("mon / ma / mes (masculin)" "-i" "13")
  ("monnaie" "^oumlàt" "")
  ("monsieur / madame" "sayyidì / sayyidatì" "30")
  ("monter en selle, en voiture, ..." "rakiba, yarkabou" "34")
+ ("montre, horloge" "sà^a(t)" "")
  ("mosquée" "masjid, masàjid" "22")
  ("mosquée principale" "jàmi^, jawàmi^" "40")
  ("mot" "kalima(t)" "39")
@@ -529,6 +536,7 @@
  ("pas dénombrée" "là touHSà" "39")
  ("pas du tout / jamais" "abadan" "29")
  ("passé / qui est passé" "màDìn" "31")
+ ("passeport" "jaouàz, jaouàzou al'safari" "")
  ("passer" "marra, yamourrou" "19")
  ("passer par" "marra bi-" "19")
  ("pâte à dents" "ma^joùnou asnànin" "")
@@ -587,6 +595,7 @@
  ("q" "qaf" "9")
  ("quand" "matà" "24")
  ("quand à... eh bien" "ammà... fa-" "20")
+ ("quart" "roubou^ou" "")
  ("quartier" "Hayy" "27")
  ("quatre" "arba'a" "")
  ("quelle" "ayya(t)" "38")
@@ -594,6 +603,7 @@
  ("question" "soù'al" "")
  ("qui" "man" "8")
  ("quincaillerie" "maHallou mou^addàtin" "")
+ ("quitter" "ghàdara, youghàdirou" "")
  ("quoi / qu'es-ce que" "mà" "4")
  ("quoi?" "màdhà" "32")
  ("r" "ra" "3")
@@ -669,6 +679,7 @@
  ("soleil" "chams" "")
  ("son / sa / ses (féminin)" "-hà" "15")
  ("son / sa / ses (masculin)" "-hou" "12")
+ ("sont" "moùjoùda(t)" "")
  ("sortir" "kharaja, yakhroujou" "8")
  ("soulier" "Hidhà'" "")
  ("souper" "^achà'" "")
@@ -722,6 +733,7 @@
  ("une autre" "oukhrà" "39")
  ("une, l'une" "iHdà" "36")
  ("université" "jàmi^a(t)" "38")
+ ("valise" "Haqìba(t), Haqìbati al'malàbisi" "")
  ("venant" "qàdim" "26")
  ("vendeurs" "bà'i^" "43")
  ("vendre" "yabì^ou" "")
@@ -1743,6 +1755,8 @@
 
 
 ("Rosetta 1.3"
+ "quart"
+ "moitié"
  "saison"
  "acheter"
  "acheter"
@@ -1885,6 +1899,16 @@
 
 
 ("Rosetta 2.1"
+ "valise"
+ "passeport"
+ "quitter"
+ "montre, horloge"
+ "sont"
+ "attendre"
+ "aéroport"
+ "avion"
+ "gare d'autobus"
+ "elle va vers l'avant"
  "lit (une carte, ...)"
  "je vais vers"
  "tourne"
