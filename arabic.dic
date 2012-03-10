@@ -90,7 +90,7 @@
  ("avec" "ma^a" "18")
  ("avec / au moyen de" "bi" "9")
  ("avion" "Tà'ira(t)" "")
- ("avoir besoin" "yaHtàjou" "")
+ ("avoir besoin" "iHtàja, yaHtàjou" "")
  ("avoir faim" "jà^a, yajoù^ou" "")
  ("b" "ba" "1")
  ("bain / salle de bain / toilettes" "Hammàm" "26")
@@ -128,8 +128,8 @@
  ("brochettes" "kabàb" "30")
  ("brosse" "fourchà(t)" "")
  ("brosse à dents" "fourchàtou asnànin" "")
- ("brosser (les cheveux ?)" "yousarriHou" "")
- ("brosser (les dents ?)" "yousawwikou" "")
+ ("brosser les cheveux" "yousarriHou" "")
+ ("brosser les dents" "yousawwikou" "")
  ("brun" "bounniya(t)" "")
  ("bureau" "maktab" "8")
  ("bureau de poste" "maktabou barìdin" "")
@@ -201,7 +201,7 @@
  ("courrier / poste" "barìd" "19")
  ("courrir" "jarà, yajrì" "")
  ("court, petit" "qaSìr" "")
- ("couter" "youkallifou" "")
+ ("couter" "kallafa, youkallifou" "")
  ("coûteux / cher" "mouklif" "23")
  ("couverture" "baTTànyya(t)" "")
  ("cravate" "rabTatou ^ounouqin" "")
@@ -257,7 +257,7 @@
  ("eau" "mà'" "30")
  ("échelle" "soullam" "")
  ("école" "madrasa(t)" "")
- ("écouter (quelque chose)" "youstami^à" "")
+ ("écouter (quelque chose)" "istama^a, yastami^ou ilà" "")
  ("écrire" "kataba, yaktoubou" "1")
  ("écrivain" "kàtib" "1")
  ("Égypte" "Misr" "19")
@@ -292,7 +292,7 @@
  ("étrange" "gharìb" "30")
  ("étranger" "ajnabiyy" "43")
  ("être" "kàna, yakoùnou" "24")
- ("être debout" "waqafa (?), yaqifou" "")
+ ("être debout" "yaqifou" "")
  ("être malade / tomber malade" "mariDa, yamraDou" "25")
  ("étude" "diràsa(t)" "38")
  ("étudiant" "Tàlib, Toullàb" "39")
@@ -433,7 +433,6 @@
  ("malade" "marìD" "25")
  ("maman" "oumm, oummahàt" "34")
  ("manger" "akala, ya'koulou" "31")
- ("manger (?)" "yatanàwalou" "")
  ("manteau" "mi^Taf" "")
  ("marché" "soùq" "11")
  ("marcher" "machà, yamchì" "")
@@ -581,6 +580,7 @@
  ("premier" "awwal" "")
  ("première ligne" "awwal satir" "")
  ("prendre" "akhadha, ya'khoudhou" "10")
+ ("prendre un repas" "yatanàwalou" "")
  ("préocupation, souci" "hamm" "40")
  ("près de" "qarìban min" "26")
  ("présent" "HàDir" "")
@@ -658,7 +658,7 @@
  ("se lever" "nahaDa, yanhaDou" "")
  ("se prononce" "nouqraou" "")
  ("se réjouir" "fariHa, yafraHou" "22")
- ("se réveiller" "yastayqiZou" "")
+ ("se réveiller" "istayqaZa, yastayqiZou" "")
  ("seau" "daloù" "")
  ("sec" "jàff" "")
  ("semaine" "ousboù^, asàbì^" "27")
@@ -736,7 +736,7 @@
  ("valise" "Haqìba(t), Haqìbati al'malàbisi" "")
  ("venant" "qàdim" "26")
  ("vendeurs" "bà'i^" "43")
- ("vendre" "yabì^ou" "")
+ ("vendre" "bà^a, yabì^ou" "")
  ("vendredi" "yaouma al-joumou^a" "")
  ("venir" "jà'a, yajì'ou" "38")
  ("vers" "ilà" "11")
@@ -1366,7 +1366,7 @@
  "regarder"
  "quitter"
  "passer par"
- "manger (?)"
+ "prendre un repas"
  "lire"
  "jouer"
  "habiter"
@@ -1375,8 +1375,8 @@
  "embrasser"
  "écouter (quelque chose)"
  "couter"
- "brosser (les dents ?)"
- "brosser (les cheveux ?)"
+ "brosser les dents"
+ "brosser les cheveux"
  "avoir besoin"
  "attendre"
  "marcher"
@@ -1787,8 +1787,8 @@
  "couverture"
  "draps"
  "oreiller"
- "brosser (les dents ?)"
- "brosser (les cheveux ?)"
+ "brosser les dents"
+ "brosser les cheveux"
  "serviette"
  "savon"
  "brosse"
@@ -1831,7 +1831,7 @@
  "déjeuner"
  "diner"
  "souper"
- "manger (?)"
+ "prendre un repas"
  "bonne nuit"
  "nuit"
  "matin"
@@ -2075,7 +2075,7 @@
  "vendre"
  "doigt de pied"
  "oreiller"
- "manger (?)"
+ "prendre un repas"
  "chèque"
  "taxi"
  "bonne nuit"
