@@ -1,4 +1,4 @@
-;;;
+﻿;;;
 ;;;; Arabic
 ;;;
 
@@ -79,6 +79,7 @@
  ("au début du mot" "awwal al-kalima" "?")
  ("au milieu du mot" "binous al-kalima" "?")
  ("au revoir" "wadà^an" "")
+ ("aujourd'hui" "al'yaouma" "")
  ("auprès" "ladà" "")
  ("aussi" "ayDan" "25")
  ("aussitôt / immédiatement" "faouran" "25")
@@ -178,6 +179,7 @@
  ("classe" "souf" "?")
  ("clef" "miftàH, mafàtìH" "")
  ("client" "zaboùn" "30")
+ ("climat" "jaouou" "")
  ("climatisation" "takyìfou al-hawà'i" "25")
  ("coeur" "qalb, qouloùb" "34")
  ("combien de ?" "kam (+ nom singulier + -an)" "31")
@@ -241,6 +243,7 @@
  ("diner" "ghadà'" "")
  ("diplôme" "chahàda(t)" "38")
  ("dire" "qàla, yaqoùlou" "9")
+ ("distance" "masàfa(t)" "")
  ("dix" "'achra" "")
  ("doigt" "iSba^ (?), aSàbi^" "")
  ("doigt de pied" "aSàbi^ou al-qadami" "")
@@ -275,6 +278,7 @@
  ("enseignant" "mou^allim" "")
  ("enseigner" "darrasa, youdarrisou" "33")
  ("ensemble (personnes)" "ma^an" "41")
+ ("ensoleillé" "mouchmis" "")
  ("entre" "bayna" "29")
  ("entreprise" "charika(t)" "38")
  ("entrer" "dakhala, yadkhoulou" "3")
@@ -325,10 +329,12 @@
  ("fini" "khalas" "")
  ("finir" "anhà younhì" "")
  ("fleur" "zahra(t), zouhoùr" "")
+ ("forêt" "ghàba(t)" "")
  ("frais / tendre" "Tariyy" "30")
  ("français" "faransiyya(t)" "43")
  ("frère / ami" "akhr" "17")
  ("froid" "bard" "")
+ ("froid (adjectif)" "bàrid" "")
  ("fruit" "fàkiha(t)" "")
  ("fruits" "thimàr" "36")
  ("garcon" "walad, aoulad" "3")
@@ -338,6 +344,8 @@
  ("gauche" "yasàr, yousra" "43")
  ("gens" "nàs" "")
  ("gh" "ghayn" "26")
+ ("glace" "thalj" "")
+ ("glacé" "mouthlij" "")
  ("golf" "ghoùlf" "")
  ("gout" "Ta^m" "")
  ("gouter" "dhàqa, yadhoùqou" "")
@@ -348,6 +356,7 @@
  ("h" "ha" "11")
  ("habiter" "sakana, yaskounou" "")
  ("herbe" "^ouchb" "")
+ ("heure" "sà^a(t)" "")
  ("heure / montre" "sà^a(t)" "24")
  ("hibou" "boùm" "")
  ("hier" "yaouma amsi" "18")
@@ -360,6 +369,7 @@
  ("hotel" "foundouq, fanàdiq" "23")
  ("huit" "thamàniya" "")
  ("ici" "hounà" "17")
+ ("il est à l'heure" "innahou fì waqtihi" "")
  ("il semble que" "yabdoù anna" "41")
  ("ingénierie" "handasa(t)" "38")
  ("inscription" "tasjìl" "38")
@@ -393,6 +403,7 @@
  ("là" "hounàka" "23")
  ("la place" "makàna" "39")
  ("la plus grande" "koubrà" "41")
+ ("lac" "bouHayra(t)" "")
  ("lait" "Halìb" "")
  ("langue" "lougha(t)" "39")
  ("laquelle" "allatì" "43")
@@ -428,6 +439,7 @@
  ("m" "mim" "4")
  ("mademoiselle" "ànisatì" "38")
  ("main" "yad, aydin" "19")
+ ("maintenant" "al'àn" "")
  ("maison" "bayt, bouyoùt" "5")
  ("maître" "oustàdh" "10")
  ("malade" "marìD" "25")
@@ -456,6 +468,7 @@
  ("midi" "Zouhr" "24")
  ("milieu" "wasaT" "13")
  ("min s'écrit au début du mot ..." "mim touktab al-walil al-kalima ..." "")
+ ("minute" "daqìqa(t)" "")
  ("moi" "anà" "9")
  ("moi seul" "waHdì" "37")
  ("mois" "chahr, chouhoùr" "33")
@@ -463,6 +476,7 @@
  ("mon / ma / mes (masculin)" "-i" "13")
  ("monnaie" "^oumlàt" "")
  ("monsieur / madame" "sayyidì / sayyidatì" "30")
+ ("montagne" "jabal, jibàl" "")
  ("monter en selle, en voiture, ..." "rakiba, yarkabou" "34")
  ("montre, horloge" "sà^a(t)" "")
  ("mosquée" "masjid, masàjid" "22")
@@ -487,6 +501,7 @@
  ("nous avons tardé" "ta'akhkharnà" "40")
  ("nouveau" "jadìd" "11")
  ("nuage" "saHaba(t)" "")
+ ("nuageux" "ghà'im" "")
  ("nuit" "layla(t)" "")
  ("ô / eh" "yà" "17")
  ("obtention" "HouSoùl" "38")
@@ -557,8 +572,11 @@
  ("pièce (de monnaie)" "qiT^a(t)" "")
  ("pied" "qadam" "")
  ("place" "sàHat" "43")
+ ("plage" "chàTì'" "")
  ("plastique" "blàstìk" "")
  ("plein de" "Hàfil (bi-)" "34")
+ ("pluie" "satoumTar (?)" "")
+ ("pluvieux" "moumTar" "")
  ("poète" "chà^ir" "37")
  ("poisson" "samaka(t)" "30")
  ("poix chiches" "HoummouS" "41")
@@ -575,6 +593,7 @@
  ("pourquoi pas" "limà là" "")
  ("poussière" "ghoubàr" "26")
  ("poussin" "Sous" "")
+ ("pouvoir" "istaTà^a, yastaTì^ou an" "")
  ("précieux" "nafìs" "20")
  ("préféré" "moufaDDal" "34")
  ("premier" "awwal" "")
@@ -593,6 +612,7 @@
  ("public / général" "^àmm" "26")
  ("puis" "thoumma" "15")
  ("q" "qaf" "9")
+ ("qu'elle heure est-il" "kam al'sà^ati al'àn" "")
  ("quand" "matà" "24")
  ("quand à... eh bien" "ammà... fa-" "20")
  ("quart" "roubou^ou" "")
@@ -623,6 +643,7 @@
  ("resplendissante" "azhar" "40")
  ("restaurant" "maT^am" "30")
  ("rester" "makatha, yamkouthou" "15")
+ ("retardé" "ta'akhkhara" "")
  ("retour" "roujoù^" "27")
  ("réunion" "ijtimà^" "24")
  ("réveiller" "ayqaZa, youqiZou" "")
@@ -661,6 +682,7 @@
  ("se réveiller" "istayqaZa, yastayqiZou" "")
  ("seau" "daloù" "")
  ("sec" "jàff" "")
+ ("seconde" "thània(t)" "")
  ("semaine" "ousboù^, asàbì^" "27")
  ("sentir (se)" "cha^ara, yach^ourou bi-" "")
  ("sentir quelque chose" "chamma, yachoummou" "")
@@ -1355,6 +1377,7 @@
 
 
 ("Verbs"
+ "pouvoir"
  "vivre (en quelque part)"
  "vendre"
  "travailler"
@@ -1923,6 +1946,28 @@
 
 
 ("Rosetta 2.1"
+ "pluvieux"
+ "glace"
+ "pluie"
+ "glacé"
+ "ensoleillé"
+ "nuageux"
+ "froid (adjectif)"
+ "aujourd'hui"
+ "climat"
+ "forêt"
+ "lac"
+ "plage"
+ "montagne"
+ "pouvoir"
+ "distance"
+ "il est à l'heure"
+ "retardé"
+ "maintenant"
+ "qu'elle heure est-il"
+ "seconde"
+ "minute"
+ "heure"
  "valise"
  "passeport"
  "quitter"
