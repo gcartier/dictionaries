@@ -1355,6 +1355,30 @@
 
 
 ("Verbs"
+ "vivre (en quelque part)"
+ "vendre"
+ "travailler"
+ "serrer contre soi"
+ "sentir quelque chose"
+ "sentir (se)"
+ "se réveiller"
+ "réveiller"
+ "regarder"
+ "quitter"
+ "passer par"
+ "manger (?)"
+ "lire"
+ "jouer"
+ "habiter"
+ "gouter"
+ "être debout"
+ "embrasser"
+ "écouter (quelque chose)"
+ "couter"
+ "brosser (les dents ?)"
+ "brosser (les cheveux ?)"
+ "avoir besoin"
+ "attendre"
  "marcher"
  "conduire"
  "cuisiner"
@@ -1982,9 +2006,7 @@
 
 
 ("<Review>"
- "manger (?)"
  "écouter (quelque chose)"
- "gouter"
  "doigt")
 
 
@@ -2056,7 +2078,6 @@
  "manger (?)"
  "chèque"
  "taxi"
- "couter"
  "bonne nuit"
  "monnaie"
  "monter en selle, en voiture, ..."
