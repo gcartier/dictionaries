@@ -1,4 +1,4 @@
-﻿;;;
+;;;
 ;;;; Arabic
 ;;;
 
@@ -102,7 +102,7 @@
  ("beau" "jamìl" "13")
  ("beaucoup" "kathìran" "22")
  ("bébé" "radì^" "")
- ("besoin" "Hàjat" "33")
+ ("besoin" "Hàja(t)" "33")
  ("bibliothèque" "maktaba(t)" "")
  ("bicyclette" "darràja(t), à(t)" "")
  ("bien" "assanti" "?")
@@ -139,6 +139,7 @@
  ("cadeau" "hadiyya(t)" "36")
  ("café (boisson)" "qahwa" "29")
  ("café (lieu)" "maqhà" "29")
+ ("cahier" "daftar" "")
  ("capitale" "^àSima(t)" "20")
  ("carotte" "jazar" "")
  ("carte" "kharìTa(t)" "")
@@ -224,7 +225,7 @@
  ("demain" "ghadan" "41")
  ("demander" "Talaba, yaTloubou" "32")
  ("dent" "sinn, asnàn" "")
- ("dépense" "badhlou" "40")
+ ("dépense" "badhl" "40")
  ("dernier" "ahìr" "")
  ("derrière" "khalf" "")
  ("descendre" "nazala, yanzilou" "23")
@@ -236,16 +237,17 @@
  ("devoir" "wàjib" "")
  ("dh" "dhal" "10")
  ("dictée" "imlà'" "")
+ ("dictionnaire" "qàmoùs" "")
  ("dieu" "allah" "17")
- ("différent" "moukhtalifa(t)" "")
+ ("différent" "moukhtalif" "")
  ("difficile" "Sa^b" "39")
  ("dimanche" "yaouma al-aHad" "")
  ("diner" "ghadà'" "")
  ("diplôme" "chahàda(t)" "38")
  ("dire" "qàla, yaqoùlou" "9")
  ("distance" "masàfa(t)" "")
- ("dix" "'achra" "")
- ("doigt" "iSba^ (?), aSàbi^" "")
+ ("dix" "^achra" "")
+ ("doigt" "iSba^, aSàbi^" "")
  ("doigt de pied" "aSàbi^ou al-qadami" "")
  ("donne-moi" "^aTinì" "30")
  ("donner" "a^Tà, you^Tì" "36")
@@ -473,7 +475,7 @@
  ("moi seul" "waHdì" "37")
  ("mois" "chahr, chouhoùr" "33")
  ("moitié" "niSf" "")
- ("mon / ma / mes (masculin)" "-i" "13")
+ ("mon / ma / mes (masculin)" "-ì" "13")
  ("monnaie" "^oumlàt" "")
  ("monsieur / madame" "sayyidì / sayyidatì" "30")
  ("montagne" "jabal, jibàl" "")
@@ -522,7 +524,7 @@
  ("ou (interrogative)" "am" "43")
  ("où ..." "Haythou" "41")
  ("oublier" "nasiya, yansà" "43")
- ("oui" "na’am" "18")
+ ("oui" "na^am" "18")
  ("oui (bien)" "aiwa" "?")
  ("ours" "doubb" "")
  ("ouvert" "maftoùH" "")
@@ -554,7 +556,7 @@
  ("passer" "marra, yamourrou" "19")
  ("passer par" "marra bi-" "19")
  ("pâte à dents" "ma^joùnou asnànin" "")
- ("patisserie" "makhbaz" "")
+ ("patisserie (magasin)" "makhbaz" "")
  ("pâtisserie, friandise" "Halwà, Halawiyàt" "32")
  ("patissier" "Halwàniyy" "29")
  ("payer" "dafa^a, yadfa^ou" "32")
@@ -686,7 +688,7 @@
  ("semaine" "ousboù^, asàbì^" "27")
  ("sentir (se)" "cha^ara, yach^ourou bi-" "")
  ("sentir quelque chose" "chamma, yachoummou" "")
- ("sept" "sab'a" "")
+ ("sept" "sab^a" "")
  ("serrer contre soi" "you^àniqou" "")
  ("serviette" "minchafa(t)" "")
  ("serviteur" "khadim" "19")
@@ -741,7 +743,7 @@
  ("tourner" "dàra, yadoùrou" "43")
  ("tous" "jamì^" "")
  ("train" "qiTàr" "33")
- ("trajet / voyage" "safrat" "27")
+ ("trajet / voyage" "safra(t)" "27")
  ("travail" "^amal" "")
  ("travailler" "^amila, ya^malou" "")
  ("très" "jiddan" "18")
@@ -768,11 +770,11 @@
  ("viande" "laHm" "30")
  ("vide" "fàrigh" "41")
  ("vieux" "mousinn" "")
- ("village" "qaryat" "33")
- ("ville" "madìnat" "16")
+ ("village" "qarya(t)" "33")
+ ("ville" "madìna(t)" "16")
  ("vingt" "ichroùn" "")
  ("visage" "wajh" "")
- ("visite" "ziyàrat" "22")
+ ("visite" "ziyàra(t)" "22")
  ("visiter" "zàra, yazoùrou" "36")
  ("vite" "sarì^" "")
  ("vitrine" "wàjiha(t)" "41")
@@ -1632,6 +1634,7 @@
 
 
 ("Expressions"
+ "il est à l'heure"
  "vous êtez le (la) bienvenue")
 
 
@@ -1923,7 +1926,7 @@
  "pas"
  "brisé"
  "chocolat"
- "patisserie"
+ "patisserie (magasin)"
  "pharmacie"
  "médicament"
  "bijouterie"
@@ -2015,7 +2018,8 @@
 
 
 ("Rosetta 2.2"
-)
+ "cahier"
+ "dictionnaire")
 
 
 ;;;
@@ -2087,8 +2091,237 @@
 
 
 ("<Review>"
+ "pluvieux"
+ "fête"
+ "mesure"
+ "public / général"
+ "saison"
+ "ingénierie"
+ "nuageux"
+ "animal"
+ "appeler"
+ "visiter"
+ "mademoiselle"
+ "draps"
+ "attendre"
+ "vieux"
+ "arrêt d'autobus"
+ "alors"
+ "besoin"
+ "cahier"
+ "fruits"
+ "appartement"
+ "bien!"
+ "dimanche"
+ "jeune marié / jeune mariée"
+ "oublier"
+ "maintenant"
+ "pas du tout / jamais"
+ "prix"
+ "réveiller"
+ "prendre"
+ "paysan"
+ "parfaitement"
+ "couverture"
+ "plage"
+ "début"
+ "rue"
+ "en quête de"
+ "derrière"
+ "musée"
+ "coûteux / cher"
+ "ensemble (personnes)"
+ "se réveiller"
+ "acheter"
+ "pâtisserie, friandise"
+ "ouvert"
+ "tourner"
+ "rester"
+ "petit"
+ "couter"
+ "y a t'il"
+ "certains"
+ "inscription"
+ "climat"
+ "chaque"
+ "équipement"
+ "doigt"
+ "se lever"
+ "descendre"
+ "peut-être, il se peut que, déjà"
+ "théatre"
+ "pouvoir"
+ "revenir / retourner"
+ "joie"
+ "trajet / voyage"
+ "quelques-uns"
+ "vouloir"
+ "siège"
+ "journal"
+ "dormir"
+ "tissu"
+ "par exemple"
+ "étranger"
+ "mariage"
+ "avoir faim"
+ "quand à... eh bien"
+ "bon marché"
+ "prendre un repas"
+ "dictionnaire"
+ "dépense"
+ "plein de"
+ "similaire"
+ "fin"
+ "savoir"
+ "chevauche (?) (un autobus, un train, ...)"
+ "carte de crédit"
+ "remplir"
+ "répliquer / répondre"
+ "chaise"
+ "tourne"
+ "faire"
+ "avion"
+ "bravo"
+ "travailler"
+ "mauvais"
+ "revue"
+ "essence"
+ "type"
+ "arriver"
+ "regarder"
+ "léger"
+ "sont"
+ "préféré"
+ "gauche"
+ "elle est trouvée"
+ "glacé"
+ "vivre (en quelque part)"
+ "erreur"
+ "auprès"
+ "mer"
+ "attente"
+ "donner"
+ "sortir"
+ "être debout"
+ "lit (une carte, ...)"
+ "il semble que"
+ "jouer"
+ "monter en selle, en voiture, ..."
+ "propre"
+ "milieu"
+ "histoire (domaine)"
+ "université"
+ "matière"
+ "ouvrir"
+ "pluie"
+ "comprendre"
+ "retardé"
+ "avoir besoin"
+ "commerce (le)"
+ "posséder"
+ "perte (poisse)"
+ "ou (interrogative)"
+ "compatible"
+ "sec"
+ "étude"
+ "pourquoi pas"
+ "accompagner"
+ "porte-monnaie"
+ "rencontrer"
+ "abondant"
+ "valise"
+ "lequel"
+ "parapluie"
+ "ligne, rangée"
+ "parce que"
+ "ensoleillé"
+ "visage"
+ "forêt"
+ "tous"
+ "minute"
+ "métal"
+ "aussitôt / immédiatement"
+ "panier"
+ "place"
+ "cher"
+ "ainsi"
+ "payer"
+ "une, l'une"
+ "un"
+ "examiner"
+ "sans"
+ "lac"
+ "aéroport"
+ "rivage"
+ "jusque"
+ "mosquée principale"
+ "cravate"
+ "fermé"
+ "où ..."
+ "aimer"
+ "excusez-moi"
+ "différent"
+ "cause / raison / motif"
+ "voir"
+ "long, grand"
+ "je vais vers"
+ "glace"
+ "merci (reconnaissant) "
+ "faire, confectionner, travailler"
+ "capitale"
+ "distance"
+ "maître"
+ "nom"
+ "zéro"
+ "connaître"
+ "fait de"
+ "allant"
+ "poète"
+ "venir"
+ "d'habitude"
+ "cadeau"
+ "se réjouir"
+ "comme + verbe"
+ "vide"
+ "carte"
+ "pièce (de monnaie)"
+ "vendeurs"
+ "ceux"
+ "achat"
+ "être malade / tomber malade"
+ "mathématiques"
+ "obtention"
+ "odeur"
+ "oreiller"
+ "il est à l'heure"
+ "diplôme"
+ "activité"
+ "centre"
+ "un ensemble, totalité, multitude"
+ "droite"
+ "passeport"
+ "autre"
+ "moitié"
+ "sentir (se)"
+ "quitter"
+ "vitrine"
+ "vous deux (pronom affixe)"
+ "une autre"
  "écouter (quelque chose)"
- "doigt")
+ "quart"
+ "temps (climat)"
+ "premier"
+ "gouter"
+ "demander"
+ "toilettes"
+ "monnaie"
+ "moi seul"
+ "particulier, spécial"
+ "vendre"
+ "préocupation, souci"
+ "quelle"
+ "étudiant"
+ "libre")
 
 
 ;;;
@@ -2098,81 +2331,3 @@
 
 ("<Session>"
 )
-
-
-;;;
-;;;; <Rosetta>
-;;;
-
-
-("<Rosetta>"
- "chevauche (?) (un autobus, un train, ...)"
- "carte"
- "vieux"
- "ticket"
- "tous"
- "brisé"
- "mouillé"
- "fait de"
- "pharmacie"
- "carte de crédit"
- "fermé"
- "pas"
- "arrêt d'autobus"
- "couverture"
- "draps"
- "laquelle"
- "différent"
- "tourne"
- "exagéré"
- "siège"
- "cher"
- "toilettes"
- "certains"
- "comptant (payer)"
- "prix"
- "réveiller"
- "lequel"
- "théatre"
- "essence"
- "quelques-uns"
- "lourd"
- "se réveiller"
- "pourquoi pas"
- "doigt"
- "quincaillerie"
- "parapluie"
- "concert"
- "pâte à dents"
- "propre"
- "auprès"
- "premier"
- "ligne, rangée"
- "ouvert"
- "similaire"
- "métro"
- "station d'essence"
- "dimanche"
- "vendre"
- "doigt de pied"
- "oreiller"
- "prendre un repas"
- "chèque"
- "taxi"
- "bonne nuit"
- "monnaie"
- "monter en selle, en voiture, ..."
- "équipement"
- "lent"
- "à côté de"
- "mesure"
- "pièce (de monnaie)"
- "gouter"
- "léger"
- "musée"
- "derrière"
- "je vais vers"
- "nuage"
- "ceux"
- "journal"
- "vivre (en quelque part)")
