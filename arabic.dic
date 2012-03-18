@@ -1,4 +1,4 @@
-;;;
+﻿;;;
 ;;;; Arabic
 ;;;
 
@@ -93,7 +93,7 @@
  ("avion" "Tà'ira(t)" "")
  ("avoir besoin" "iHtàja, yaHtàjou" "")
  ("avoir faim" "jà^a, yajoù^ou" "")
- ("b" "ba" "1")
+ ("b" "bà" "1")
  ("bain / salle de bain / toilettes" "Hammàm" "26")
  ("balle, ballon" "koura(t), à(t)" "")
  ("banque" "bank" "")
@@ -105,7 +105,6 @@
  ("besoin" "Hàja(t)" "33")
  ("bibliothèque" "maktaba(t)" "")
  ("bicyclette" "darràja(t), à(t)" "")
- ("bien" "assanti" "?")
  ("bien!" "Hasanan" "30")
  ("bienvenue (à)" "ahlan (bi-)" "31")
  ("bienvenue / bonjour" "marHaban" "16")
@@ -153,7 +152,7 @@
  ("certes" "inna" "22")
  ("cette / celle-ci" "hadhihi" "27")
  ("ceux" "ha'oulà'i" "")
- ("ch" "chin" "17")
+ ("ch" "chìn" "17")
  ("chaire (à prêcher)" "minbar" "40")
  ("chaise" "koursiyy, karàs" "")
  ("chambre à coucher" "ghourfatou al'naoumi" "")
@@ -210,8 +209,8 @@
  ("cravate" "rabTatou ^ounouqin" "")
  ("cuisine" "maTbakh" "")
  ("cuisiner" "Tabakha, yaTboukhou" "")
- ("D" "Dad" "23")
- ("d" "dal" "3")
+ ("D" "Dàd" "23")
+ ("d" "dàl" "3")
  ("d'habitude" "^àdatan" "38")
  ("dans" "fì" "5")
  ("de" "min ; ^an" "12")
@@ -235,7 +234,7 @@
  ("deuxième" "thànin" "")
  ("devant" "amàma" "41")
  ("devoir" "wàjib" "")
- ("dh" "dhal" "10")
+ ("dh" "dhàl" "10")
  ("dictée" "imlà'" "")
  ("dictionnaire" "qàmoùs" "")
  ("dieu" "allah" "17")
@@ -279,7 +278,7 @@
  ("énorme" "Dakhm" "37")
  ("enseignant" "mou^allim" "")
  ("enseigner" "darrasa, youdarrisou" "33")
- ("ensemble (personnes)" "ma^an" "41")
+ ("ensemble (plusieurs)" "ma^an" "41")
  ("ensoleillé" "mouchmis" "")
  ("entre" "bayna" "29")
  ("entreprise" "charika(t)" "38")
@@ -310,7 +309,7 @@
  ("excusez-moi" "ou^dhournì" "43")
  ("exemple" "mathal" "")
  ("expert" "khabìr" "18")
- ("f" "fa" "5")
+ ("f" "fà" "5")
  ("faire" "fa^ala, yaf^alou" "36")
  ("faire, confectionner, travailler" "^amila, ya^malou" "33")
  ("fait de" "maSnoù^" "")
@@ -354,8 +353,8 @@
  ("grand" "kabìr" "22")
  ("grand-père" "jadd" "11")
  ("gris" "ramàdiyya(t)" "")
- ("H" "Ha" "16")
- ("h" "ha" "11")
+ ("H" "Hà" "16")
+ ("h" "hà" "11")
  ("habiter" "sakana, yaskounou" "")
  ("herbe" "^ouchb" "")
  ("heure" "sà^a(t)" "")
@@ -367,7 +366,6 @@
  ("hiver" "chità'" "")
  ("homme" "rajoul, rijàl" "4")
  ("hopital" "moustachfan" "")
- ("horloge" "sà'a" "?")
  ("hotel" "foundouq, fanàdiq" "23")
  ("huit" "thamàniya" "")
  ("ici" "hounà" "17")
@@ -378,7 +376,7 @@
  ("intelligent" "dhakiyy" "38")
  ("invité" "Dayf, Douyoùf" "36")
  ("islamique" "islàmiyy" "40")
- ("j" "jim" "2")
+ ("j" "jìm" "2")
  ("jardin" "boustàn" "13")
  ("jaune" "aSfar, Safrà', Soufrou" "")
  ("je t'en prie" "tafaDDal" "31")
@@ -399,9 +397,9 @@
  ("jupe" "tannoùra(t), à(t)" "")
  ("jus" "^aSìr" "")
  ("jusque" "Hattà" "41")
- ("k" "kaf" "1")
- ("kh" "kha" "3")
- ("l" "lam" "2")
+ ("k" "kàf" "1")
+ ("kh" "khà" "3")
+ ("l" "làm" "2")
  ("là" "hounàka" "23")
  ("la place" "makàna" "39")
  ("la plus grande" "koubrà" "41")
@@ -438,7 +436,7 @@
  ("lune" "qamar" "")
  ("lunettes" "naZZàrà(t)" "")
  ("lunettes de soleil" "naZZàràt chamsìya(t)" "")
- ("m" "mim" "4")
+ ("m" "mìm" "4")
  ("mademoiselle" "ànisatì" "38")
  ("main" "yad, aydin" "19")
  ("maintenant" "al'àn" "")
@@ -469,7 +467,6 @@
  ("métropole" "misr" "19")
  ("midi" "Zouhr" "24")
  ("milieu" "wasaT" "13")
- ("min s'écrit au début du mot ..." "mim touktab al-walil al-kalima ..." "")
  ("minute" "daqìqa(t)" "")
  ("moi" "anà" "9")
  ("moi seul" "waHdì" "37")
@@ -487,7 +484,8 @@
  ("mouillé" "moubtall" "")
  ("mur" "jidar" "?")
  ("musée" "moutHaf" "")
- ("n" "noun" "8")
+ ("mìm s'écrit au début du mot ..." "mìm touktab al-walil al-kalima ..." "")
+ ("n" "noùn" "8")
  ("nager" "sabaHa, yasbaHou" "")
  ("naissance" "mìlàd" "36")
  ("ne pas" "mà" "12")
@@ -585,9 +583,8 @@
  ("policier" "chourTiyy" "")
  ("pomme" "touffàHa(t)" "")
  ("pont" "jisr, jousoùr" "")
- ("porte" "bàb" "")
+ ("porte" "bàb, abwàb" "")
  ("porte-monnaie" "miHfaZatou an-nouqoùdi" "41")
- ("portes" "abwàb" "")
  ("posséder" "malaka, yamlikou" "38")
  ("poulet / volaille" "dajàj" "30")
  ("pour lui" "lahou" "20")
@@ -613,7 +610,7 @@
  ("propre" "naZìf" "")
  ("public / général" "^àmm" "26")
  ("puis" "thoumma" "15")
- ("q" "qaf" "9")
+ ("q" "qàf" "9")
  ("qu'elle heure est-il" "kam al'sà^ati al'àn" "")
  ("quand" "matà" "24")
  ("quand à... eh bien" "ammà... fa-" "20")
@@ -628,7 +625,7 @@
  ("quitter" "ghàdara, youghàdirou" "")
  ("quoi / qu'es-ce que" "mà" "4")
  ("quoi?" "màdhà" "32")
- ("r" "ra" "3")
+ ("r" "rà" "3")
  ("radio" "ràdiou" "")
  ("ragoût" "tàjin" "30")
  ("rassasié" "chab^an" "")
@@ -659,8 +656,8 @@
  ("rose" "ouardiyy" "")
  ("rouge" "aHmar, Hamrà'" "")
  ("rue" "chàri^, chawari^ou (diptote)" "31")
- ("S" "Sad" "19")
- ("s" "sin" "2")
+ ("S" "Sàd" "19")
+ ("s" "sìn" "2")
  ("sac" "kìs, akyàs" "41")
  ("saison" "faSl" "")
  ("salade" "salaTa(t)" "32")
@@ -714,8 +711,8 @@
  ("sur" "^alà" "19")
  ("syllabe" "maqta" "")
  ("s’assoir" "jalasa, yajlisou" "2")
- ("T" "Ta" "13")
- ("t" "ta" "1")
+ ("T" "Tà" "13")
+ ("t" "tà" "1")
  ("table" "mà’ida(t)" "19")
  ("tasse" "koùb" "")
  ("taxi" "sayyàratou oujara(t)" "")
@@ -726,7 +723,7 @@
  ("tennis" "kouratou al'maDribi" "")
  ("terme (d'âge)" "akhir" "39")
  ("texte" "naSS" "")
- ("th" "tha" "15")
+ ("th" "thà" "15")
  ("thé" "chàyy" "")
  ("théatre" "masraH" "")
  ("ticket" "tadhkira(t)" "")
@@ -792,28 +789,23 @@
  ("voyage" "safar" "26")
  ("voyageur" "mousàfir" "26")
  ("vrai" "SaHìH" "")
- ("w / ou" "wow" "2")
- ("y" "ya" "5")
+ ("w / ou" "wàw" "2")
+ ("y" "yà" "5")
  ("y a t'il" "hal hounàka" "23")
- ("Z" "Za" "24")
- ("z" "za" "20")
+ ("Z" "Zà" "24")
+ ("z" "zà" "20")
  ("zéro" "sifr" ""))
 
 
 ;;;
-;;;; Cours
+;;;; Personal
 ;;;
 
 
-("Cours"
- "papa"
- "maman"
+("Personal"
  "présent"
- "porte"
- "portes"
- "mot"
  "on l'écrit"
- "min s'écrit au début du mot ..."
+ "mìm s'écrit au début du mot ..."
  "c'est quoi"
  "se prononce"
  "hibou"
@@ -824,14 +816,11 @@
  "question"
  "vive"
  "oui (bien)"
- "alors"
  "ours"
  "accent"
  "vers de terre"
  "sang"
- "médicament"
  "devoir"
- "bien"
  "exemple"
  "dessus"
  "dessous"
@@ -848,36 +837,20 @@
  "histoire"
  "texte"
  "dictée"
- "comme + verbe"
  "classe"
  "mur"
- "horloge"
  "ligne"
- "premier"
  "deuxième"
  "troisième"
  "dernier"
  "première ligne"
- "fin"
- "jour"
- "personne"
  "seau"
  "soleil"
  "lune"
- "chaise"
  "tour"
  "à mon tour"
  "continu"
- "nuit"
- "citron")
-
-
-;;;
-;;;; Personal
-;;;
-
-
-("Personal"
+ "citron"
  "se lever"
  "remplir"
  "dormir"
@@ -888,34 +861,13 @@
  "école"
  "temps (climat)"
  "finir"
- "mathématiques")
-
-
-;;;
-;;;; Assimil
-;;;
-
-
-("Assimil"
- "zéro"
- "vingt"
- "un"
- "trois"
- "sept"
- "quatre"
- "neuf"
- "huit"
- "dix"
- "deux"
- "cinq"
- "accent wasla"
- "accent tanwin"
- "accent soukoun"
- "accent ou"
- "accent i"
- "accent hamza"
- "accent chadda"
- "accent a")
+ "rassasié"
+ "affamé"
+ "erreur"
+ "vrai"
+ "fin"
+ "début"
+ "ordinateur")
 
 
 ;;;
@@ -1017,6 +969,7 @@
  "frère / ami"
  "mère"
  "hier"
+ "jour"
  "jour, aujourd'hui"
  "boutique"
  "expert"
@@ -1213,6 +1166,7 @@
  "plein de"
  "paysan"
  "panier"
+ "papa"
  "maman"
  "repas, plat, met"
  "préféré")
@@ -1225,7 +1179,7 @@
 
 ("Assimil 36-42"
  "donner"
- "ensemble (personnes)"
+ "ensemble (plusieurs)"
  "histoire (domaine)"
  "lointain, loin (de)"
  "faire"
@@ -1464,21 +1418,12 @@
 
 
 ;;;
-;;;; Conjugation
-;;;
-
-
-("Conjugation"
-)
-
-
-;;;
 ;;;; Prepositions
 ;;;
 
 
 ("Prepositions"
- "ensemble (personnes)"
+ "ensemble (plusieurs)"
  "et"
  "quoi / qu'es-ce que"
  "dans"
@@ -1636,35 +1581,6 @@
 ("Expressions"
  "il est à l'heure"
  "vous êtez le (la) bienvenue")
-
-
-;;;
-;;;; Couleurs
-;;;
-
-
-("Couleurs"
- "jaune"
- "bleu"
- "vert"
- "noir"
- "rouge"
- "blanc")
-
-
-;;;
-;;;; Naim
-;;;
-
-
-("Naim"
- "rassasié"
- "affamé"
- "erreur"
- "vrai"
- "fin"
- "début"
- "ordinateur")
 
 
 ;;;
@@ -2077,15 +1993,6 @@
 
 
 ;;;
-;;;; <Questions>
-;;;
-
-
-("<Questions>"
-)
-
-
-;;;
 ;;;; <Review>
 ;;;
 
@@ -2130,7 +2037,7 @@
  "derrière"
  "musée"
  "coûteux / cher"
- "ensemble (personnes)"
+ "ensemble (plusieurs)"
  "se réveiller"
  "acheter"
  "pâtisserie, friandise"
