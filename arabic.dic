@@ -25,12 +25,9 @@
  ("à / pour" "li" "10")
  ("à côté de" "bijànibi" "")
  ("à l'occasion de" "bi-mounàsabati" "33")
- ("à la fin du mot, attaché" "arril al-kalima mowsoul" "?")
- ("à la fin du mot, detaché" "arril al-kalima mafsoul" "?")
  ("à mon tour" "bi-dawrì" "")
  ("abondant" "jazìlan" "43")
  ("abondant / nombreux" "kathìr" "26")
- ("accent" "techqil" "?")
  ("accent a" "fatha" "")
  ("accent chadda" "chadda" "")
  ("accent hamza" "hamza" "")
@@ -75,9 +72,6 @@
  ("assoiffé" "^aTchànou" "29")
  ("attendre" "intaZara, yantaZirou" "")
  ("attente" "intiZàr" "34")
- ("au début de la syllabe" "awwal al-maqta" "")
- ("au début du mot" "awwal al-kalima" "?")
- ("au milieu du mot" "binous al-kalima" "?")
  ("au revoir" "wadà^an" "")
  ("aujourd'hui" "al'yaouma" "")
  ("auprès" "ladà" "")
@@ -133,7 +127,6 @@
  ("brun" "bounniya(t)" "")
  ("bureau" "maktab" "8")
  ("bureau de poste" "maktabou barìdin" "")
- ("c'est quoi" "chou yani" "?")
  ("c'est vrai" "SaHìH" "38")
  ("cadeau" "hadiyya(t)" "36")
  ("café (boisson)" "qahwa" "29")
@@ -166,7 +159,6 @@
  ("chèque" "chìkàt" "")
  ("cher" "ghàlì, ghàlyat" "")
  ("cheval" "jawàd, jiwàd" "")
- ("chevauche (?) (un autobus, un train, ...)" "yastaqillou" "")
  ("cheveux" "cha^r" "")
  ("chez / auprès de / selon / au moment ou" "^inda" "23")
  ("chien" "kalb" "15")
@@ -176,13 +168,13 @@
  ("ciel" "samà'" "")
  ("cinq" "khamsa" "")
  ("citron" "laymoùn" "")
- ("classe" "souf" "?")
+ ("classe" "Saff, Soufoùf" "")
  ("clef" "miftàH, mafàtìH" "")
  ("client" "zaboùn" "30")
  ("climat" "jaouou" "")
  ("climatisation" "takyìfou al-hawà'i" "25")
  ("coeur" "qalb, qouloùb" "34")
- ("combien de ?" "kam (+ nom singulier + -an)" "31")
+ ("combien de" "kam (+ nom singulier + -an)" "31")
  ("comme + nom" "ka- + nom au cas indirect" "32")
  ("comme + pronom" "mithla + pronom" "32")
  ("comme + verbe" "kamà" "39")
@@ -197,7 +189,6 @@
  ("conduire" "qàda, yaqoùdou" "")
  ("connaître" "^arafa, ya^rifou" "31")
  ("contemplation" "tafarrouj" "40")
- ("continu" "kefi" "")
  ("corne de gazelle" "ka^bou ghazàlin" "32")
  ("couleur" "laoun, alwàn" "")
  ("courrier / poste" "barìd" "19")
@@ -231,7 +222,6 @@
  ("dessous" "taHta" "")
  ("dessus" "faouqa" "")
  ("deux" "ithnàn" "")
- ("deuxième" "thànin" "")
  ("devant" "amàma" "41")
  ("devoir" "wàjib" "")
  ("dh" "dhàl" "10")
@@ -250,7 +240,6 @@
  ("doigt de pied" "aSàbi^ou al-qadami" "")
  ("donne-moi" "^aTinì" "30")
  ("donner" "a^Tà, you^Tì" "36")
- ("donnez moi" "aToùni" "")
  ("dormir" "nàma, yanàmou" "")
  ("draps" "milà'a(t)" "")
  ("droit (juridique)" "Haqq, Houqoùq" "33")
@@ -328,7 +317,7 @@
  ("film" "fìlm" "")
  ("fin" "nihàya(t)" "32")
  ("fini" "khalas" "")
- ("finir" "anhà younhì" "")
+ ("finir (achever)" "anhà younhì" "")
  ("fleur" "zahra(t), zouhoùr" "")
  ("forêt" "ghàba(t)" "")
  ("frais / tendre" "Tariyy" "30")
@@ -419,7 +408,6 @@
  ("lettre d'un mot" "Harf" "")
  ("leurs" "-houm" "26")
  ("libre" "hourr" "")
- ("ligne" "satir" "?")
  ("ligne, rangée" "Saff" "")
  ("lire" "qara'a, yaqra'ou" "")
  ("liste / carte de restaurant" "qà'imat, qawà'imou" "32")
@@ -482,9 +470,8 @@
  ("mosquée principale" "jàmi^, jawàmi^" "40")
  ("mot" "kalima(t)" "39")
  ("mouillé" "moubtall" "")
- ("mur" "jidar" "?")
+ ("mur" "jidàr" "")
  ("musée" "moutHaf" "")
- ("mìm s'écrit au début du mot ..." "mìm touktab al-walil al-kalima ..." "")
  ("n" "noùn" "8")
  ("nager" "sabaHa, yasbaHou" "")
  ("naissance" "mìlàd" "36")
@@ -523,7 +510,7 @@
  ("où ..." "Haythou" "41")
  ("oublier" "nasiya, yansà" "43")
  ("oui" "na^am" "18")
- ("oui (bien)" "aiwa" "?")
+ ("oui (bien)" "aiwa" "")
  ("ours" "doubb" "")
  ("ouvert" "maftoùH" "")
  ("ouvrir" "fataHa, yaftaHou" "")
@@ -575,7 +562,7 @@
  ("plage" "chàTì'" "")
  ("plastique" "blàstìk" "")
  ("plein de" "Hàfil (bi-)" "34")
- ("pluie" "satoumTar (?)" "")
+ ("pluie" "maTar" "")
  ("pluvieux" "moumTar" "")
  ("poète" "chà^ir" "37")
  ("poisson" "samaka(t)" "30")
@@ -596,8 +583,8 @@
  ("précieux" "nafìs" "20")
  ("préféré" "moufaDDal" "34")
  ("premier" "awwal" "")
- ("première ligne" "awwal satir" "")
  ("prendre" "akhadha, ya'khoudhou" "10")
+ ("prendre un autobus, un train, ..." "yastaqillou" "")
  ("prendre un repas" "yatanàwalou" "")
  ("préocupation, souci" "hamm" "40")
  ("près de" "qarìban min" "26")
@@ -619,12 +606,12 @@
  ("quatre" "arba'a" "")
  ("quelle" "ayya(t)" "38")
  ("quelques-uns" "biD^" "")
- ("question" "soù'al" "")
+ ("question" "sou'àl, as'ila(t)" "")
  ("qui" "man" "8")
  ("quincaillerie" "maHallou mou^addàtin" "")
  ("quitter" "ghàdara, youghàdirou" "")
+ ("quoi" "màdhà" "32")
  ("quoi / qu'es-ce que" "mà" "4")
- ("quoi?" "màdhà" "32")
  ("r" "rà" "3")
  ("radio" "ràdiou" "")
  ("ragoût" "tàjin" "30")
@@ -728,7 +715,6 @@
  ("théatre" "masraH" "")
  ("ticket" "tadhkira(t)" "")
  ("tissu" "mansoùj, mansoùjàt" "41")
- ("titre" "nouan" "?")
  ("toi (féminin)" "anti" "13")
  ("toi (masculin)" "anta" "10")
  ("toilette" "mirHàD" "")
@@ -745,7 +731,6 @@
  ("travailler" "^amila, ya^malou" "")
  ("très" "jiddan" "18")
  ("trois" "thalàtha" "")
- ("troisième" "thàlith" "")
  ("trouver" "wajada, yajidou" "6")
  ("type" "naou^" "39")
  ("un" "wàhid" "")
@@ -756,7 +741,7 @@
  ("université" "jàmi^a(t)" "38")
  ("valise" "Haqìba(t), Haqìbati al'malàbisi" "")
  ("venant" "qàdim" "26")
- ("vendeurs" "bà'i^" "43")
+ ("vendeur" "bà'i^, oùna" "43")
  ("vendre" "bà^a, yabì^ou" "")
  ("vendredi" "yaouma al-joumou^a" "")
  ("venir" "jà'a, yajì'ou" "38")
@@ -805,62 +790,44 @@
 ("Personal"
  "présent"
  "on l'écrit"
- "mìm s'écrit au début du mot ..."
- "c'est quoi"
  "se prononce"
  "hibou"
  "page"
  "phrase"
- "donnez moi"
  "syllabe"
  "question"
  "vive"
  "oui (bien)"
  "ours"
- "accent"
  "vers de terre"
  "sang"
  "devoir"
  "exemple"
  "dessus"
  "dessous"
- "au début du mot"
- "au milieu du mot"
- "à la fin du mot, attaché"
- "à la fin du mot, detaché"
- "au début de la syllabe"
  "lettre d'un mot"
  "fini"
  "long, grand"
- "titre"
  "poussin"
  "histoire"
  "texte"
  "dictée"
  "classe"
  "mur"
- "ligne"
- "deuxième"
- "troisième"
  "dernier"
- "première ligne"
  "seau"
  "soleil"
  "lune"
  "tour"
  "à mon tour"
- "continu"
  "citron"
  "se lever"
  "remplir"
  "dormir"
  "appeler"
- "avoir faim"
- "aimer"
  "libre"
- "école"
  "temps (climat)"
- "finir"
+ "finir (achever)"
  "rassasié"
  "affamé"
  "erreur"
@@ -1114,7 +1081,7 @@
  "ami"
  "garçon de restaurant"
  "bienvenue (à)"
- "combien de ?"
+ "combien de"
  "six"
  "personne"
  "je vous en prie"
@@ -1125,7 +1092,7 @@
  "jeune homme / jeunes gens"
  "liste / carte de restaurant"
  "un ensemble, totalité, multitude"
- "quoi?"
+ "quoi"
  "avant"
  "salade"
  "fin"
@@ -1300,7 +1267,7 @@
 
 
 ("Assimil 43-49"
- "vendeurs"
+ "vendeur"
  "tourner"
  "parler"
  "revue"
@@ -1478,11 +1445,11 @@
 
 
 ;;;
-;;;; Numbers
+;;;; ~Numbers
 ;;;
 
 
-("Numbers"
+("~Numbers"
  "_20"
  "_10"
  "9"
@@ -1521,11 +1488,11 @@
 
 
 ;;;
-;;;; Letters
+;;;; ~Letters
 ;;;
 
 
-("Letters"
+("~Letters"
  "&"
  "'"
  "a / à"
@@ -1558,11 +1525,11 @@
 
 
 ;;;
-;;;; Accents
+;;;; ~Accents
 ;;;
 
 
-("Accents"
+("~Accents"
  "accent a"
  "accent i"
  "accent ou"
@@ -1581,15 +1548,6 @@
 ("Expressions"
  "il est à l'heure"
  "vous êtez le (la) bienvenue")
-
-
-;;;
-;;;; Rosetta
-;;;
-
-
-("Rosetta"
- "savoir")
 
 
 ;;;
@@ -1903,7 +1861,7 @@
  "monter en selle, en voiture, ..."
  "arrêt d'autobus"
  "siège"
- "chevauche (?) (un autobus, un train, ...)"
+ "prendre un autobus, un train, ..."
  "taxi"
  "autobus"
  "métro"
@@ -2080,7 +2038,7 @@
  "similaire"
  "fin"
  "savoir"
- "chevauche (?) (un autobus, un train, ...)"
+ "prendre un autobus, un train, ..."
  "carte de crédit"
  "remplir"
  "répliquer / répondre"
@@ -2192,7 +2150,7 @@
  "vide"
  "carte"
  "pièce (de monnaie)"
- "vendeurs"
+ "vendeur"
  "ceux"
  "achat"
  "être malade / tomber malade"
