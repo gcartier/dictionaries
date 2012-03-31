@@ -162,6 +162,7 @@
  ("chemise" "qamìS" "")
  ("chèque" "chìkàt" "")
  ("cher" "ghàlì, ghàlyat" "")
+ ("chercher" "baHatha, yabHathou ^an" "")
  ("cheval" "jawàd, jiwàd" "")
  ("cheveux" "cha^r" "")
  ("chez / auprès de / selon / au moment ou" "^inda" "23")
@@ -178,6 +179,7 @@
  ("climat" "jaouou" "")
  ("climatisation" "takyìfou al-hawà'i" "25")
  ("coeur" "qalb, qouloùb" "34")
+ ("collège" "koullìa(t)" "")
  ("combien de" "kam (+ nom singulier + -an)" "31")
  ("comme + nom" "ka- + nom au cas indirect" "32")
  ("comme + pronom" "mithla + pronom" "32")
@@ -239,6 +241,7 @@
  ("diner" "ghadà'" "")
  ("diplôme" "chahàda(t)" "38")
  ("dire" "qàla, yaqoùlou" "9")
+ ("directeur" "moudìra(t)" "")
  ("distance" "masàfa(t)" "")
  ("dix" "^achra" "")
  ("doigt" "iSba^, aSàbi^" "")
@@ -255,6 +258,7 @@
  ("eau" "mà'" "30")
  ("échelle" "soullam" "")
  ("école" "madrasa(t)" "")
+ ("école primaire" "madrasatou ibtida'iyyatou" "")
  ("écouter (quelque chose)" "istama^a, yastami^ou ilà" "")
  ("écrire" "kataba, yaktoubou" "1")
  ("écrivain" "kàtib" "1")
@@ -266,6 +270,7 @@
  ("elle va vers l'avant" "tadhhabou bittijàhi al'amàma" "")
  ("embrasser" "qabbila, youqabbilou" "")
  ("emplettes" "tasawwouq" "18")
+ ("employé" "mouwaZZaf" "")
  ("en quête de" "baHthan ^an" "36")
  ("endroit" "makàn, amàkin" "27")
  ("enfant" "Tifla(t), aTfàl, ibn" "")
@@ -306,7 +311,6 @@
  ("expert" "khabìr" "18")
  ("f" "fà" "5")
  ("faire" "fa^ala, yaf^alou" "36")
- ("faire, confectionner, travailler" "^amila, ya^malou" "33")
  ("fait de" "maSnoù^" "")
  ("fait de manger" "akl" "32")
  ("famille" "ahl, ^à'ila(t)" "33")
@@ -411,7 +415,7 @@
  ("lent" "baTì'" "")
  ("lequel" "alladhì" "")
  ("les fleurs" "azhàr" "36")
- ("lettre" "risàla(t)" "19")
+ ("lettre" "risàla(t), rasà'il" "19")
  ("lettre d'un mot" "Harf" "")
  ("leurs" "-houm" "26")
  ("libre" "hourr" "")
@@ -431,6 +435,7 @@
  ("lune" "qamar" "")
  ("lunettes" "naZZàrà(t)" "")
  ("lunettes de soleil" "naZZàràt chamsìya(t)" "")
+ ("lycée" "madrasatou thànaouyyatou" "")
  ("m" "mìm" "4")
  ("mademoiselle" "ànisatì" "38")
  ("main" "yad, aydin" "19")
@@ -452,6 +457,7 @@
  ("mauve" "banafsajiyya(t)" "")
  ("medecin" "Tabìb" "")
  ("médicament" "dawà'" "")
+ ("même" "nafs + pronom" "")
  ("mer" "baHr" "39")
  ("merci" "choukran" "17")
  ("merci (reconnaissant) " "mamnoùn" "43")
@@ -468,7 +474,7 @@
  ("mois" "chahr, chouhoùr" "33")
  ("moitié" "niSf" "")
  ("mon / ma / mes (masculin)" "-ì" "13")
- ("monnaie" "^oumlàt" "")
+ ("monnaie" "^oumlà(t)" "")
  ("monsieur / madame" "sayyidì / sayyidatì" "30")
  ("montagne" "jabal, jibàl" "")
  ("monter en selle, en voiture, ..." "rakiba, yarkabou" "34")
@@ -566,7 +572,7 @@
  ("pièce" "ghourfa(t)" "")
  ("pièce (de monnaie)" "qiT^a(t)" "")
  ("pied" "qadam" "")
- ("place" "sàHat" "43")
+ ("place" "sàHa(t)" "43")
  ("plage" "chàTì'" "")
  ("plastique" "blàstìk" "")
  ("plein de" "Hàfil (bi-)" "34")
@@ -607,7 +613,8 @@
  ("puis" "thoumma" "15")
  ("q" "qàf" "9")
  ("qu'elle heure est-il" "kam al'sà^ati al'àn" "")
- ("quand" "matà" "24")
+ ("quand" "^indamà" "")
+ ("quand (interrogatif)" "matà" "24")
  ("quand à... eh bien" "ammà... fa-" "20")
  ("quart" "roubou^ou" "")
  ("quartier" "Hayy" "27")
@@ -654,6 +661,7 @@
  ("rue" "chàri^, chawari^ou (diptote)" "31")
  ("S" "Sàd" "19")
  ("s" "sìn" "2")
+ ("s'il vous plait (?)" "rajà'an" "")
  ("sac" "kìs, akyàs" "41")
  ("saison" "faSl" "")
  ("salade" "salaTa(t)" "32")
@@ -669,7 +677,7 @@
  ("sang" "dam" "")
  ("sans" "bilà" "39")
  ("sauf" "illà" "38")
- ("savoir" "^arafa ya^rifou, ^alima ya^lamou" "31")
+ ("savoir" "^alima ya^lamou" "31")
  ("savon" "Sàboùn" "")
  ("sciences" "^ouloùm" "")
  ("se lever" "nahaDa, yanhaDou" "")
@@ -746,12 +754,13 @@
  ("trois" "thalàtha" "")
  ("trouver" "wajada, yajidou" "6")
  ("type" "naou^" "39")
- ("un" "wàhid" "")
+ ("un" "wàHid" "")
  ("un ensemble, totalité, multitude" "jamì^" "32")
  ("un jour quelconque" "yaouman mà" "38")
  ("une autre" "oukhrà" "39")
  ("une, l'une" "iHdà" "36")
  ("université" "jàmi^a(t)" "38")
+ ("usine" "maSna^" "")
  ("valise" "Haqìba(t), Haqìbati al'malàbisi" "")
  ("venant" "qàdim" "26")
  ("vendeur" "bà'i^, oùna" "43")
@@ -985,7 +994,7 @@
  "notre"
  "nous"
  "pourquoi"
- "quand"
+ "quand (interrogatif)"
  "votre"
  "y a t'il"
  "samedi"
@@ -1121,7 +1130,6 @@
  "station"
  "train"
  "gare de train"
- "faire, confectionner, travailler"
  "à l'occasion de"
  "mariage"
  "soeur"
@@ -1313,6 +1321,7 @@
 
 
 ("Verbs"
+ "chercher"
  "répéter"
  "signifier"
  "contenir"
@@ -1374,7 +1383,6 @@
  "oublier"
  "voir"
  "répliquer / répondre"
- "faire, confectionner, travailler"
  "faire"
  "examiner"
  "étudier"
@@ -1450,7 +1458,7 @@
  "là"
  "y a t'il"
  "pourquoi"
- "quand"
+ "quand (interrogatif)"
  "aussitôt / immédiatement"
  "aussi"
  "entre"
@@ -1910,6 +1918,15 @@
 
 
 ("Rosetta 2.2"
+ "s'il vous plait (?)"
+ "employé"
+ "directeur"
+ "usine"
+ "même"
+ "école primaire"
+ "lycée"
+ "collège"
+ "quand"
  "répéter"
  "signifier"
  "contenir"
@@ -2163,7 +2180,6 @@
  "je vais vers"
  "glace"
  "merci (reconnaissant) "
- "faire, confectionner, travailler"
  "capitale"
  "distance"
  "maître"
@@ -2217,7 +2233,21 @@
  "préocupation, souci"
  "quelle"
  "étudiant"
- "libre")
+ "libre"
+ "répéter"
+ "signifier"
+ "contenir"
+ "indication"
+ "histoire (domaine)"
+ "musique"
+ "art"
+ "sciences"
+ "passé / qui est passé"
+ "hier"
+ "enveloppe"
+ "timbres"
+ "bureau de classe"
+ "cahier de notes")
 
 
 ;;;
