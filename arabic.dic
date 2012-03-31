@@ -66,8 +66,10 @@
  ("arabe (langue)" "^arabiyya(t)" "43")
  ("arbre" "chajara(t), achjàr" "")
  ("argent" "nouqoùd" "23")
+ ("arrêt" "moùqif" "")
  ("arrêt d'autobus" "moùqifou al'Hàfilàt" "")
  ("arriver" "waSala, yaSilou" "19")
+ ("art" "fann" "")
  ("assiette" "SaHn, SouHoun" "")
  ("assoiffé" "^aTchànou" "29")
  ("attendre" "intaZara, yantaZirou" "")
@@ -126,12 +128,14 @@
  ("brosser les dents" "yousawwikou" "")
  ("brun" "bounniya(t)" "")
  ("bureau" "maktab" "8")
+ ("bureau de classe" "maktab" "")
  ("bureau de poste" "maktabou barìdin" "")
  ("c'est vrai" "SaHìH" "38")
  ("cadeau" "hadiyya(t)" "36")
  ("café (boisson)" "qahwa" "29")
  ("café (lieu)" "maqhà" "29")
  ("cahier" "daftar" "")
+ ("cahier de notes" "daftarou moulàHaZàtin" "")
  ("capitale" "^àSima(t)" "20")
  ("carotte" "jazar" "")
  ("carte" "kharìTa(t)" "")
@@ -189,6 +193,7 @@
  ("conduire" "qàda, yaqoùdou" "")
  ("connaître" "^arafa, ya^rifou" "31")
  ("contemplation" "tafarrouj" "40")
+ ("contenir" "iHtawà, yaHtawì ^alà" "")
  ("corne de gazelle" "ka^bou ghazàlin" "32")
  ("couleur" "laoun, alwàn" "")
  ("courrier / poste" "barìd" "19")
@@ -216,7 +221,7 @@
  ("demander" "Talaba, yaTloubou" "32")
  ("dent" "sinn, asnàn" "")
  ("dépense" "badhl" "40")
- ("dernier" "ahìr" "")
+ ("dernier" "akhìr" "")
  ("derrière" "khalf" "")
  ("descendre" "nazala, yanzilou" "23")
  ("dessous" "taHta" "")
@@ -272,6 +277,7 @@
  ("entre" "bayna" "29")
  ("entreprise" "charika(t)" "38")
  ("entrer" "dakhala, yadkhoulou" "3")
+ ("enveloppe" "Zarf" "")
  ("épicerie" "maHallou biqàlatin" "")
  ("épicier" "biqàl" "")
  ("épouse" "zaouja(t)" "40")
@@ -349,7 +355,7 @@
  ("heure" "sà^a(t)" "")
  ("heure / montre" "sà^a(t)" "24")
  ("hibou" "boùm" "")
- ("hier" "yaouma amsi" "18")
+ ("hier" "yaouma amsi, bàriHa(t)" "18")
  ("histoire" "qiSS" "")
  ("histoire (domaine)" "ta'rìkh" "40")
  ("hiver" "chità'" "")
@@ -360,6 +366,7 @@
  ("ici" "hounà" "17")
  ("il est à l'heure" "innahou fì waqtihi" "")
  ("il semble que" "yabdoù anna" "41")
+ ("indication" "ichàra(t)" "")
  ("ingénierie" "handasa(t)" "38")
  ("inscription" "tasjìl" "38")
  ("intelligent" "dhakiyy" "38")
@@ -472,6 +479,7 @@
  ("mouillé" "moubtall" "")
  ("mur" "jidàr" "")
  ("musée" "moutHaf" "")
+ ("musique" "moùsìqà" "")
  ("n" "noùn" "8")
  ("nager" "sabaHa, yasbaHou" "")
  ("naissance" "mìlàd" "36")
@@ -536,7 +544,7 @@
  ("pas de mal / ca va" "là ba'sa" "29")
  ("pas dénombrée" "là touHSà" "39")
  ("pas du tout / jamais" "abadan" "29")
- ("passé / qui est passé" "màDìn" "31")
+ ("passé / qui est passé" "màDì" "31")
  ("passeport" "jaouàz, jaouàzou al'safari" "")
  ("passer" "marra, yamourrou" "19")
  ("passer par" "marra bi-" "19")
@@ -623,6 +631,7 @@
  ("rencontre" "liqà'" "")
  ("rencontrer" "laqiya, yalqà" "41")
  ("repas, plat, met" "aklat" "34")
+ ("répéter" "a^àda, you^ìdou" "")
  ("répliquer / répondre" "radda, yarouddou" "37")
  ("réputé / célèbre" "machhoùr" "17")
  ("résidence" "manzil" "36")
@@ -662,6 +671,7 @@
  ("sauf" "illà" "38")
  ("savoir" "^arafa ya^rifou, ^alima ya^lamou" "31")
  ("savon" "Sàboùn" "")
+ ("sciences" "^ouloùm" "")
  ("se lever" "nahaDa, yanhaDou" "")
  ("se prononce" "nouqraou" "")
  ("se réjouir" "fariHa, yafraHou" "22")
@@ -678,6 +688,7 @@
  ("serviteur" "khadim" "19")
  ("seulement" "faqaT" "30")
  ("siège" "maq^ad" "")
+ ("signifier" "^anà, ya^nì" "")
  ("similaire" "moutachàbiha(t)" "")
  ("six" "sittat" "31")
  ("sixième" "sàdis" "24")
@@ -714,11 +725,13 @@
  ("thé" "chàyy" "")
  ("théatre" "masraH" "")
  ("ticket" "tadhkira(t)" "")
+ ("timbres" "Tawàbi^" "")
  ("tissu" "mansoùj, mansoùjàt" "41")
  ("toi (féminin)" "anti" "13")
  ("toi (masculin)" "anta" "10")
  ("toilette" "mirHàD" "")
  ("toilettes" "daouratou al'miyàh" "")
+ ("tomber (pluie, neige, ...)" "yatasàqatou" "")
  ("ton / ta / tes (féminin)" "-ki" "9")
  ("ton / ta / tes (masculin)" "-ka" "11")
  ("tour" "dawr" "")
@@ -1300,6 +1313,9 @@
 
 
 ("Verbs"
+ "répéter"
+ "signifier"
+ "contenir"
  "pouvoir"
  "vivre (en quelque part)"
  "vendre"
@@ -1823,6 +1839,8 @@
 
 
 ("Rosetta 2.1"
+ "arrêt"
+ "tomber (pluie, neige, ...)"
  "pluvieux"
  "glace"
  "pluie"
@@ -1892,6 +1910,20 @@
 
 
 ("Rosetta 2.2"
+ "répéter"
+ "signifier"
+ "contenir"
+ "indication"
+ "histoire (domaine)"
+ "musique"
+ "art"
+ "sciences"
+ "passé / qui est passé"
+ "hier"
+ "enveloppe"
+ "timbres"
+ "bureau de classe"
+ "cahier de notes"
  "cahier"
  "dictionnaire")
 
@@ -2074,7 +2106,6 @@
  "monter en selle, en voiture, ..."
  "propre"
  "milieu"
- "histoire (domaine)"
  "université"
  "matière"
  "ouvrir"
