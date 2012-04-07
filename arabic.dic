@@ -47,18 +47,21 @@
  ("affamé(e)" "jaou^àn / jaou^ànat (diptote)" "31")
  ("age" "^oumr" "")
  ("âge" "sinn" "39")
+ ("aider à" "sà^ada, yousà^idou ^alà" "")
  ("aimer" "aHabba, youHibbou" "")
  ("ainsi" "hakadhà" "41")
  ("allant" "dhàhib" "")
  ("aller" "dhahaba, yadhhabou" "11")
  ("alors" "idhan / ^inda'idhin," "30, 36")
  ("âme" "nafs" "38")
+ ("amener" "jalaba, yajlibou" "")
  ("ami" "Sadìq, aSdiqà'ou (diptote)" "31")
  ("ancien / vieux" "qadìm" "16")
  ("anglais" "inkilìziyya(t)" "43")
  ("animal" "Hayawàn, Hayawànà(t)" "")
  ("année" "sana(t), sanawàt" "38")
  ("années" "sanatan" "38")
+ ("aout" "aghousTous" "")
  ("appartement" "chaqqa(t)" "")
  ("appeler" "nàdà, younàdì" "")
  ("après" "ba^da" "24")
@@ -89,6 +92,7 @@
  ("avion" "Tà'ira(t)" "")
  ("avoir besoin" "iHtàja, yaHtàjou" "")
  ("avoir faim" "jà^a, yajoù^ou" "")
+ ("avril" "abrìl" "")
  ("b" "bà" "1")
  ("bain / salle de bain / toilettes" "Hammàm" "26")
  ("balle, ballon" "koura(t), à(t)" "")
@@ -145,6 +149,7 @@
  ("ceinture" "Hizàm" "")
  ("cela" "dhalika" "22")
  ("centre" "markaz" "22")
+ ("cérémonie, fête" "Hafla(t)" "")
  ("certains" "ba^D" "")
  ("certes" "inna" "22")
  ("cette / celle-ci" "hadhihi" "27")
@@ -155,6 +160,7 @@
  ("chambre à coucher" "ghourfatou al'naoumi" "")
  ("chameau" "jamal" "39")
  ("chandail" "kanza(t)" "")
+ ("chanter" "ghannà, youghannì" "")
  ("chapeau" "qoubba^a(t)" "")
  ("chaque" "koull" "39")
  ("chat" "qitt" "13")
@@ -170,6 +176,7 @@
  ("chiffre, numéro" "raqm, arqàm" "")
  ("chocolat" "choùkoùlàtah" "")
  ("chose / object" "chay'" "22")
+ ("chutes (?)" "tahToul" "")
  ("ciel" "samà'" "")
  ("cinq" "khamsa" "")
  ("citron" "laymoùn" "")
@@ -184,6 +191,7 @@
  ("comme + nom" "ka- + nom au cas indirect" "32")
  ("comme + pronom" "mithla + pronom" "32")
  ("comme + verbe" "kamà" "39")
+ ("commencer" "bada'a, yabda'ou" "")
  ("comment" "kayfa" "17")
  ("commerçant / marchand" "tàjir" "17")
  ("commerce (le)" "tijàra(t)" "38")
@@ -211,9 +219,12 @@
  ("d" "dàl" "3")
  ("d'habitude" "^àdatan" "38")
  ("dans" "fì" "5")
+ ("danser" "raqaSa, yarqouSou" "")
+ ("date, horaire, rendez-vous" "maou^id, mawà^id" "")
  ("de" "min ; ^an" "12")
  ("de rien" "^afwan" "43")
  ("début" "bidàya(t)" "")
+ ("décembre" "disimbir" "")
  ("dedans" "dàkhil" "")
  ("dehors" "khàrij" "")
  ("déjeuner" "faToùr" "")
@@ -226,6 +237,7 @@
  ("dernier" "akhìr" "")
  ("derrière" "khalf" "")
  ("descendre" "nazala, yanzilou" "23")
+ ("désirer" "raghiba, yarghabou fì (ou) bi" "")
  ("dessous" "taHta" "")
  ("dessus" "faouqa" "")
  ("deux" "ithnàn" "")
@@ -293,12 +305,14 @@
  ("essence" "waqoùd" "")
  ("et" "wa" "2")
  ("état (d'une personne)" "Hàl" "17")
+ ("états-unis" "oulàyàti al'mouttaHida(t)" "")
  ("été" "Saìf" "")
  ("étrange" "gharìb" "30")
  ("étranger" "ajnabiyy" "43")
  ("être" "kàna, yakoùnou" "24")
  ("être debout" "yaqifou" "")
  ("être malade / tomber malade" "mariDa, yamraDou" "25")
+ ("être permis de" "jàza, yajoùzou an" "")
  ("étude" "diràsa(t)" "38")
  ("étudiant" "Tàlib, Toullàb" "39")
  ("étudier" "darasa, yadrousou" "3")
@@ -322,6 +336,7 @@
  ("fermé" "moughlaq" "")
  ("fête" "^ìd" "36")
  ("fête de la Rupture du Jeûne" "^ìdou (a)l-FiTri" "33")
+ ("février" "fibràir" "")
  ("fille" "bint, banàt" "8")
  ("filles" "banàt" "36")
  ("film" "fìlm" "")
@@ -377,6 +392,7 @@
  ("invité" "Dayf, Douyoùf" "36")
  ("islamique" "islàmiyy" "40")
  ("j" "jìm" "2")
+ ("janvier" "yanàir" "")
  ("jardin" "boustàn" "13")
  ("jaune" "aSfar, Safrà', Soufrou" "")
  ("je t'en prie" "tafaDDal" "31")
@@ -394,6 +410,8 @@
  ("jour, aujourd'hui" "yaoumoun, al-yaouma" "18")
  ("journal" "SaHìfa(t), SouHouf" "43")
  ("joyeux / content" "masroùr" "24")
+ ("juillet" "iouliou" "")
+ ("juin" "iouniou" "")
  ("jupe" "tannoùra(t), à(t)" "")
  ("jus" "^aSìr" "")
  ("jusque" "Hattà" "41")
@@ -438,6 +456,7 @@
  ("lycée" "madrasatou thànaouyyatou" "")
  ("m" "mìm" "4")
  ("mademoiselle" "ànisatì" "38")
+ ("mai" "màiou" "")
  ("main" "yad, aydin" "19")
  ("maintenant" "al'àn" "")
  ("maison" "bayt, bouyoùt" "5")
@@ -450,6 +469,8 @@
  ("marcher" "machà, yamchì" "")
  ("mariage" "zawàj" "33")
  ("marque du futur devant l'innaccompli" "saoufa, sa-" "32")
+ ("mars" "màrisa(t)" "")
+ ("match" "moubàrà(t)" "")
  ("mathématiques" "riyàDiyyàt" "")
  ("matière" "màdd" "38")
  ("matin" "SabàH" "19")
@@ -466,6 +487,7 @@
  ("métal" "ma^dan" "")
  ("métro" "qiTàrou al'anfàqa" "")
  ("métropole" "misr" "19")
+ ("mettre" "waDa^a, yaDa^ou" "")
  ("midi" "Zouhr" "24")
  ("milieu" "wasaT" "13")
  ("minute" "daqìqa(t)" "")
@@ -501,12 +523,14 @@
  ("nous" "naHnou" "22")
  ("nous avons tardé" "ta'akhkharnà" "40")
  ("nouveau" "jadìd" "11")
+ ("novembre" "noufimbir" "")
  ("nuage" "saHaba(t)" "")
  ("nuageux" "ghà'im" "")
  ("nuit" "layla(t)" "")
  ("ô / eh" "yà" "17")
  ("obtention" "HouSoùl" "38")
  ("occasion" "mounàsaba(t)" "36")
+ ("octobre" "ouktoubir" "")
  ("odeur" "rà'iHa(t)" "")
  ("oeuf" "bayDa(t), bìD" "")
  ("offre" "taqdìm" "36")
@@ -544,6 +568,7 @@
  ("parfait" "moumtàz" "24")
  ("parfaitement" "tamàman" "39")
  ("parler" "takallama, yatakallamou" "43")
+ ("parler de, s'entretenir" "taHàdatha, yataHàdathou ^an" "")
  ("particulier, spécial" "khàSS" "39")
  ("pas" "ghayr" "")
  ("pas d'issue (pour moi) de" "là boudda (lì) min" "40")
@@ -561,6 +586,7 @@
  ("payer" "dafa^a, yadfa^ou" "32")
  ("pays" "balad" "")
  ("paysan" "fallàH" "34")
+ ("pendant, à travers" "khilàl" "")
  ("père" "wàlid" "6")
  ("personne" "chakhS, achkhàS" "31")
  ("perte (poisse)" "khasàra(t)" "40")
@@ -576,7 +602,7 @@
  ("plage" "chàTì'" "")
  ("plastique" "blàstìk" "")
  ("plein de" "Hàfil (bi-)" "34")
- ("pluie" "maTar" "")
+ ("pluie" "maTar, amTàr" "")
  ("pluvieux" "moumTar" "")
  ("poète" "chà^ir" "37")
  ("poisson" "samaka(t)" "30")
@@ -637,6 +663,7 @@
  ("remplir" "mala'a, yamla'ou" "")
  ("rencontre" "liqà'" "")
  ("rencontrer" "laqiya, yalqà" "41")
+ ("rencontrer (se)" "iltaqà, yaltaqì bi-" "")
  ("repas, plat, met" "aklat" "34")
  ("répéter" "a^àda, you^ìdou" "")
  ("répliquer / répondre" "radda, yarouddou" "37")
@@ -645,6 +672,7 @@
  ("resplendissante" "azhar" "40")
  ("restaurant" "maT^am" "30")
  ("rester" "makatha, yamkouthou" "15")
+ ("retard (en)" "mouta'akhkhir ^an" "")
  ("retardé" "ta'akhkhara" "")
  ("retour" "roujoù^" "27")
  ("réunion" "ijtimà^" "24")
@@ -691,8 +719,9 @@
  ("sentir (se)" "cha^ara, yach^ourou bi-" "")
  ("sentir quelque chose" "chamma, yachoummou" "")
  ("sept" "sab^a" "")
+ ("septembre" "sibtimbir" "")
  ("serrer contre soi" "you^àniqou" "")
- ("serviette" "minchafa(t)" "")
+ ("serviette" "minchafa(t), manàchif" "")
  ("serviteur" "khadim" "19")
  ("seulement" "faqaT" "30")
  ("siège" "maq^ad" "")
@@ -710,6 +739,7 @@
  ("sortir" "kharaja, yakhroujou" "8")
  ("soulier" "Hidhà'" "")
  ("souper" "^achà'" "")
+ ("spectacle théâtral" "^arD" "")
  ("stade" "istàd" "")
  ("station" "maHaTTat" "33")
  ("station d'essence" "maHaTTatou waqoùdin" "")
@@ -728,6 +758,7 @@
  ("temps (climat)" "jaww" "")
  ("tennis" "kouratou al'maDribi" "")
  ("terme (d'âge)" "akhir" "39")
+ ("terminer (se)" "intahà, yantahì" "")
  ("texte" "naSS" "")
  ("th" "thà" "15")
  ("thé" "chàyy" "")
@@ -742,6 +773,7 @@
  ("tomber (pluie, neige, ...)" "yatasàqatou" "")
  ("ton / ta / tes (féminin)" "-ki" "9")
  ("ton / ta / tes (masculin)" "-ka" "11")
+ ("tôt" "bàkiran, moubakkiran" "")
  ("tour" "dawr" "")
  ("tourne" "tan^atifou" "")
  ("tourner" "dàra, yadoùrou" "43")
@@ -788,6 +820,7 @@
  ("voisin" "jàr" "15")
  ("voiture" "sayyàra(t)" "20")
  ("voix / bruit / son" "Saout / aSwàt" "29")
+ ("vol (voyage)" "raHila(t)" "")
  ("votre" "-koum" "23")
  ("vouloir" "aràda, yourìdou" "43")
  ("vous (pronon)" "antoum" "23")
@@ -1321,6 +1354,17 @@
 
 
 ("Verbs"
+ "désirer"
+ "parler de, s'entretenir"
+ "rencontrer (se)"
+ "aider à"
+ "terminer (se)"
+ "commencer"
+ "amener"
+ "mettre"
+ "être permis de"
+ "danser"
+ "chanter"
  "chercher"
  "répéter"
  "signifier"
@@ -1509,6 +1553,26 @@
  "vendredi"
  "jeudi"
  "samedi")
+
+
+;;;
+;;;; Months
+;;;
+
+
+("Months"
+ "septembre"
+ "octobre"
+ "novembre"
+ "décembre"
+ "juin"
+ "juillet"
+ "aout"
+ "mai"
+ "mars"
+ "janvier"
+ "février"
+ "avril")
 
 
 ;;;
@@ -1847,6 +1911,9 @@
 
 
 ("Rosetta 2.1"
+ "pendant, à travers"
+ "date, horaire, rendez-vous"
+ "vol (voyage)"
  "arrêt"
  "tomber (pluie, neige, ...)"
  "pluvieux"
@@ -1951,7 +2018,36 @@
 
 
 ("Rosetta 2.3"
-)
+ "septembre"
+ "octobre"
+ "novembre"
+ "décembre"
+ "juin"
+ "juillet"
+ "états-unis"
+ "aout"
+ "chutes (?)"
+ "mai"
+ "mars"
+ "janvier"
+ "février"
+ "avril"
+ "spectacle théâtral"
+ "désirer"
+ "retard (en)"
+ "tôt"
+ "parler de, s'entretenir"
+ "rencontrer (se)"
+ "aider à"
+ "terminer (se)"
+ "match"
+ "commencer"
+ "cérémonie, fête"
+ "amener"
+ "mettre"
+ "être permis de"
+ "danser"
+ "chanter")
 
 
 ;;;
