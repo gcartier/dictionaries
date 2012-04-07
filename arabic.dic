@@ -41,6 +41,7 @@
  ("acheter" "ichtara, yachtarì" "")
  ("activité" "nachàT" "41")
  ("addition, compte" "Hisàb" "32")
+ ("addresse" "^ounouàn" "")
  ("adulte (mature)" "ràchid" "")
  ("aéroport" "maTàr" "")
  ("affamé" "jaou^an ou jài^oun" "")
@@ -89,6 +90,7 @@
  ("avant" "qabla an + cas indirect" "32")
  ("avec" "ma^a" "18")
  ("avec / au moyen de" "bi" "9")
+ ("avent" "majì'" "")
  ("avion" "Tà'ira(t)" "")
  ("avoir besoin" "iHtàja, yaHtàjou" "")
  ("avoir faim" "jà^a, yajoù^ou" "")
@@ -148,6 +150,7 @@
  ("ce / ceci" "hadhà" "24")
  ("ceinture" "Hizàm" "")
  ("cela" "dhalika" "22")
+ ("cent" "mì'a(t)" "")
  ("centre" "markaz" "22")
  ("cérémonie, fête" "Hafla(t)" "")
  ("certains" "ba^D" "")
@@ -161,6 +164,7 @@
  ("chameau" "jamal" "39")
  ("chandail" "kanza(t)" "")
  ("chanter" "ghannà, youghannì" "")
+ ("chanteuse" "moughanniyya(t)" "")
  ("chapeau" "qoubba^a(t)" "")
  ("chaque" "koull" "39")
  ("chat" "qitt" "13")
@@ -195,11 +199,13 @@
  ("comment" "kayfa" "17")
  ("commerçant / marchand" "tàjir" "17")
  ("commerce (le)" "tijàra(t)" "38")
+ ("communiquer avec" "ittaSala, yattaSilou bi" "")
  ("compatible" "moulà'im" "")
  ("complet" "badla(t)" "")
  ("comprendre" "fahima, yafhamou" "29")
  ("comptant (payer)" "naqdan" "")
  ("concert" "Hafloun moùsìqiyyoun" "")
+ ("conclure (se)" "youkhtamou bi" "")
  ("conduire" "qàda, yaqoùdou" "")
  ("connaître" "^arafa, ya^rifou" "31")
  ("contemplation" "tafarrouj" "40")
@@ -220,6 +226,8 @@
  ("d'habitude" "^àdatan" "38")
  ("dans" "fì" "5")
  ("danser" "raqaSa, yarqouSou" "")
+ ("danseuse" "ràqiSa(t)" "")
+ ("date" "tàrìkh" "")
  ("date, horaire, rendez-vous" "maou^id, mawà^id" "")
  ("de" "min ; ^an" "12")
  ("de rien" "^afwan" "43")
@@ -238,11 +246,14 @@
  ("derrière" "khalf" "")
  ("descendre" "nazala, yanzilou" "23")
  ("désirer" "raghiba, yarghabou fì (ou) bi" "")
+ ("désolé" "àsif" "")
+ ("dessert" "Halwà" "")
  ("dessous" "taHta" "")
  ("dessus" "faouqa" "")
  ("deux" "ithnàn" "")
  ("devant" "amàma" "41")
- ("devoir" "wàjib" "")
+ ("devoir" "wajaba, yajibou ^alà" "")
+ ("devoir (un)" "wàjib" "")
  ("dh" "dhàl" "10")
  ("dictée" "imlà'" "")
  ("dictionnaire" "qàmoùs" "")
@@ -405,6 +416,7 @@
  ("jeune marié / jeune mariée" "^arìs, ^aroùs" "33")
  ("joie" "faraH" "34")
  ("jouer" "la^iba, yal^abou" "")
+ ("jouer (de la musique?)" "ya^zifou" "")
  ("jouet" "lou^ab" "")
  ("jour" "yaoum" "")
  ("jour, aujourd'hui" "yaoumoun, al-yaouma" "18")
@@ -470,14 +482,16 @@
  ("mariage" "zawàj" "33")
  ("marque du futur devant l'innaccompli" "saoufa, sa-" "32")
  ("mars" "màrisa(t)" "")
+ ("masquée (?)" "tanakouryya(t)" "")
  ("match" "moubàrà(t)" "")
  ("mathématiques" "riyàDiyyàt" "")
  ("matière" "màdd" "38")
  ("matin" "SabàH" "19")
- ("mauvais" "radiyy" "")
+ ("mauvais" "radì' / sayyi'" "")
  ("mauve" "banafsajiyya(t)" "")
  ("medecin" "Tabìb" "")
  ("médicament" "dawà'" "")
+ ("meilleur" "afDalou" "")
  ("même" "nafs + pronom" "")
  ("mer" "baHr" "39")
  ("merci" "choukran" "17")
@@ -490,6 +504,7 @@
  ("mettre" "waDa^a, yaDa^ou" "")
  ("midi" "Zouhr" "24")
  ("milieu" "wasaT" "13")
+ ("mille" "alf, àlàf" "")
  ("minute" "daqìqa(t)" "")
  ("moi" "anà" "9")
  ("moi seul" "waHdì" "37")
@@ -507,6 +522,7 @@
  ("mouillé" "moubtall" "")
  ("mur" "jidàr" "")
  ("musée" "moutHaf" "")
+ ("musicien" "^àzif" "")
  ("musique" "moùsìqà" "")
  ("n" "noùn" "8")
  ("nager" "sabaHa, yasbaHou" "")
@@ -515,6 +531,7 @@
  ("ne pas être" "laysa" "29")
  ("neuf" "tis'a" "")
  ("nez" "anf, ounoùf" "37")
+ ("niveau" "moustawa" "")
  ("noir" "asouad, saoudà'" "")
  ("nom" "ism, asmà'" "16")
  ("non" "là" "13")
@@ -530,6 +547,7 @@
  ("ô / eh" "yà" "17")
  ("obtention" "HouSoùl" "38")
  ("occasion" "mounàsaba(t)" "36")
+ ("occupé" "machghoùl" "")
  ("octobre" "ouktoubir" "")
  ("odeur" "rà'iHa(t)" "")
  ("oeuf" "bayDa(t), bìD" "")
@@ -568,7 +586,7 @@
  ("parfait" "moumtàz" "24")
  ("parfaitement" "tamàman" "39")
  ("parler" "takallama, yatakallamou" "43")
- ("parler de, s'entretenir" "taHàdatha, yataHàdathou ^an" "")
+ ("parler de, s'entretenir" "taHàddatha, yataHàddathou ilà" "")
  ("particulier, spécial" "khàSS" "39")
  ("pas" "ghayr" "")
  ("pas d'issue (pour moi) de" "là boudda (lì) min" "40")
@@ -613,7 +631,9 @@
  ("porte" "bàb, abwàb" "")
  ("porte-monnaie" "miHfaZatou an-nouqoùdi" "41")
  ("posséder" "malaka, yamlikou" "38")
+ ("possible (il est ~ de)" "youmkinou an" "")
  ("poulet / volaille" "dajàj" "30")
+ ("pour (?)" "bi al'nisbit (?)" "")
  ("pour lui" "lahou" "20")
  ("pourquoi" "limàdha" "23")
  ("pourquoi pas" "limà là" "")
@@ -622,16 +642,19 @@
  ("pouvoir" "istaTà^a, yastaTì^ou an" "")
  ("précieux" "nafìs" "20")
  ("préféré" "moufaDDal" "34")
+ ("préférer" "faDDala, youfaDDilou" "")
  ("premier" "awwal" "")
  ("prendre" "akhadha, ya'khoudhou" "10")
  ("prendre un autobus, un train, ..." "yastaqillou" "")
  ("prendre un repas" "yatanàwalou" "")
  ("préocupation, souci" "hamm" "40")
+ ("préparer" "a^adda, you^iddou" "")
  ("près de" "qarìban min" "26")
  ("présent" "HàDir" "")
  ("prince" "amìr" "37")
  ("printemps" "rabì^" "")
  ("prix" "thaman" "")
+ ("problème" "mouchkila(t), machàkil" "")
  ("proche" "qourba" "")
  ("proche de" "qarìb" "33")
  ("propre" "naZìf" "")
@@ -673,7 +696,7 @@
  ("restaurant" "maT^am" "30")
  ("rester" "makatha, yamkouthou" "15")
  ("retard (en)" "mouta'akhkhir ^an" "")
- ("retardé" "ta'akhkhara" "")
+ ("retardé" "ta'akhkhar" "")
  ("retour" "roujoù^" "27")
  ("réunion" "ijtimà^" "24")
  ("réveiller" "ayqaZa, youqiZou" "")
@@ -705,7 +728,7 @@
  ("sang" "dam" "")
  ("sans" "bilà" "39")
  ("sauf" "illà" "38")
- ("savoir" "^alima ya^lamou" "31")
+ ("savoir" "^alima, ya^lamou" "31")
  ("savon" "Sàboùn" "")
  ("sciences" "^ouloùm" "")
  ("se lever" "nahaDa, yanhaDou" "")
@@ -720,6 +743,7 @@
  ("sentir quelque chose" "chamma, yachoummou" "")
  ("sept" "sab^a" "")
  ("septembre" "sibtimbir" "")
+ ("sera" "satakoùnou" "")
  ("serrer contre soi" "you^àniqou" "")
  ("serviette" "minchafa(t), manàchif" "")
  ("serviteur" "khadim" "19")
@@ -727,6 +751,7 @@
  ("siège" "maq^ad" "")
  ("signifier" "^anà, ya^nì" "")
  ("similaire" "moutachàbiha(t)" "")
+ ("situer (se)" "waqa^a, yaqa^ou fì" "")
  ("six" "sittat" "31")
  ("sixième" "sàdis" "24")
  ("soccer" "kouratou al'qadami" "")
@@ -738,6 +763,7 @@
  ("sont" "moùjoùda(t)" "")
  ("sortir" "kharaja, yakhroujou" "8")
  ("soulier" "Hidhà'" "")
+ ("soupe" "Hasà'" "")
  ("souper" "^achà'" "")
  ("spectacle théâtral" "^arD" "")
  ("stade" "istàd" "")
@@ -775,7 +801,7 @@
  ("ton / ta / tes (masculin)" "-ka" "11")
  ("tôt" "bàkiran, moubakkiran" "")
  ("tour" "dawr" "")
- ("tourne" "tan^atifou" "")
+ ("tourne" "yan^atifou" "")
  ("tourner" "dàra, yadoùrou" "43")
  ("tous" "jamì^" "")
  ("train" "qiTàr" "33")
@@ -816,6 +842,7 @@
  ("vitrine" "wàjiha(t)" "41")
  ("vive" "dàma" "")
  ("vivre (en quelque part)" "^àcha, ya^ìchou" "")
+ ("voici ..." "hà + pronom isolé" "")
  ("voir" "ra'à, yarà" "36")
  ("voisin" "jàr" "15")
  ("voiture" "sayyàra(t)" "20")
@@ -856,7 +883,7 @@
  "ours"
  "vers de terre"
  "sang"
- "devoir"
+ "devoir (un)"
  "exemple"
  "dessus"
  "dessous"
@@ -1354,6 +1381,13 @@
 
 
 ("Verbs"
+ "préférer"
+ "jouer (de la musique?)"
+ "devoir"
+ "préparer"
+ "conclure (se)"
+ "situer (se)"
+ "communiquer avec"
  "désirer"
  "parler de, s'entretenir"
  "rencontrer (se)"
@@ -2018,6 +2052,34 @@
 
 
 ("Rosetta 2.3"
+ "problème"
+ "désolé"
+ "avent"
+ "occupé"
+ "niveau"
+ "pour (?)"
+ "préférer"
+ "meilleur"
+ "mauvais"
+ "jouer (de la musique?)"
+ "danseuse"
+ "chanteuse"
+ "musicien"
+ "possible (il est ~ de)"
+ "voici ..."
+ "devoir"
+ "préparer"
+ "conclure (se)"
+ "soupe"
+ "dessert"
+ "masquée (?)"
+ "sera"
+ "mille"
+ "cent"
+ "situer (se)"
+ "date"
+ "addresse"
+ "communiquer avec"
  "septembre"
  "octobre"
  "novembre"
@@ -2193,7 +2255,6 @@
  "avion"
  "bravo"
  "travailler"
- "mauvais"
  "revue"
  "essence"
  "type"
