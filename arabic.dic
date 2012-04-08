@@ -71,6 +71,7 @@
  ("arabe (langue)" "^arabiyya(t)" "43")
  ("arbre" "chajara(t), achjàr" "")
  ("argent" "nouqoùd" "23")
+ ("argile" "Tìn" "")
  ("arrêt" "moùqif" "")
  ("arrêt d'autobus" "moùqifou al'Hàfilàt" "")
  ("arriver" "waSala, yaSilou" "19")
@@ -365,6 +366,7 @@
  ("fleur" "zahra(t), zouhoùr" "")
  ("fontaine" "nàfoùra(t)" "")
  ("forêt" "ghàba(t)" "")
+ ("four" "fourn" "")
  ("frais / tendre" "Tariyy" "30")
  ("français" "faransiyya(t)" "43")
  ("frère / ami" "akhr" "17")
@@ -401,6 +403,7 @@
  ("homme" "rajoul, rijàl" "4")
  ("hopital" "moustachfan" "")
  ("hotel" "foundouq, fanàdiq" "23")
+ ("huile" "zayt, zouyoùt" "")
  ("huit" "thamàniya" "")
  ("ici" "hounà" "17")
  ("il est à l'heure" "innahou fì waqtihi" "")
@@ -530,6 +533,7 @@
  ("mosquée principale" "jàmi^, jawàmi^" "40")
  ("mot" "kalima(t)" "39")
  ("mouillé" "moubtall" "")
+ ("mouton" "ghanam" "")
  ("mur" "jidàr" "")
  ("musée" "moutHaf" "")
  ("musicien" "^àzif" "")
@@ -562,7 +566,9 @@
  ("odeur" "rà'iHa(t)" "")
  ("oeuf" "bayDa(t), bìD" "")
  ("offre" "taqdìm" "36")
+ ("oignon" "baSal" "")
  ("oiseau" "Ta'ir, Touyoùr" "")
+ ("olive" "zaytoùna(t), zaytoùn" "")
  ("ombre" "Zill" "")
  ("on l'écrit" "touktab" "")
  ("oncle / tante maternel" "khàl / khàla(t)" "36")
@@ -1839,6 +1845,12 @@
 
 
 ("Rosetta 1.3"
+ "olive"
+ "huile"
+ "mouton"
+ "oignon"
+ "argile"
+ "four"
  "quart"
  "moitié"
  "saison"
@@ -2211,6 +2223,12 @@
 
 
 ("<Review>"
+ "olive"
+ "huile"
+ "mouton"
+ "oignon"
+ "argile"
+ "four"
  "doré"
  "oiseau"
  "aigle"
