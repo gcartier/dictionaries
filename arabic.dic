@@ -49,6 +49,7 @@
  ("age" "^oumr" "")
  ("âge" "sinn" "39")
  ("aider à" "sà^ada, yousà^idou ^alà" "")
+ ("aigle" "nisr" "")
  ("aimer" "aHabba, youHibbou" "")
  ("ainsi" "hakadhà" "41")
  ("allant" "dhàhib" "")
@@ -142,6 +143,7 @@
  ("café (lieu)" "maqhà" "29")
  ("cahier" "daftar" "")
  ("cahier de notes" "daftarou moulàHaZàtin" "")
+ ("canards" "baTT" "")
  ("capitale" "^àSima(t)" "20")
  ("carotte" "jazar" "")
  ("carte" "kharìTa(t)" "")
@@ -200,7 +202,6 @@
  ("comment" "kayfa" "17")
  ("commerçant / marchand" "tàjir" "17")
  ("commerce (le)" "tijàra(t)" "38")
- ("communiquer avec" "ittaSala, yattaSilou bi" "")
  ("compatible" "moulà'im" "")
  ("complet" "badla(t)" "")
  ("comprendre" "fahima, yafhamou" "29")
@@ -209,6 +210,7 @@
  ("conclure (se)" "youkhtamou bi" "")
  ("conduire" "qàda, yaqoùdou" "")
  ("connaître" "^arafa, ya^rifou" "31")
+ ("contacter" "ittaSala, yattaSilou bi" "")
  ("contemplation" "tafarrouj" "40")
  ("contenir" "iHtawà, yaHtawì ^alà" "")
  ("corne de gazelle" "ka^bou ghazàlin" "32")
@@ -220,6 +222,7 @@
  ("coûteux / cher" "mouklif" "23")
  ("couverture" "baTTànyya(t)" "")
  ("cravate" "rabTatou ^ounouqin" "")
+ ("cueillette" "yaqTif" "")
  ("cuisine" "maTbakh" "")
  ("cuisiner" "Tabakha, yaTboukhou" "")
  ("D" "Dàd" "23")
@@ -272,7 +275,9 @@
  ("doigt de pied" "aSàbi^ou al-qadami" "")
  ("donne-moi" "^aTinì" "30")
  ("donner" "a^Tà, you^Tì" "36")
+ ("doré" "dhahabiyya(t)" "")
  ("dormir" "nàma, yanàmou" "")
+ ("drapeau" "^alam" "")
  ("draps" "milà'a(t)" "")
  ("droit (juridique)" "Haqq, Houqoùq" "33")
  ("droite" "yamìn, youmna" "43")
@@ -346,6 +351,7 @@
  ("femme" "imra'a(t), mar'a(t), nisà'" "")
  ("femmes" "nisà'" "40")
  ("fenêtre" "nàfidha(t)" "")
+ ("ferme" "mazra^a(t)" "")
  ("fermé" "moughlaq" "")
  ("fête" "^ìd" "36")
  ("fête de la Rupture du Jeûne" "^ìdou (a)l-FiTri" "33")
@@ -556,6 +562,8 @@
  ("odeur" "rà'iHa(t)" "")
  ("oeuf" "bayDa(t), bìD" "")
  ("offre" "taqdìm" "36")
+ ("oiseau" "Ta'ir, Touyoùr" "")
+ ("ombre" "Zill" "")
  ("on l'écrit" "touktab" "")
  ("oncle / tante maternel" "khàl / khàla(t)" "36")
  ("oncle / tante paternel" "^amm / ^amma(t)" "36")
@@ -581,6 +589,7 @@
  ("pantalon" "banTaloùn" "")
  ("papa" "ab" "")
  ("papier" "waraq" "")
+ ("papillon" "faràcha(t)" "")
  ("par exemple" "mathalan" "39")
  ("paradis / jardin" "janna(t) / jannàt" "31")
  ("parapluie" "miZallàt" "")
@@ -696,7 +705,7 @@
  ("répéter" "a^àda, you^ìdou" "")
  ("répliquer / répondre" "radda, yarouddou" "37")
  ("réputé / célèbre" "machhoùr" "17")
- ("résidence" "manzil" "36")
+ ("résidence" "manzil, manàzil" "36")
  ("resplendissante" "azhar" "40")
  ("restaurant" "maT^am" "30")
  ("rester" "makatha, yamkouthou" "15")
@@ -785,6 +794,7 @@
  ("t" "tà" "1")
  ("table" "mà’ida(t)" "19")
  ("tableau" "laouHa(t)" "")
+ ("tablier" "maryala(t)" "")
  ("tambour" "Tabl" "")
  ("tasse" "koùb" "")
  ("taxi" "sayyàratou oujara(t)" "")
@@ -831,6 +841,7 @@
  ("une, l'une" "iHdà" "36")
  ("université" "jàmi^a(t)" "38")
  ("usine" "maSna^" "")
+ ("vaches" "abqàr" "")
  ("valise" "Haqìba(t), Haqìbati al'malàbisi" "")
  ("venant" "qàdim" "26")
  ("vendeur" "bà'i^, oùna" "43")
@@ -1402,7 +1413,7 @@
  "préparer"
  "conclure (se)"
  "situer (se)"
- "communiquer avec"
+ "contacter"
  "désirer"
  "parler de, s'entretenir"
  "rencontrer (se)"
@@ -1693,6 +1704,12 @@
 
 
 ("Rosetta 1.1"
+ "tablier"
+ "cueillette"
+ "vaches"
+ "canards"
+ "ferme"
+ "papillon"
  "tente"
  "homme"
  "garcon"
@@ -1754,6 +1771,11 @@
 
 
 ("Rosetta 1.2"
+ "doré"
+ "oiseau"
+ "aigle"
+ "drapeau"
+ "ombre"
  "acheter"
  "serrer contre soi"
  "travailler"
@@ -2095,7 +2117,7 @@
  "situer (se)"
  "date"
  "addresse"
- "communiquer avec"
+ "contacter"
  "septembre"
  "octobre"
  "novembre"
@@ -2189,6 +2211,19 @@
 
 
 ("<Review>"
+ "doré"
+ "oiseau"
+ "aigle"
+ "drapeau"
+ "contacter"
+ "résidence"
+ "ombre"
+ "tablier"
+ "cueillette"
+ "vaches"
+ "canards"
+ "ferme"
+ "papillon"
  "tente"
  "pluvieux"
  "fête"
