@@ -191,6 +191,7 @@
  ("climatisation" "takyìfou al-hawà'i" "25")
  ("coeur" "qalb, qouloùb" "34")
  ("collège" "koullìa(t)" "")
+ ("colline" "tall" "")
  ("combien de" "kam (+ nom singulier + -an)" "31")
  ("comme + nom" "ka- + nom au cas indirect" "32")
  ("comme + pronom" "mithla + pronom" "32")
@@ -313,6 +314,7 @@
  ("équipement" "mou^addà(t)" "")
  ("erreur" "khaTà'" "")
  ("es-ce que" "hal" "13")
+ ("escalier" "daraj" "")
  ("essence" "waqoùd" "")
  ("et" "wa" "2")
  ("état (d'une personne)" "Hàl" "17")
@@ -355,6 +357,7 @@
  ("fini" "khalas" "")
  ("finir (achever)" "anhà younhì" "")
  ("fleur" "zahra(t), zouhoùr" "")
+ ("fontaine" "nàfoùra(t)" "")
  ("forêt" "ghàba(t)" "")
  ("frais / tendre" "Tariyy" "30")
  ("français" "faransiyya(t)" "43")
@@ -396,6 +399,7 @@
  ("ici" "hounà" "17")
  ("il est à l'heure" "innahou fì waqtihi" "")
  ("il semble que" "yabdoù anna" "41")
+ ("image" "Soùra(t)" "")
  ("indication" "ichàra(t)" "")
  ("ingénierie" "handasa(t)" "38")
  ("inscription" "tasjìl" "38")
@@ -620,6 +624,7 @@
  ("plage" "chàTì'" "")
  ("plastique" "blàstìk" "")
  ("plein de" "Hàfil (bi-)" "34")
+ ("pleurer" "bakà, yabkì" "")
  ("pluie" "maTar, amTàr" "")
  ("pluvieux" "moumTar" "")
  ("poète" "chà^ir" "37")
@@ -703,6 +708,7 @@
  ("revenir / retourner" "raja^a, yarji^ou" "20")
  ("revêtir" "labisa, yalbasou" "")
  ("revue" "majalla(t)" "43")
+ ("rire" "DaHika, yaDHakou" "")
  ("rivage" "sàHil" "39")
  ("riz" "arouzz" "")
  ("robe" "thaoub" "")
@@ -765,10 +771,12 @@
  ("soulier" "Hidhà'" "")
  ("soupe" "Hasà'" "")
  ("souper" "^achà'" "")
+ ("sourire" "ibtasama, yabtasimou" "")
  ("spectacle théâtral" "^arD" "")
  ("stade" "istàd" "")
  ("station" "maHaTTat" "33")
  ("station d'essence" "maHaTTatou waqoùdin" "")
+ ("statue" "timthàl" "")
  ("stylo" "qalam, aqlàm" "9")
  ("sur" "^alà" "19")
  ("syllabe" "maqta" "")
@@ -776,13 +784,17 @@
  ("T" "Tà" "13")
  ("t" "tà" "1")
  ("table" "mà’ida(t)" "19")
+ ("tableau" "laouHa(t)" "")
+ ("tambour" "Tabl" "")
  ("tasse" "koùb" "")
  ("taxi" "sayyàratou oujara(t)" "")
  ("téléphone" "hàtif, hawàtif" "38")
  ("télévision" "talfizioun" "")
+ ("temple" "ma^abad" "")
  ("temps" "waqt" "40")
  ("temps (climat)" "jaww" "")
  ("tennis" "kouratou al'maDribi" "")
+ ("tente" "khayma(t)" "")
  ("terme (d'âge)" "akhir" "39")
  ("terminer (se)" "intahà, yantahì" "")
  ("texte" "naSS" "")
@@ -811,7 +823,7 @@
  ("très" "jiddan" "18")
  ("trois" "thalàtha" "")
  ("trouver" "wajada, yajidou" "6")
- ("type" "naou^" "39")
+ ("type, catégorie, genre, espèce, sorte" "naou^, anwà^" "39")
  ("un" "wàHid" "")
  ("un ensemble, totalité, multitude" "jamì^" "32")
  ("un jour quelconque" "yaouman mà" "38")
@@ -1308,7 +1320,7 @@
  "une autre"
  "particulier, spécial"
  "chaque"
- "type"
+ "type, catégorie, genre, espèce, sorte"
  "épouse"
  "resplendissante"
  "mosquée principale"
@@ -1381,6 +1393,9 @@
 
 
 ("Verbs"
+ "pleurer"
+ "rire"
+ "sourire"
  "préférer"
  "jouer (de la musique?)"
  "devoir"
@@ -1678,6 +1693,7 @@
 
 
 ("Rosetta 1.1"
+ "tente"
  "homme"
  "garcon"
  "fille"
@@ -2118,7 +2134,17 @@
 
 
 ("Rosetta 2.4"
-)
+ "temple"
+ "pleurer"
+ "rire"
+ "sourire"
+ "tambour"
+ "escalier"
+ "colline"
+ "fontaine"
+ "image"
+ "tableau"
+ "statue")
 
 
 ;;;
@@ -2163,6 +2189,7 @@
 
 
 ("<Review>"
+ "tente"
  "pluvieux"
  "fête"
  "mesure"
@@ -2257,7 +2284,7 @@
  "travailler"
  "revue"
  "essence"
- "type"
+ "type, catégorie, genre, espèce, sorte"
  "arriver"
  "regarder"
  "léger"
