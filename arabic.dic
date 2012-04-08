@@ -354,6 +354,7 @@
  ("fenêtre" "nàfidha(t)" "")
  ("ferme" "mazra^a(t)" "")
  ("fermé" "moughlaq" "")
+ ("fermer" "aghlaqa, youghliqou" "")
  ("fête" "^ìd" "36")
  ("fête de la Rupture du Jeûne" "^ìdou (a)l-FiTri" "33")
  ("février" "fibràir" "")
@@ -698,6 +699,7 @@
  ("quoi / qu'es-ce que" "mà" "4")
  ("r" "rà" "3")
  ("radio" "ràdiou" "")
+ ("rafraichissements" "mouraTTibàt" "")
  ("ragoût" "tàjin" "30")
  ("rassasié" "chab^an" "")
  ("regarder" "naZara, yanZourou ilà" "32")
@@ -711,6 +713,7 @@
  ("répéter" "a^àda, you^ìdou" "")
  ("répliquer / répondre" "radda, yarouddou" "37")
  ("réputé / célèbre" "machhoùr" "17")
+ ("requin" "qirch" "")
  ("résidence" "manzil, manàzil" "36")
  ("resplendissante" "azhar" "40")
  ("restaurant" "maT^am" "30")
@@ -1920,6 +1923,9 @@
 
 
 ("Rosetta 1.4"
+ "fermer"
+ "requin"
+ "rafraichissements"
  "laquelle"
  "lequel"
  "vous êtez le (la) bienvenue"
@@ -2223,6 +2229,9 @@
 
 
 ("<Review>"
+ "fermer"
+ "requin"
+ "rafraichissements"
  "olive"
  "huile"
  "mouton"
