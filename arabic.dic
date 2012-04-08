@@ -98,10 +98,12 @@
  ("avoir faim" "jà^a, yajoù^ou" "")
  ("avril" "abrìl" "")
  ("b" "bà" "1")
+ ("backgammon" "Tàwila(t)" "")
  ("bain / salle de bain / toilettes" "Hammàm" "26")
  ("balle, ballon" "koura(t), à(t)" "")
  ("banque" "bank" "")
  ("bas" "jaouàrib" "")
+ ("bâtiment" "binàya(t), àt" "")
  ("baton" "maDrib" "")
  ("beau" "jamìl" "13")
  ("beaucoup" "kathìran" "22")
@@ -146,6 +148,7 @@
  ("cahier de notes" "daftarou moulàHaZàtin" "")
  ("canards" "baTT" "")
  ("capitale" "^àSima(t)" "20")
+ ("cardamome" "hayl (?)" "")
  ("carotte" "jazar" "")
  ("carte" "kharìTa(t)" "")
  ("carte de crédit" "biTàqàtou al'itimàni" "")
@@ -313,6 +316,7 @@
  ("entreprise" "charika(t)" "38")
  ("entrer" "dakhala, yadkhoulou" "3")
  ("enveloppe" "Zarf" "")
+ ("épice" "tàbil, tawàbil" "")
  ("épicerie" "maHallou biqàlatin" "")
  ("épicier" "biqàl" "")
  ("épouse" "zaouja(t)" "40")
@@ -601,6 +605,7 @@
  ("paradis / jardin" "janna(t) / jannàt" "31")
  ("parapluie" "miZallàt" "")
  ("parc" "mountazah" "")
+ ("parc, jardin" "Hadìqa(t)" "")
  ("parce que" "li'anna" "26")
  ("parents" "wàlidà" "")
  ("parfait" "moumtàz" "24")
@@ -733,7 +738,7 @@
  ("roi" "malik" "37")
  ("rose" "ouardiyy" "")
  ("rouge" "aHmar, Hamrà'" "")
- ("rue" "chàri^, chawari^ou (diptote)" "31")
+ ("rue" "chàri^, chawàri^ (diptote)" "31")
  ("S" "Sàd" "19")
  ("s" "sìn" "2")
  ("s'il vous plait (?)" "rajà'an" "")
@@ -2075,6 +2080,8 @@
 
 
 ("Rosetta 2.2"
+ "bâtiment"
+ "parc, jardin"
  "s'il vous plait (?)"
  "employé"
  "directeur"
@@ -2108,6 +2115,9 @@
 
 
 ("Rosetta 2.3"
+ "épice"
+ "cardamome"
+ "backgammon"
  "problème"
  "désolé"
  "avent"
@@ -2229,6 +2239,11 @@
 
 
 ("<Review>"
+ "épice"
+ "cardamome"
+ "backgammon"
+ "bâtiment"
+ "parc, jardin"
  "fermer"
  "requin"
  "rafraichissements"
