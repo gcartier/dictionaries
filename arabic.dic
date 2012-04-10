@@ -6,7 +6,8 @@
 (primary: "French" secondary: "Arabic")
 
 
-(("&" "ayn" "18")
+(("" "" "")
+ ("&" "ayn" "18")
  ("'" "hamza" "1")
  ("(et) mais" "walakinna" "23")
  ("1" "wàHidoun, wàHidatoun, Hàdì" "")
@@ -185,6 +186,7 @@
  ("chien" "kalb" "15")
  ("chiffre, numéro" "raqm, arqàm" "")
  ("chocolat" "choùkoùlàtah" "")
+ ("choisir" "ikhtàra, yakhtàrou" "")
  ("chose / object" "chay'" "22")
  ("chutes (?)" "tahToul" "")
  ("ciel" "samà'" "")
@@ -218,15 +220,18 @@
  ("contemplation" "tafarrouj" "40")
  ("contenir" "iHtawà, yaHtawì ^alà" "")
  ("corne de gazelle" "ka^bou ghazàlin" "32")
+ ("coucher (se)" "raqada, yarqoudou" "")
  ("couleur" "laoun, alwàn" "")
  ("courrier / poste" "barìd" "19")
  ("courrir" "jarà, yajrì" "")
  ("court, petit" "qaSìr" "")
+ ("couteau" "sikkìn" "")
  ("couter" "kallafa, youkallifou" "")
  ("coûteux / cher" "mouklif" "23")
  ("couverture" "baTTànyya(t)" "")
  ("cravate" "rabTatou ^ounouqin" "")
  ("cueillette" "yaqTif" "")
+ ("cuillère" "mil^aqa(t)" "")
  ("cuisine" "maTbakh" "")
  ("cuisiner" "Tabakha, yaTboukhou" "")
  ("D" "Dàd" "23")
@@ -272,7 +277,8 @@
  ("diner" "ghadà'" "")
  ("diplôme" "chahàda(t)" "38")
  ("dire" "qàla, yaqoùlou" "9")
- ("directeur" "moudìra(t)" "")
+ ("directeur" "moudìr" "")
+ ("directrice" "moudìra(t)" "")
  ("distance" "masàfa(t)" "")
  ("dix" "^achra" "")
  ("doigt" "iSba^, aSàbi^" "")
@@ -372,14 +378,16 @@
  ("fontaine" "nàfoùra(t)" "")
  ("forêt" "ghàba(t)" "")
  ("four" "fourn" "")
+ ("fourchette" "chaouka(t)" "")
  ("frais / tendre" "Tariyy" "30")
  ("français" "faransiyya(t)" "43")
  ("frère / ami" "akhr" "17")
  ("froid" "bard" "")
  ("froid (adjectif)" "bàrid" "")
+ ("fromage" "joubn" "")
  ("fruit" "fàkiha(t)" "")
  ("fruits" "thimàr" "36")
- ("garcon" "walad, aoulad" "3")
+ ("garcon" "walad, aoulad, fatàn (? rosetta 2.3 ?)" "3")
  ("garçon de restaurant" "ghars" "31")
  ("gare d'autobus" "maHaTTatou Hàfilàtin" "")
  ("gare de train" "maHaTTatou (a)l-qiTàri" "33")
@@ -419,6 +427,7 @@
  ("inscription" "tasjìl" "38")
  ("intelligent" "dhakiyy" "38")
  ("invité" "Dayf, Douyoùf" "36")
+ ("inviter" "da^à, yad^où" "")
  ("islamique" "islàmiyy" "40")
  ("j" "jìm" "2")
  ("janvier" "yanàir" "")
@@ -511,6 +520,7 @@
  ("médicament" "dawà'" "")
  ("meilleur" "afDalou" "")
  ("même" "nafs + pronom" "")
+ ("mentir" "kadhaba, yakdhibou" "")
  ("mer" "baHr" "39")
  ("merci" "choukran" "17")
  ("merci (reconnaissant) " "mamnoùn" "43")
@@ -564,11 +574,13 @@
  ("nuageux" "ghà'im" "")
  ("nuit" "layla(t)" "")
  ("ô / eh" "yà" "17")
+ ("obtenir" "HaSala, yaHSoulou" "")
  ("obtention" "HouSoùl" "38")
  ("occasion" "mounàsaba(t)" "36")
  ("occupé" "machghoùl" "")
  ("octobre" "ouktoubir" "")
  ("odeur" "rà'iHa(t)" "")
+ ("oeil" "^ayn" "")
  ("oeuf" "bayDa(t), bìD" "")
  ("offre" "taqdìm" "36")
  ("oignon" "baSal" "")
@@ -582,6 +594,7 @@
  ("orange" "bourtouqàl" "")
  ("orange (couleur)" "bourtouqàliyy" "")
  ("ordinateur" "HàSoùb, kombìoùtar" "")
+ ("oreille" "oudhoun" "")
  ("oreiller" "wisàda(t)" "")
  ("ou" "aou" "43")
  ("où" "ayna" "11")
@@ -630,6 +643,7 @@
  ("pays" "balad" "")
  ("paysan" "fallàH" "34")
  ("pendant, à travers" "khilàl" "")
+ ("penser" "fakkara, youfakkirou à: fì que bi'anna" "")
  ("père" "wàlid" "6")
  ("personne" "chakhS, achkhàS" "31")
  ("perte (poisse)" "khasàra(t)" "40")
@@ -640,7 +654,7 @@
  ("phrase" "joumla" "")
  ("pièce" "ghourfa(t)" "")
  ("pièce (de monnaie)" "qiT^a(t)" "")
- ("pied" "qadam" "")
+ ("pied" "qadam, aqdàm" "")
  ("place" "sàHa(t)" "43")
  ("plage" "chàTì'" "")
  ("plastique" "blàstìk" "")
@@ -650,6 +664,7 @@
  ("pluvieux" "moumTar" "")
  ("poète" "chà^ir" "37")
  ("poisson" "samaka(t)" "30")
+ ("poivre" "foulfoul" "")
  ("poix chiches" "HoummouS" "41")
  ("policier" "chourTiyy" "")
  ("pomme" "touffàHa(t)" "")
@@ -767,12 +782,12 @@
  ("seau" "daloù" "")
  ("sec" "jàff" "")
  ("seconde" "thània(t)" "")
+ ("sel" "milH" "")
  ("semaine" "ousboù^, asàbì^" "27")
  ("sentir (se)" "cha^ara, yach^ourou bi-" "")
  ("sentir quelque chose" "chamma, yachoummou" "")
  ("sept" "sab^a" "")
  ("septembre" "sibtimbir" "")
- ("sera" "satakoùnou" "")
  ("serrer contre soi" "you^àniqou" "")
  ("serviette" "minchafa(t), manàchif" "")
  ("serviteur" "khadim" "19")
@@ -801,6 +816,7 @@
  ("station d'essence" "maHaTTatou waqoùdin" "")
  ("statue" "timthàl" "")
  ("stylo" "qalam, aqlàm" "9")
+ ("sucre" "sukkar" "")
  ("sur" "^alà" "19")
  ("syllabe" "maqta" "")
  ("s’assoir" "jalasa, yajlisou" "2")
@@ -809,7 +825,9 @@
  ("table" "mà’ida(t)" "19")
  ("tableau" "laouHa(t)" "")
  ("tablier" "maryala(t)" "")
+ ("taire (se)" "sakata, yaskoutou" "")
  ("tambour" "Tabl" "")
+ ("tapis" "bisàT" "")
  ("tasse" "koùb" "")
  ("taxi" "sayyàratou oujara(t)" "")
  ("téléphone" "hàtif, hawàtif" "38")
@@ -844,8 +862,10 @@
  ("trajet / voyage" "safra(t)" "27")
  ("travail" "^amal" "")
  ("travailler" "^amila, ya^malou" "")
+ ("traverser" "^abara, ya^bourou" "")
  ("très" "jiddan" "18")
  ("trois" "thalàtha" "")
+ ("tromper (se)" "akhTa'a, youkhTi'ou" "")
  ("trouver" "wajada, yajidou" "6")
  ("type, catégorie, genre, espèce, sorte" "naou^, anwà^" "39")
  ("un" "wàHid" "")
@@ -864,14 +884,18 @@
  ("venir" "jà'a, yajì'ou" "38")
  ("vers" "ilà" "11")
  ("vers de terre" "doud" "")
+ ("verser" "Sabba, yaSoubbou" "")
  ("vert" "akhDar, khaDrà'" "")
  ("vêtement" "malbas, malàbis" "26")
  ("viande" "laHm" "30")
  ("vide" "fàrigh" "41")
+ ("vider" "farragha, youfarrighou" "")
  ("vieux" "mousinn" "")
  ("village" "qarya(t)" "33")
  ("ville" "madìna(t)" "16")
+ ("vin" "khamr" "")
  ("vingt" "ichroùn" "")
+ ("virer" "in^aTafa, yan^aTifou" "")
  ("visage" "wajh" "")
  ("visite" "ziyàra(t)" "22")
  ("visiter" "zàra, yazoùrou" "36")
@@ -907,6 +931,28 @@
 
 
 ("Personal"
+ "coucher (se)"
+ "choisir"
+ "inviter"
+ "oreille"
+ "oeil"
+ "tapis"
+ "fourchette"
+ "cuillère"
+ "couteau"
+ "fromage"
+ "vin"
+ "poivre"
+ "sel"
+ "sucre"
+ "mentir"
+ "taire (se)"
+ "traverser"
+ "tromper (se)"
+ "verser"
+ "vider"
+ "obtenir"
+ "penser"
  "présent"
  "on l'écrit"
  "se prononce"
@@ -1418,6 +1464,18 @@
 
 
 ("Verbs"
+ "coucher (se)"
+ "choisir"
+ "inviter"
+ "mentir"
+ "taire (se)"
+ "traverser"
+ "tromper (se)"
+ "verser"
+ "vider"
+ "virer"
+ "obtenir"
+ "penser"
  "pleurer"
  "rire"
  "sourire"
@@ -2080,6 +2138,8 @@
 
 
 ("Rosetta 2.2"
+ "virer"
+ "directrice"
  "bâtiment"
  "parc, jardin"
  "s'il vous plait (?)"
@@ -2139,7 +2199,6 @@
  "soupe"
  "dessert"
  "masquée (?)"
- "sera"
  "mille"
  "cent"
  "situer (se)"
@@ -2239,6 +2298,7 @@
 
 
 ("<Review>"
+ "directrice"
  "épice"
  "cardamome"
  "backgammon"
@@ -2508,7 +2568,80 @@
  "enveloppe"
  "timbres"
  "bureau de classe"
- "cahier de notes")
+ "cahier de notes"
+ "pendant, à travers"
+ "mars"
+ "quand"
+ "taxi"
+ "s'il vous plait (?)"
+ "voici ..."
+ "vol (voyage)"
+ "chanteuse"
+ "tambour"
+ "préparer"
+ "désirer"
+ "mauvais"
+ "commencer"
+ "fontaine"
+ "métro"
+ "même"
+ "conclure (se)"
+ "états-unis"
+ "niveau"
+ "école primaire"
+ "musicien"
+ "avent"
+ "tomber (pluie, neige, ...)"
+ "pour (?)"
+ "collège"
+ "occupé"
+ "possible (il est ~ de)"
+ "colline"
+ "image"
+ "cent"
+ "match"
+ "spectacle théâtral"
+ "meilleur"
+ "chanter"
+ "amener"
+ "rencontrer (se)"
+ "danser"
+ "directeur"
+ "aider à"
+ "pleurer"
+ "usine"
+ "être permis de"
+ "tableau"
+ "problème"
+ "mettre"
+ "terminer (se)"
+ "sourire"
+ "addresse"
+ "mille"
+ "dessert"
+ "seconde"
+ "soupe"
+ "désolé"
+ "rire"
+ "lycée"
+ "janvier"
+ "temple"
+ "devoir"
+ "date, horaire, rendez-vous"
+ "statue"
+ "masquée (?)"
+ "escalier"
+ "parler de, s'entretenir"
+ "tôt"
+ "date"
+ "situer (se)"
+ "arrêt"
+ "préférer"
+ "danseuse"
+ "employé"
+ "jouer (de la musique?)"
+ "chutes (?)"
+ "retard (en)")
 
 
 ;;;
