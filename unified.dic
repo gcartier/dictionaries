@@ -1,0 +1,1530 @@
+﻿;;;
+;;;; Spanish
+;;;
+
+
+(primary: "French" secondary: "Spanish" tertiary: "Arabic")
+
+
+(("(et) mais" "" "walakinna" "")
+ ("0" "cero" "" "")
+ ("1" "uno" "wàHidoun, wàHidatoun, Hàdì" "")
+ ("2" "dos" "ithnàni, ithnatàni, thànì" "")
+ ("2ième personne du pluriel" "" "-toum" "")
+ ("3" "tres" "thalàthou, thalàthatou, thàlithou" "")
+ ("4" "cuatro" "arba^ou, arba^atou, ràbi^ou" "")
+ ("5" "cinco" "khamsou, khamsatou, khàmisou" "")
+ ("6" "seis" "sittou, sittatou, sàdisou" "")
+ ("7" "siete" "sab^ou, sab^atou, sàbi^ou" "")
+ ("8" "ocho" "thamànì, thamàniyatou, thàminou" "")
+ ("9" "nueve" "tis^ou, tis^atou, tàsi^ou" "")
+ ("_10" "diez" "^achrou, ^achratou, ^àchirou" "")
+ ("_11" "once" "" "")
+ ("_12" "doce" "" "")
+ ("_20" "viente" "^ichroùna" "")
+ ("_30" "treinta" "" "")
+ ("_40" "cuarenta" "" "")
+ ("_50" "cincuenta" "" "")
+ ("_60" "sesenta" "" "")
+ ("_70" "setenta" "" "")
+ ("_80" "ochenta" "" "")
+ ("_90" "noventa" "" "")
+ ("a / à" "" "alif" "")
+ ("à / pour" "" "li" "")
+ ("à côté de" "al lado" "bijànibi" "")
+ ("à l'heure" "a tiempo" "" "")
+ ("à l'occasion de" "" "bi-mounàsabati" "")
+ ("à mon tour" "" "bi-dawrì" "")
+ ("abondant" "" "jazìlan" "")
+ ("abondant / nombreux" "" "kathìr" "")
+ ("accent a" "" "fatha" "")
+ ("accent chadda" "" "chadda" "")
+ ("accent hamza" "" "hamza" "")
+ ("accent i" "" "kasra" "")
+ ("accent ou" "" "damma" "")
+ ("accent soukoun" "" "soukoun" "")
+ ("accent tanwin" "" "tanwin" "")
+ ("accent wasla" "" "wasla" "")
+ ("accompagner" "" "ràfaqa, youràfiqou" "")
+ ("achat" "" "chirà'" "")
+ ("acheter" "compro" "ichtara, yachtarì" "")
+ ("acide" "" "HàmiD" "")
+ ("activité" "" "nachàT" "")
+ ("addition, compte" "" "Hisàb" "")
+ ("addresse" "dirección" "^ounouàn" "")
+ ("adieux" "adios" "" "")
+ ("adulte" "adulto" "" "")
+ ("adulte (mature)" "" "ràchid" "")
+ ("aéroport" "aeropuerto" "maTàr" "")
+ ("affamé" "" "jaou^an ou jài^oun" "")
+ ("affamé(e)" "" "jaou^àn / jaou^ànat (diptote)" "")
+ ("age" "" "^oumr" "")
+ ("agé" "mayor" "" "")
+ ("âge" "" "sinn" "")
+ ("aider à" "ayuda" "sà^ada, yousà^idou ^alà" "")
+ ("aigle" "" "nisr" "")
+ ("aimer (objet)" "gusta" "" "")
+ ("aimer (personne)" "quiere a" "aHabba, youHibbou" "")
+ ("ainsi" "" "hakadhà" "")
+ ("allant" "" "dhàhib" "")
+ ("aller" "ir, va" "dhahaba, yadhhabou" "")
+ ("aller bien (vetement)" "queda" "" "")
+ ("alors" "" "idhan / ^inda'idhin," "")
+ ("âme" "" "nafs" "")
+ ("amener" "trae" "jalaba, yajlibou" "")
+ ("ami" "amigo" "Sadìq, aSdiqà'ou (diptote)" "")
+ ("amie" "amiga" "" "")
+ ("ancien" "antiguo" "^atìq" "")
+ ("ancien / vieux" "" "qadìm" "")
+ ("anglais" "ingles" "inkilìziyya(t)" "")
+ ("animal" "animal" "Hayawàn, Hayawànà(t)" "")
+ ("année" "año" "sana(t), sanawàt" "")
+ ("années" "" "sanatan" "")
+ ("anniversaire" "cumpleaños" "" "")
+ ("aout" "agosto" "aghousTous" "")
+ ("appartement" "piso" "chaqqa(t)" "")
+ ("appeler" "llamo" "nàdà, younàdì" "")
+ ("après" "después" "ba^da" "")
+ ("apres-midi" "tarde" "" "")
+ ("arabe" "arabe" "^arab" "")
+ ("arabe (langue)" "" "^arabiyya(t)" "")
+ ("arbre" "arbol" "chajara(t), achjàr" "")
+ ("argent" "dinero" "nouqoùd" "")
+ ("argent comptant" "efectivo" "" "")
+ ("argile" "" "Tìn" "")
+ ("arret (d'autobus)" "parada" "moùqif" "")
+ ("arrêt d'autobus" "" "moùqifou al'Hàfilàt" "")
+ ("arrière (en)" "detras" "" "")
+ ("arriver" "llega" "waSala, yaSilou" "")
+ ("art" "arte" "fann" "")
+ ("assiette" "plato" "SaHn, SouHoun" "")
+ ("assis (etre)" "sentado" "" "")
+ ("assoiffé" "" "^aTchànou" "")
+ ("attendre" "espero" "intaZara, yantaZirou" "")
+ ("attente" "" "intiZàr" "")
+ ("au revoir" "" "wadà^an" "")
+ ("aucun" "ningun" "" "")
+ ("aujourd'hui" "hoy" "al'yaouma" "")
+ ("aujourd'hui (maintenant je suis)" "ahora" "" "")
+ ("auprès" "" "ladà" "")
+ ("aussi" "" "ayDan" "")
+ ("aussitôt / immédiatement" "" "faouran" "")
+ ("auto" "coche" "" "")
+ ("autobus" "autobus" "bàS, Hàfila(t)" "")
+ ("automne" "otoño" "kharìf" "")
+ ("autour" "" "Haoula" "")
+ ("autre" "" "àkhara" "")
+ ("autres (les) (?)" "nadie" "" "google translate: no one")
+ ("avant" "antes" "qabla an + cas indirect" "")
+ ("avant (en)" "delante" "" "")
+ ("avec" "con" "ma^a" "")
+ ("avec / au moyen de" "" "bi" "")
+ ("avec plaisir" "con mucho gusto" "" "")
+ ("avent" "" "majì'" "")
+ ("Avez vous" "Tiene usted" "" "")
+ ("avion" "avion" "Tà'ira(t)" "")
+ ("avoir" "tiene" "" "")
+ ("avoir (age) (!?)" "cumplo" "" "cumplir -> to carry out")
+ ("avoir besoin" "necesito" "iHtàja, yaHtàjou" "")
+ ("avoir faim" "" "jà^a, yajoù^ou" "")
+ ("avril" "abril" "abrìl" "")
+ ("b" "" "bà" "")
+ ("backgammon" "" "Tàwila(t)" "")
+ ("bagages" "" "amti^a(t)" "")
+ ("bain" "baño" "" "")
+ ("bain / salle de bain / toilettes" "" "Hammàm" "")
+ ("balle, ballon" "pelota" "koura(t), à(t)" "")
+ ("bande (de personnes)" "" "firqa(t)" "")
+ ("banque" "banco" "bank" "")
+ ("bas" "" "asfal" "")
+ ("bas (vêtement)" "calcetines" "jaouàrib" "")
+ ("bâtiment" "" "binàya(t), àt / mabn, mabàn" "")
+ ("baton" "" "maDrib" "")
+ ("beau" "" "jamìl" "")
+ ("beaucoup" "mucho" "kathìran" "")
+ ("bébé" "bebé" "radì^" "")
+ ("besoin" "" "Hàja(t)" "")
+ ("beurre" "" "zoubda(t)" "")
+ ("bibliothèque" "biblioteca" "maktaba(t)" "")
+ ("bicyclette" "bicicleta" "darràja(t), à(t)" "")
+ ("bien" "bien" "" "")
+ ("bien!" "" "Hasanan" "")
+ ("bienvenue (à)" "" "ahlan (bi-)" "")
+ ("bienvenue / bonjour" "bienvenidos" "marHaban" "")
+ ("bijou" "joya" "moujaouhar, moujaouharàt" "")
+ ("bijouterie" "joyeria" "maHallou moujaouharàtin" "")
+ ("billet" "billete" "" "")
+ ("blanc" "blanco" "abiad, baidà'" "")
+ ("bleu" "azul" "azraq, zarqà'" "")
+ ("blond" "rubios" "achqarou" "")
+ ("boeuf (?)" "" "baqar" "")
+ ("boire" "bebe" "chariba, yachrabou" "")
+ ("bois" "madera" "khachab" "")
+ ("bol" "cuenco" "soulTànyya(t)" "")
+ ("bon" "bueno" "jayyid" "")
+ ("bon (goute)" "bueno" "" "")
+ ("bon (sens)" "bien" "" "")
+ ("bon marché" "" "rakhìs" "")
+ ("bonjour" "hola" "ahlan" "")
+ ("bonne nuit" "buenas noche" "Tàbat laylatouk" "")
+ ("bouche" "" "fam" "")
+ ("boulangerie" "panaderia" "" "")
+ ("boutique" "" "doukkàn" "")
+ ("bracelet" "" "siwàr" "")
+ ("bravo" "" "mà chà'a allah" "")
+ ("brisé" "roto" "maksoùr" "")
+ ("brochettes" "" "kabàb" "")
+ ("brosse" "cepillo" "fourchà(t)" "")
+ ("brosse à dents" "cepillo de dientes" "fourchàtou asnànin" "")
+ ("brosser les cheveux" "" "yousarriHou" "")
+ ("brosser les dents" "" "yousawwikou" "")
+ ("brun" "marron" "bounniya(t)" "")
+ ("bureau" "oficina" "maktab" "")
+ ("bureau de classe" "" "maktab" "")
+ ("bureau de poste" "oficina de correos" "maktabou barìdin" "")
+ ("c'est vrai" "" "SaHìH" "")
+ ("cadeau" "" "hadiyya(t)" "")
+ ("café (boisson)" "café" "qahwa" "")
+ ("café (lieu)" "café" "maqhà" "")
+ ("cahier" "" "daftar" "")
+ ("cahier de notes" "" "daftarou moulàHaZàtin" "")
+ ("caliner" "abraza" "" "")
+ ("caméra" "camara" "" "")
+ ("canards" "" "baTT" "")
+ ("capitale" "" "^àSima(t)" "")
+ ("cardamome" "" "hayl (?)" "")
+ ("carnet" "cuaderno" "" "")
+ ("carotte" "zanahoria" "jazar" "")
+ ("carte" "mapa" "kharìTa(t)" "")
+ ("carte de crédit" "tarjeta de crédito" "biTàqàtou al'itimàni" "")
+ ("cause / raison / motif" "" "sabab" "")
+ ("ce / ceci" "" "hadhà" "")
+ ("ceinture" "cinturon" "Hizàm" "")
+ ("cela" "ese, eso" "dhalika" "")
+ ("célèbre" "" "chahìr" "")
+ ("cellulaire" "movile" "" "")
+ ("cent" "ciento" "mì'a(t)" "")
+ ("centre" "" "markaz" "")
+ ("cérémonie, fête" "" "Hafla(t)" "")
+ ("certains" "algunos" "ba^D" "")
+ ("certes" "" "inna" "")
+ ("cet" "este" "" "")
+ ("cette" "esta" "" "")
+ ("cette / celle-ci" "" "hadhihi" "")
+ ("ceux" "" "ha'oulà'i" "")
+ ("ch" "" "chìn" "")
+ ("chaire (à prêcher)" "" "minbar" "")
+ ("chaise" "silla" "koursiyy, karàs" "")
+ ("chambre à coucher" "" "ghourfatou al'naoumi" "")
+ ("chameau" "" "jamal" "")
+ ("chandail" "jersey" "kanza(t)" "")
+ ("chanter" "canta" "ghannà, youghannì" "")
+ ("chanteuse" "cantante" "moughanniyya(t)" "")
+ ("chapeau" "sombrero" "qoubba^a(t)" "")
+ ("chaque" "" "koull" "")
+ ("chat" "gato" "qitt" "")
+ ("chaud" "" "Hàrr" "")
+ ("chaud (avoir)" "calor" "" "")
+ ("chemise" "camisa" "qamìS" "")
+ ("chèque" "cheque" "chìkàt" "")
+ ("cher" "caro" "ghàlì, ghàlyat" "")
+ ("chercher" "" "baHatha, yabHathou ^an" "")
+ ("cheval" "caballo" "jawàd, jiwàd" "")
+ ("cheveux" "pelo" "cha^r" "")
+ ("chez / auprès de / selon / au moment ou" "" "^inda" "")
+ ("chien" "perro" "kalb" "")
+ ("chiffre, numéro" "" "raqm, arqàm" "")
+ ("chinois" "chino" "" "")
+ ("chocolat" "chocolate" "choùkoùlàtah" "")
+ ("choisir" "" "ikhtàra, yakhtàrou" "")
+ ("chose / object" "" "chay'" "")
+ ("chutes (?)" "" "tahToul" "")
+ ("ciel" "" "samà'" "")
+ ("cinéma" "" "sìnamà" "")
+ ("cinq" "cinco" "khamsa" "")
+ ("citron" "" "laymoùn" "")
+ ("classe" "clase" "Saff, Soufoùf" "")
+ ("clef" "llave" "miftàH, mafàtìH" "")
+ ("client" "" "zaboùn" "")
+ ("climat" "" "jaouou" "")
+ ("climatisation" "" "takyìfou al-hawà'i" "")
+ ("coeur" "" "qalb, qouloùb" "")
+ ("collège" "instituto" "koullìa(t)" "")
+ ("colline" "" "tall" "")
+ ("combien" "cuanto" "" "")
+ ("combien de" "" "kam (+ nom singulier + -an)" "")
+ ("comme + nom" "" "ka- + nom au cas indirect" "")
+ ("comme + pronom" "" "mithla + pronom" "")
+ ("comme + verbe" "" "kamà" "")
+ ("commence" "empieza" "" "")
+ ("commencer" "" "bada'a, yabda'ou" "")
+ ("comment" "como" "kayfa" "")
+ ("commerçant / marchand" "" "tàjir" "")
+ ("commerce (le)" "" "tijàra(t)" "")
+ ("compatible" "" "moulà'im" "")
+ ("complet (vetement)" "traje" "badla(t)" "")
+ ("comprendre" "entiende" "fahima, yafhamou" "")
+ ("comptant (payer)" "" "naqdan" "")
+ ("concert" "concierto" "Hafloun moùsìqiyyoun" "")
+ ("conclure (se)" "" "youkhtamou bi" "")
+ ("conduire" "conduce" "qàda, yaqoùdou" "")
+ ("connaître" "" "^arafa, ya^rifou" "")
+ ("contacter" "" "ittaSala, yattaSilou bi" "")
+ ("contemplation" "" "tafarrouj" "")
+ ("contenir" "" "iHtawà, yaHtawì ^alà" "")
+ ("contenu (le)" "" "mouHtawayyàt (?)" "")
+ ("corne de gazelle" "" "ka^bou ghazàlin" "")
+ ("coucher (se)" "" "raqada, yarqoudou" "")
+ ("couleur" "color" "laoun, alwàn" "")
+ ("courir" "corre" "jarà, yajrì" "")
+ ("courriel" "mensaje electronico" "" "")
+ ("courrier / poste" "correo" "barìd" "")
+ ("court, petit" "" "qaSìr" "")
+ ("coute" "cuesta" "" "")
+ ("couteau" "" "sikkìn" "")
+ ("couter" "" "kallafa, youkallifou" "")
+ ("coûteux / cher" "" "mouklif" "")
+ ("couverture" "manta" "baTTànyya(t)" "")
+ ("cravate" "corbata" "rabTatou ^ounouqin" "")
+ ("crayon" "boligrafos" "" "")
+ ("cueillette" "" "yaqTif" "")
+ ("cuillère" "" "mil^aqa(t)" "")
+ ("cuisine" "cocina" "maTbakh" "")
+ ("cuisiner" "cocina" "Tabakha, yaTboukhou" "")
+ ("D" "" "Dàd" "")
+ ("d" "" "dàl" "")
+ ("d'habitude" "" "^àdatan" "")
+ ("dans" "en" "fì" "")
+ ("danser" "baila" "raqaSa, yarqouSou" "")
+ ("danseuse" "bailarina" "ràqiSa(t)" "")
+ ("date" "fecha" "tàrìkh" "")
+ ("date, horaire, rendez-vous" "" "maou^id, mawà^id" "")
+ ("de" "del / de" "min ; ^an" "")
+ ("de rien" "de nada" "^afwan" "")
+ ("debout (etre)" "de pie" "" "")
+ ("début" "" "bidàya(t)" "")
+ ("décembre" "diciembre" "disimbir" "")
+ ("dedans" "dentro" "dàkhil" "")
+ ("dehors" "fuera" "khàrij" "")
+ ("déjeuner" "desayunando" "faToùr" "")
+ ("délicieux" "" "Tayyib" "")
+ ("délicieux, savoureux" "" "ladhìdh" "")
+ ("demain" "mañana" "ghadan" "")
+ ("demander" "" "Talaba, yaTloubou" "")
+ ("demander si" "" "sa'ala, yas'alou" "")
+ ("demeurant (?)" "" "bàqìyya(t)" "")
+ ("demeurer" "" "baqiya, yabqà" "")
+ ("demi" "media" "" "")
+ ("dent" "diente" "sinn, asnàn" "")
+ ("dépense" "" "badhl" "")
+ ("dernier" "" "akhìr" "")
+ ("derrière" "" "khalf" "")
+ ("descendre" "" "nazala, yanzilou" "")
+ ("descendre (d'un autobus)" "se baja" "" "")
+ ("désirer" "" "raghiba, yarghabou fì (ou) bi" "")
+ ("désolé" "lo siento" "àsif" "")
+ ("dessert" "postre" "Halwà" "")
+ ("dessous" "" "taHta" "")
+ ("dessus" "" "faouqa" "")
+ ("deux" "" "ithnàn" "")
+ ("devant" "" "amàma" "")
+ ("devoir" "debe" "wajaba, yajibou ^alà" "")
+ ("devoir (un)" "" "wàjib" "")
+ ("dh" "" "dhàl" "")
+ ("dictée" "" "imlà'" "")
+ ("dictionnaire" "diccionario" "qàmoùs" "")
+ ("dieu" "" "allah" "")
+ ("différent" "" "moukhtalif" "")
+ ("difficile" "" "Sa^b" "")
+ ("dimanche" "domingo" "yaouma al-aHad" "")
+ ("diner" "comiendo" "ghadà'" "")
+ ("diplôme" "" "chahàda(t)" "")
+ ("dire" "" "qàla, yaqoùlou" "")
+ ("directeur" "" "moudìr" "")
+ ("directrice" "" "moudìra(t)" "")
+ ("distance" "" "masàfa(t)" "")
+ ("distinct" "distinto" "" "")
+ ("dites" "diga" "" "")
+ ("dites moi" "dígame" "" "")
+ ("dix" "" "^achra" "")
+ ("doigt" "dedo" "iSba^, aSàbi^" "")
+ ("doigt de pied" "" "aSàbi^ou al-qadami" "")
+ ("dollard" "dolares" "" "")
+ ("donne-moi" "" "^aTinì" "")
+ ("donner" "" "a^Tà, you^Tì" "")
+ ("doré" "" "dhahabiyya(t)" "")
+ ("dormir" "duerme" "nàma, yanàmou" "")
+ ("drap" "sabana" "milà'a(t)" "")
+ ("drapeau" "" "^alam" "")
+ ("droit" "derecho" "" "")
+ ("droit (juridique)" "" "Haqq, Houqoùq" "")
+ ("droite" "derecha" "yamìn, youmna" "")
+ ("du bien" "" "khayr" "")
+ ("duel" "" "mouthannà" "")
+ ("dur d'oreille" "" "thaqìlou as-sam^i" "")
+ ("eau" "agua" "mà'" "")
+ ("échelle" "escalera" "soullam" "")
+ ("école" "colegio" "madrasa(t)" "")
+ ("école primaire" "" "madrasatou ibtida'iyyatou" "")
+ ("écouter (quelque chose)" "escuchando" "istama^a, yastami^ou ilà" "")
+ ("écrire" "escribe" "kataba, yaktoubou" "")
+ ("écrivain" "" "kàtib" "")
+ ("égaré" "" "tà'ih" "")
+ ("église" "" "kanìsa(t)" "")
+ ("Égypte" "" "Misr" "")
+ ("élève" "" "tilmìdh" "")
+ ("elle" "ella" "hiya" "")
+ ("elle est trouvée" "" "toùjadou" "")
+ ("elle suffit" "" "takfì" "")
+ ("elle va vers l'avant" "" "tadhhabou bittijàhi al'amàma" "")
+ ("emballer" "" "yaHazimou" "")
+ ("embrasser" "besa" "qabbila, youqabbilou" "")
+ ("emplettes" "" "tasawwouq" "")
+ ("employé" "empleado" "mouwaZZaf" "")
+ ("en avance" "temprano" "" "")
+ ("en quête de" "" "baHthan ^an" "")
+ ("en retard" "tarde" "" "")
+ ("endroit" "" "makàn, amàkin" "")
+ ("enfant" "" "Tifla(t), aTfàl, ibn" "")
+ ("enfin, finalement" "" "akhìran" "")
+ ("énorme" "" "Dakhm" "")
+ ("enseignant" "" "mou^allim" "")
+ ("enseigner" "enseña" "darrasa, youdarrisou" "")
+ ("ensemble (plusieurs)" "" "ma^an" "")
+ ("ensoleillé" "" "mouchmis" "")
+ ("entre" "" "bayna" "")
+ ("entreprise" "" "charika(t)" "")
+ ("entrer" "" "dakhala, yadkhoulou" "")
+ ("enveloppe" "" "Zarf" "")
+ ("épice" "" "tàbil, tawàbil" "")
+ ("épicé" "" "moutabbal / Hàrr" "")
+ ("épicerie" "supermercado" "maHallou biqàlatin" "")
+ ("épicier" "" "biqàl" "")
+ ("épouse" "" "zaouja(t)" "")
+ ("époux" "" "zaouj" "")
+ ("équipement" "" "mou^addà(t)" "")
+ ("erreur" "" "khaTà'" "")
+ ("es-ce que" "" "hal" "")
+ ("escalier" "" "daraj" "")
+ ("espagne" "españa" "" "")
+ ("espagnol" "español" "" "")
+ ("essence" "gasolina" "waqoùd" "")
+ ("est" "" "charq" "")
+ ("et" "y" "wa" "")
+ ("état (d'une personne)" "" "Hàl" "")
+ ("états-unis" "estados unidos" "oulàyàti al'mouttaHida(t)" "")
+ ("été" "verano" "Saìf" "")
+ ("étrange" "" "gharìb" "")
+ ("étranger" "" "ajnabiyy" "")
+ ("être" "" "kàna, yakoùnou" "")
+ ("être debout" "" "yaqifou" "")
+ ("être malade / tomber malade" "" "mariDa, yamraDou" "")
+ ("être permis de" "" "jàza, yajoùzou an" "")
+ ("étude" "" "diràsa(t)" "")
+ ("étudiant" "estudiante" "Tàlib, Toullàb" "")
+ ("étudier" "estudia" "darasa, yadrousou" "")
+ ("euros" "euros" "" "")
+ ("eux" "" "houm" "")
+ ("évier" "" "mighsala(t)" "")
+ ("exagéré" "" "ghàya(t)" "")
+ ("examiner" "" "naZara, yanZourou fì" "")
+ ("excusez-moi" "" "ou^dhournì" "")
+ ("exemple" "" "mathal" "")
+ ("expert" "" "khabìr" "")
+ ("f" "" "fà" "")
+ ("faché" "" "ghàDib" "")
+ ("faim (avoir)" "hambre" "" "")
+ ("faire" "haciendo" "fa^ala, yaf^alou" "")
+ ("faire la file" "haciendo cola" "" "")
+ ("fait de" "" "maSnoù^" "")
+ ("fait de manger" "" "akl" "")
+ ("fait soleil" "hace sol" "" "")
+ ("famille" "familia" "ahl, ^à'ila(t)" "")
+ ("fatigant" "" "mout^ib" "")
+ ("fatigué" "cansada" "mout^ab" "")
+ ("femme" "mujer" "imra'a(t), mar'a(t), nisà'" "")
+ ("femmes" "" "nisà'" "")
+ ("fenêtre" "ventana" "nàfidha(t)" "")
+ ("ferme" "" "mazra^a(t)" "")
+ ("fermé" "cerrado" "moughlaq" "")
+ ("fermer" "" "aghlaqa, youghliqou" "")
+ ("fête" "" "^ìd" "")
+ ("fête de la Rupture du Jeûne" "" "^ìdou (a)l-FiTri" "")
+ ("février" "febrero" "fibràir" "")
+ ("file" "cola" "" "")
+ ("fille" "niña" "bint, banàt" "")
+ ("fille (sa)" "hija" "" "")
+ ("filles" "" "banàt" "")
+ ("film" "pelicula" "fìlm" "")
+ ("fils" "hijo" "" "")
+ ("filtre" "filtro" "" "")
+ ("fin" "" "nihàya(t)" "")
+ ("fini" "" "khalas" "")
+ ("finir (achever)" "" "anhà younhì" "")
+ ("fixer" "mirando" "" "")
+ ("fleur" "flor" "zahra(t), zouhoùr" "")
+ ("fontaine" "" "nàfoùra(t)" "")
+ ("footbal" "futbol" "" "")
+ ("forêt" "bosque" "ghàba(t)" "")
+ ("four" "" "fourn" "")
+ ("fourchette" "" "chaouka(t)" "")
+ ("frais / tendre" "" "Tariyy" "")
+ ("français" "" "faransiyya(t)" "")
+ ("frère" "hermano" "" "")
+ ("frère / ami" "" "akhr" "")
+ ("froid (adjectif)" "" "bàrid" "")
+ ("froid (avoir)" "frio" "bard" "")
+ ("fromage" "" "joubn" "")
+ ("fruit" "" "fàkiha(t)" "")
+ ("fruits" "fruta" "thimàr" "")
+ ("fut" "fue" "" "")
+ ("garcon" "niño" "walad, aoulad, fatàn (? rosetta 2.3 ?)" "")
+ ("garçon de restaurant" "" "ghars" "")
+ ("gare d'autobus" "estacion de autobuses" "maHaTTatou Hàfilàtin" "")
+ ("gare de train" "estacion de trenes" "maHaTTatou (a)l-qiTàri" "")
+ ("gauche" "izquierdo" "yasàr, yousra" "")
+ ("gens" "gente" "nàs" "")
+ ("gérant" "gerente" "" "")
+ ("gh" "" "ghayn" "")
+ ("glace" "" "thalj" "")
+ ("glacé" "" "mouthlij" "")
+ ("golf" "golf" "ghoùlf" "")
+ ("gout" "gusta" "Ta^m" "")
+ ("gouter" "prueba" "dhàqa, yadhoùqou" "")
+ ("grand" "grande" "kabìr" "")
+ ("grand (taille)" "alto" "" "")
+ ("grand-mere" "abuela" "" "")
+ ("grand-père" "abuelo" "jadd" "")
+ ("grandeur" "tamaño" "" "")
+ ("gris" "gris" "ramàdiyya(t)" "")
+ ("guitare" "" "ghìtàr" "")
+ ("H" "" "Hà" "")
+ ("h" "" "hà" "")
+ ("habiter" "" "sakana, yaskounou" "")
+ ("haricot" "" "fàsoùliyya" "")
+ ("haut" "" "a^alà" "")
+ ("herbe" "hierba" "^ouchb" "")
+ ("heure" "hora" "sà^a(t)" "")
+ ("heure / montre" "" "sà^a(t)" "")
+ ("heureux" "" "sa^ìd, sou^adà'" "")
+ ("heureux de faire ta connaissance" "encantado de conocerlo" "" "")
+ ("hibou" "" "boùm" "")
+ ("hier" "ayer" "yaouma amsi, bàriHa(t)" "")
+ ("histoire" "historia" "qiSS" "")
+ ("histoire (domaine)" "" "ta'rìkh" "")
+ ("hiver" "invierno" "chità'" "")
+ ("homme" "hombre" "rajoul, rijàl" "")
+ ("hopital" "hospital" "moustachfan" "")
+ ("hotel" "hotel" "foundouq, fanàdiq" "")
+ ("huile" "" "zayt, zouyoùt" "")
+ ("huit" "" "thamàniya" "")
+ ("ici" "aquí" "hounà" "")
+ ("il" "él" "" "")
+ ("il est à l'heure" "" "innahou fì waqtihi" "")
+ ("il fait soleil" "hace sol" "" "")
+ ("il neige" "esta nevando" "" "")
+ ("il pleut" "esta lloviendo" "" "")
+ ("il semble que" "" "yabdoù anna" "")
+ ("il y a" "hay" "" "")
+ ("ile" "" "jazìra(t), jouzour" "")
+ ("ils" "ellos" "" "")
+ ("image" "" "Soùra(t)" "")
+ ("indication" "" "ichàra(t)" "")
+ ("ingénierie" "" "handasa(t)" "")
+ ("inscription" "" "tasjìl" "")
+ ("intelligent" "" "dhakiyy" "")
+ ("invité" "invitado" "Dayf, Douyoùf" "")
+ ("inviter" "" "da^à, yad^où" "")
+ ("islamique" "" "islàmiyy" "")
+ ("j" "" "jìm" "")
+ ("j'ai" "tengo" "" "")
+ ("j'ai trouvé" "" "laqad wajadtou" "")
+ ("janvier" "enero" "yanàir" "")
+ ("jardin" "" "boustàn" "")
+ ("jardin zoologique" "" "Hadìqatou Hayawàn" "")
+ ("jaune" "amarillo" "aSfar, Safrà', Soufrou" "")
+ ("je" "yo" "" "")
+ ("je suis" "soy" "" "")
+ ("je t'en prie" "" "tafaDDal" "")
+ ("je vais vers" "" "i'dhahab bittijàhi" "")
+ ("je vous en prie" "" "tafaDDaloù" "")
+ ("jeans" "vaqueros" "" "")
+ ("jeu" "" "lou^ba(t)" "")
+ ("jeudi" "jueves" "yaouma al-khamìs" "")
+ ("jeune" "joven" "chabb" "")
+ ("jeune homme / jeunes gens" "" "chàbb, choubbàn" "")
+ ("jeune marié / jeune mariée" "" "^arìs, ^aroùs" "")
+ ("joie" "" "faraH" "")
+ ("jouer" "juega" "la^iba, yal^abou" "")
+ ("jouer (de la musique)" "toca" "ya^zifou" "")
+ ("jouet" "juguete" "lou^ab" "")
+ ("jour" "" "yaoum" "")
+ ("jour, aujourd'hui" "" "yaoumoun, al-yaouma" "")
+ ("journal" "periodico" "SaHìfa(t), SouHouf" "")
+ ("journée" "dia" "" "")
+ ("joyeux / content" "" "masroùr" "")
+ ("juillet" "julio" "iouliou" "")
+ ("juin" "junio" "iouniou" "")
+ ("jupe" "falda" "tannoùra(t), à(t)" "")
+ ("jus" "zumo" "^aSìr" "")
+ ("jusque" "" "Hattà" "")
+ ("k" "" "kàf" "")
+ ("kh" "" "khà" "")
+ ("kilometre" "kilometro" "" "")
+ ("l" "" "làm" "")
+ ("la" "la" "" "")
+ ("là" "ahí" "hounàka" "")
+ ("la place" "" "makàna" "")
+ ("la plus grande" "" "koubrà" "")
+ ("lac" "lago" "bouHayra(t)" "")
+ ("lait" "leche" "Halìb" "")
+ ("language, paroles, discour" "" "kalàm" "")
+ ("langue" "" "lougha(t)" "")
+ ("laquelle" "" "allatì" "")
+ ("lavabo" "fregadero" "" "")
+ ("laver" "lava" "ghasala, yaghsilou" "")
+ ("le" "el" "" "")
+ ("le lendemain" "" "yaouma al-ghadi" "")
+ ("leçon" "" "dars" "")
+ ("léger" "" "khafìf" "")
+ ("légume" "verdura" "khouDàr" "")
+ ("lent" "lento" "baTì'" "")
+ ("lequel" "cual" "alladhì" "")
+ ("les" "los / las" "" "")
+ ("les fleurs" "" "azhàr" "")
+ ("lettre" "sobre" "risàla(t), rasà'il" "")
+ ("lettre d'un mot" "" "Harf" "")
+ ("leurs" "" "-houm" "")
+ ("librairie" "libreria" "" "")
+ ("libre" "" "hourr" "")
+ ("ligne, rangée" "" "Saff" "")
+ ("lire" "lee" "qara'a, yaqra'ou" "")
+ ("liste / carte de restaurant" "" "qà'imat, qawà'imou" "")
+ ("lit" "cama" "sarìr" "")
+ ("lit (une carte, ...)" "" "youTàli^ou" "")
+ ("livre" "libro" "kitàb, koutoub" "")
+ ("livre sterling" "libra esterlina" "" "")
+ ("lo (?)" "lo" "" "google translate: the")
+ ("locaux" "" "maHallàt" "")
+ ("loin" "lejos" "" "")
+ ("lointain, loin (de)" "" "ba^ìd (^an)" "")
+ ("long, grand" "" "Tawìl" "")
+ ("louange" "" "Hamd" "")
+ ("lourd" "" "thaqìl" "")
+ ("lui" "" "houwa" "")
+ ("lumière" "" "noùr" "")
+ ("lundi" "lunes" "" "")
+ ("lune" "" "qamar" "")
+ ("lunettes" "gafas" "naZZàrà(t)" "")
+ ("lunettes de soleil" "" "naZZàràt chamsìya(t)" "")
+ ("lycée" "" "madrasatou thànaouyyatou" "")
+ ("m" "" "mìm" "")
+ ("ma" "mi" "" "")
+ ("madame" "señora" "" "")
+ ("mademoiselle" "" "ànisatì" "")
+ ("magasin" "tienda" "" "")
+ ("mai" "mayo" "màiou" "")
+ ("main" "mano" "yad, aydin" "")
+ ("maintenant" "" "al'àn" "")
+ ("mais" "pero" "" "")
+ ("maison" "casa" "bayt, bouyoùt" "")
+ ("maître" "maestro" "oustàdh" "")
+ ("malade" "enferma" "marìD" "")
+ ("maman" "mama" "oumm, oummahàt" "")
+ ("manger" "come" "akala, ya'koulou" "")
+ ("manteau" "abrigo" "mi^Taf" "")
+ ("marché" "" "soùq" "")
+ ("marcher" "anda" "machà, yamchì" "")
+ ("mardi" "martes" "" "")
+ ("mariage" "" "zawàj" "")
+ ("marque du futur devant l'innaccompli" "" "saoufa, sa-" "")
+ ("mars" "marzo" "màrisa(t)" "")
+ ("masque" "disfrace" "" "")
+ ("masquée (?)" "" "tanakouryya(t)" "")
+ ("match" "" "moubàrà(t)" "")
+ ("mathématiques" "matematicas" "riyàDiyyàt" "")
+ ("matière" "" "màdd" "")
+ ("matin" "mañana" "SabàH" "")
+ ("mauvais" "malo" "" "")
+ ("mauvais (goute)" "mala" "radì' / sayyi'" "")
+ ("mauvais (sens)" "mal" "" "")
+ ("mauve" "morado" "banafsajiyya(t)" "")
+ ("médecin" "médico" "Tabìb" "")
+ ("médicament" "medicina" "dawà'" "")
+ ("meilleur" "mejor" "afDal" "")
+ ("même" "mismo" "nafs + pronom" "")
+ ("mentir" "" "kadhaba, yakdhibou" "")
+ ("mer" "" "baHr" "")
+ ("merci" "gracias" "choukran" "")
+ ("merci (reconnaissant) " "" "mamnoùn" "")
+ ("mercredi" "miércoles" "" "")
+ ("mère" "madre" "wàlida(t)" "")
+ ("mesure" "" "qiyàs" "")
+ ("métal" "metal" "ma^dan" "")
+ ("métro" "metro" "qiTàrou al'anfàqa" "")
+ ("métropole" "" "misr" "")
+ ("mettre" "pone" "waDa^a, yaDa^ou" "")
+ ("midi" "mediodia" "Zouhr" "")
+ ("milieu" "" "wasaT" "")
+ ("mille" "mil" "alf, àlàf" "")
+ ("minute" "minuto" "daqìqa(t)" "")
+ ("moderne" "" "Hadìth" "")
+ ("moi" "yo" "anà" "")
+ ("moi seul" "" "waHdì" "")
+ ("moins" "menos" "" "")
+ ("mois" "mes" "chahr, chouhoùr" "")
+ ("moitié" "" "niSf" "")
+ ("moment" "momento" "" "")
+ ("mon" "mi" "" "")
+ ("mon / ma / mes (masculin)" "" "-ì" "")
+ ("monnaie" "moneda" "^oumlà(t)" "")
+ ("monsieur" "señor" "" "")
+ ("monsieur / madame" "" "sayyidì / sayyidatì" "")
+ ("montagne" "montaña" "jabal, jibàl" "")
+ ("monter" "" "sa^ida, yas^adou" "")
+ ("monter en selle, en voiture, ..." "" "rakiba, yarkabou" "")
+ ("montre / horloge" "reloj" "sà^a(t)" "")
+ ("mosquée" "" "masjid, masàjid" "")
+ ("mosquée principale" "" "jàmi^, jawàmi^" "")
+ ("mot" "palabra" "kalima(t)" "")
+ ("mouillé" "mojado" "moubtall" "")
+ ("mouton" "" "ghanam" "")
+ ("mur" "" "jidàr" "")
+ ("musée" "museo" "moutHaf" "")
+ ("musicien" "músico" "^àzif" "")
+ ("musique" "musica" "moùsìqà" "")
+ ("n" "" "noùn" "")
+ ("nager" "nada" "sabaHa, yasbaHou" "")
+ ("naissance" "" "mìlàd" "")
+ ("ne pas" "" "mà" "")
+ ("ne pas être" "" "laysa" "")
+ ("Ne t'en fais pas" "No te preocupes" "" "")
+ ("neiger" "nieva" "" "")
+ ("neuf" "nueve" "tis'a" "")
+ ("nez" "" "anf, ounoùf" "")
+ ("niveau" "" "moustawa" "")
+ ("noir" "negro" "asouad, saoudà'" "")
+ ("nom" "llamo" "ism, asmà'" "")
+ ("non" "no" "là" "")
+ ("nord" "" "chimàl" "")
+ ("notre" "" "-nà" "")
+ ("nourriture" "" "Ta^àm" "")
+ ("nous" "nosotros / nosotras" "naHnou" "")
+ ("nous avons tardé" "" "ta'akhkharnà" "")
+ ("nouveau" "" "jadìd" "")
+ ("novembre" "noviembre" "noufimbir" "")
+ ("nuage" "" "saHaba(t)" "")
+ ("nuageux" "nublado" "ghà'im" "")
+ ("nuit" "noche" "layla(t)" "")
+ ("numéro" "numero" "" "")
+ ("ô / eh" "" "yà" "")
+ ("obtenir" "" "HaSala, yaHSoulou" "")
+ ("obtention" "" "HouSoùl" "")
+ ("occasion" "" "mounàsaba(t)" "")
+ ("occupé" "ocupado" "machghoùl" "")
+ ("océan" "" "mouHìT" "")
+ ("octobre" "octubre" "ouktoubir" "")
+ ("odeur" "" "rà'iHa(t)" "")
+ ("oeil" "" "^ayn" "")
+ ("oeuf" "huevo" "bayDa(t), bìD" "")
+ ("offre" "regala" "taqdìm" "")
+ ("oignon" "" "baSal" "")
+ ("oiseau" "" "Ta'ir, Touyoùr" "")
+ ("olive" "" "zaytoùna(t), zaytoùn" "")
+ ("ombre" "" "Zill" "")
+ ("on l'écrit" "" "touktab" "")
+ ("oncle / tante maternel" "" "khàl / khàla(t)" "")
+ ("oncle / tante paternel" "" "^amm / ^amma(t)" "")
+ ("or" "" "dhahab" "")
+ ("orange" "naranja" "bourtouqàl" "")
+ ("orange (couleur)" "naranja" "bourtouqàliyy" "")
+ ("ordinateur" "ordenador" "HàSoùb, kombìoùtar" "")
+ ("oreille" "" "oudhoun" "")
+ ("oreiller" "almohada" "wisàda(t)" "")
+ ("ou" "o" "aou" "")
+ ("où" "" "ayna" "")
+ ("ou (interrogative)" "" "am" "")
+ ("ou (lieu)" "donde" "" "")
+ ("où ..." "" "Haythou" "")
+ ("oublier" "" "nasiya, yansà" "")
+ ("ouest" "" "gharb" "")
+ ("oui" "sí" "na^am" "")
+ ("oui (bien)" "" "aiwa" "")
+ ("ours" "" "doubb" "")
+ ("ouvert" "abierto" "maftoùH" "")
+ ("ouvrir" "" "fataHa, yaftaHou" "")
+ ("page" "" "waraqa" "")
+ ("pain" "pan" "khoubz" "")
+ ("palais" "" "qaSr" "")
+ ("panier" "" "salla(t), sallàt" "")
+ ("pantalon" "pantalon" "banTaloùn" "")
+ ("pantalons" "pantalones" "" "")
+ ("papa" "papa" "ab" "")
+ ("papier" "papel" "waraq" "")
+ ("papillon" "" "faràcha(t)" "")
+ ("par exemple" "" "mathalan" "")
+ ("paradis / jardin" "" "janna(t) / jannàt" "")
+ ("parapluie" "paraguas" "miZallàt" "")
+ ("parc" "parque" "mountazah" "")
+ ("parc, jardin" "" "Hadìqa(t)" "")
+ ("parce que" "porque" "li'anna" "")
+ ("pardon" "perdone" "" "")
+ ("pareil" "iguale" "" "")
+ ("parents" "" "wàlidà" "")
+ ("parfait" "" "moumtàz" "")
+ ("parfaitement" "" "tamàman" "")
+ ("parler" "habla" "takallama, yatakallamou" "")
+ ("parler de, s'entretenir" "" "taHàddatha, yataHàddathou ilà" "")
+ ("part" "sale" "" "")
+ ("particulier, spécial" "" "khàSS" "")
+ ("partie (jeu)" "partido" "" "")
+ ("pas" "" "ghayr" "")
+ ("pas chère" "barato" "" "")
+ ("pas d'issue (pour moi) de" "" "là boudda (lì) min" "")
+ ("pas de mal / ca va" "" "là ba'sa" "")
+ ("pas dénombrée" "" "là touHSà" "")
+ ("pas du tout / jamais" "" "abadan" "")
+ ("passé / qui est passé" "pasado" "màDì" "")
+ ("passeport" "pasaporte" "jaouàz, jaouàzou al'safari" "")
+ ("passer" "" "marra, yamourrou" "")
+ ("passer par" "" "marra bi-" "")
+ ("pate" "pasta" "" "")
+ ("pâte à dents" "" "ma^joùnou asnànin" "")
+ ("patisserie (magasin)" "pasteleria" "makhbaz" "")
+ ("pâtisserie, friandise" "pastel" "Halwà, Halawiyàt" "")
+ ("patissier" "" "Halwàniyy" "")
+ ("payer" "pagando" "dafa^a, yadfa^ou" "")
+ ("pays" "pais" "balad" "")
+ ("paysan" "" "fallàH" "")
+ ("pendant, à travers" "" "khilàl" "")
+ ("penser" "" "fakkara, youfakkirou à: fì que bi'anna" "")
+ ("père" "padre" "wàlid" "")
+ ("période, durée" "" "moudda(t)" "")
+ ("personne" "persona" "chakhS, achkhàS" "")
+ ("perte (poisse)" "" "khasàra(t)" "")
+ ("peser" "pesa" "" "")
+ ("petit" "pequeño" "Saghìr" "")
+ ("petit (taille)" "bajo" "" "")
+ ("petites culottes" "bragas" "" "")
+ ("peu" "" "qalìlan" "")
+ ("peut-être, il se peut que, déjà" "" "qad" "")
+ ("peux" "poco" "" "")
+ ("pharmacie" "farmacia" "Saidaliyya(t)" "")
+ ("photographie" "" "Soùratoun foùtoùghràfiyyatoun" "")
+ ("phrase" "" "joumla" "")
+ ("piano" "" "biànoù" "")
+ ("pièce" "habitacion" "ghourfa(t)" "")
+ ("pièce (de monnaie)" "" "qiT^a(t)" "")
+ ("pièce de théatre" "funcion de teatro" "" "")
+ ("pied" "pie" "qadam, aqdàm" "")
+ ("pire" "peor" "" "")
+ ("place" "" "sàHa(t)" "")
+ ("plage" "playa" "chàTì'" "")
+ ("plastique" "plastico" "blàstìk" "")
+ ("plein de" "" "Hàfil (bi-)" "")
+ ("pleurer" "" "bakà, yabkì" "")
+ ("pleuvoir" "llueve" "" "")
+ ("pluie" "" "maTar, amTàr" "")
+ ("plus" "más" "" "")
+ ("pluvieux" "" "moumTar" "")
+ ("poète" "" "chà^ir" "")
+ ("poisson" "pez" "samaka(t)" "")
+ ("poivre" "" "foulfoul" "")
+ ("poix chiches" "" "HoummouS" "")
+ ("policier" "policía" "chourTiyy" "")
+ ("pomme" "manzana" "touffàHa(t)" "")
+ ("pomme de terre" "" "baTàTis" "")
+ ("pont" "puente" "jisr, jousoùr" "")
+ ("portable" "portatil" "" "")
+ ("porte" "puerta" "bàb, abwàb" "")
+ ("porte-monnaie" "" "miHfaZatou an-nouqoùdi" "")
+ ("porter" "lleva" "" "aussi pour les habits")
+ ("posséder" "" "malaka, yamlikou" "")
+ ("possible (il est ~ de)" "" "youmkinou an" "")
+ ("poulet / volaille" "" "dajàj" "")
+ ("pour" "para" "bi al'nisbit (?)" "")
+ ("pour lui" "" "lahou" "")
+ ("pourquoi" "por qué" "limàdha" "")
+ ("pourquoi pas" "" "limà là" "")
+ ("poussière" "" "ghoubàr" "")
+ ("poussin" "" "Sous" "")
+ ("pouvoir" "puedo" "istaTà^a, yastaTì^ou an" "")
+ ("précieux" "" "nafìs" "")
+ ("préféré" "" "moufaDDal" "")
+ ("préférer" "" "faDDala, youfaDDilou" "")
+ ("premier" "primer" "awwal" "")
+ ("première" "primera" "" "")
+ ("premièrement" "" "awwalan" "")
+ ("prendre" "" "akhadha, ya'khoudhou" "")
+ ("prendre un autobus, un train, ..." "" "yastaqillou" "")
+ ("prendre un repas" "" "yatanàwalou" "")
+ ("prendre une photo" "" "iltaqaTa, yaltaqiTou li" "")
+ ("préocupation, souci" "" "hamm" "")
+ ("préocuper (se)" "preocupe" "" "")
+ ("préparer" "prepara" "a^adda, you^iddou" "")
+ ("près de" "" "qarìban min" "")
+ ("présent" "" "HàDir" "")
+ ("prince" "" "amìr" "")
+ ("printemps" "primavera" "rabì^" "")
+ ("prix" "" "thaman" "")
+ ("problème" "" "mouchkila(t), machàkil" "")
+ ("prochaine" "que viene" "" "")
+ ("proche" "cerca" "qourba" "")
+ ("proche de" "" "qarìb" "")
+ ("professeur" "profesor" "" "")
+ ("propre" "limpia" "naZìf" "")
+ ("public / général" "" "^àmm" "")
+ ("puis" "" "thoumma" "")
+ ("pupitre" "pupitre" "" "")
+ ("q" "" "qàf" "")
+ ("qu'elle heure est-il" "" "kam al'sà^ati al'àn" "")
+ ("quand" "cuando" "^indamà" "")
+ ("quand (interrogatif)" "" "matà" "")
+ ("quand à... eh bien" "" "ammà... fa-" "")
+ ("quart" "cuarto" "roubou^ou" "")
+ ("quartier" "" "Hayy" "")
+ ("quatre" "" "arba'a" "")
+ ("quatrième" "cuarto" "" "")
+ ("que" "que" "" "")
+ ("quel" "qué" "" "")
+ ("quelle" "" "ayya(t)" "")
+ ("quelque chose" "algo" "" "")
+ ("quelques" "algunos" "" "")
+ ("quelques-uns" "" "biD^" "")
+ ("question" "" "sou'àl, as'ila(t)" "")
+ ("qui" "quién" "man" "")
+ ("quincaillerie" "ferreteria" "maHallou mou^addàtin" "")
+ ("quitter" "se va" "ghàdara, youghàdirou" "")
+ ("quoi" "qué" "màdhà" "")
+ ("quoi / qu'es-ce que" "" "mà" "")
+ ("r" "" "rà" "")
+ ("radio" "radio" "ràdiou" "")
+ ("rafraichissements" "" "mouraTTibàt" "")
+ ("ragoût" "" "tàjin" "")
+ ("rapide" "rapido" "" "")
+ ("rassasié" "" "chab^an" "")
+ ("regarder" "viendo" "naZara, yanZourou ilà" "")
+ ("regarder (quelque chose)" "" "youchàhidou" "")
+ ("région" "" "minTaqat" "")
+ ("remplir" "" "mala'a, yamla'ou" "")
+ ("rencontre" "" "liqà'" "")
+ ("rencontrer" "queda" "laqiya, yalqà" "")
+ ("rencontrer (se)" "" "iltaqà, yaltaqì bi-" "")
+ ("repas, plat, met" "" "aklat" "")
+ ("répéter" "repetirlo" "a^àda, you^ìdou" "")
+ ("répliquer / répondre" "" "radda, yarouddou" "")
+ ("répondre" "" "ajàba, youjìbou ^an" "")
+ ("réputé / célèbre" "" "machhoùr" "")
+ ("requin" "" "qirch" "")
+ ("réservation" "" "Hajz" "")
+ ("résidence" "" "manzil, manàzil" "")
+ ("resplendissante" "" "azhar" "")
+ ("restaurant" "restaurante" "maT^am" "")
+ ("rester" "" "makatha, yamkouthou" "")
+ ("retard (en)" "retraso" "mouta'akhkhir ^an" "")
+ ("retardé" "" "ta'akhkhar" "")
+ ("retour" "" "roujoù^" "")
+ ("réunion" "" "ijtimà^" "")
+ ("réunir (se)" "se reúne" "" "")
+ ("réveiller" "despierta" "ayqaZa, youqiZou" "")
+ ("revenir / retourner" "" "raja^a, yarji^ou" "")
+ ("revêtir" "" "labisa, yalbasou" "")
+ ("revue" "" "majalla(t)" "")
+ ("rire" "" "DaHika, yaDHakou" "")
+ ("rivage" "" "sàHil" "")
+ ("riz" "arroz" "arouzz" "")
+ ("robe" "vestido" "thaoub" "")
+ ("roi" "" "malik" "")
+ ("rose" "rosa" "ouardiyy" "")
+ ("rouge" "rojo" "aHmar, Hamrà'" "")
+ ("roux" "pelirrojas" "" "")
+ ("rue" "calle" "chàri^, chawàri^ (diptote)" "")
+ ("S" "" "Sàd" "")
+ ("s" "" "sìn" "")
+ ("s'il vous plait" "" "rajà'an" "")
+ ("sac" "" "kìs, akyàs" "")
+ ("saison" "" "faSl" "")
+ ("salade" "ensalada" "salaTa(t)" "")
+ ("sale" "sucio" "mouttasikh" "")
+ ("salle à manger" "comedor" "ghourfatou al'Ta^àmi" "")
+ ("salle de bain" "cuarto de baño" "Hammàm" "")
+ ("salon" "cuarto de estar" "ghourfatou jouloùsin" "")
+ ("salon de réception" "" "majlis" "")
+ ("salut / paix" "" "salàm" "")
+ ("salut, salutations" "" "salàm, salàmàt" "")
+ ("samedi" "sábado" "yaouma as-sabt" "")
+ ("sandwich" "bocadillo / sandwich" "chaTìra(t)" "")
+ ("sang" "" "dam" "")
+ ("sans" "" "bilà" "")
+ ("sauf" "" "illà" "")
+ ("savoir" "sabe" "^alima, ya^lamou" "")
+ ("savon" "jabon" "Sàboùn" "")
+ ("sciences" "ciencias" "^ouloùm" "")
+ ("se lever" "" "nahaDa, yanhaDou" "")
+ ("se prononce" "" "nouqraou" "")
+ ("se réjouir" "" "fariHa, yafraHou" "")
+ ("se réveiller" "" "istayqaZa, yastayqiZou" "")
+ ("seau" "" "daloù" "")
+ ("sec" "seco" "jàff" "")
+ ("seconde" "segundo" "thània(t)" "")
+ ("sel" "" "milH" "")
+ ("semaine" "semana" "ousboù^, asàbì^" "")
+ ("sentir" "huele" "" "")
+ ("sentir (se)" "" "cha^ara, yach^ourou bi-" "")
+ ("sentir quelque chose" "" "chamma, yachoummou" "")
+ ("sept" "" "sab^a" "")
+ ("septembre" "septiembre" "sibtimbir" "")
+ ("serrer contre soi" "" "you^àniqou" "")
+ ("serveur" "" "nàdil" "")
+ ("serviette" "toalla" "minchafa(t), manàchif" "")
+ ("serviette de table" "" "mindìl" "")
+ ("serviteur" "" "khadim" "")
+ ("seulement" "" "faqaT" "")
+ ("siège" "asiento" "maq^ad" "")
+ ("signe" "señal" "" "")
+ ("signifier" "significa" "^anà, ya^nì" "")
+ ("similaire" "" "moutachàbiha(t)" "")
+ ("situer (se)" "" "waqa^a, yaqa^ou fì" "")
+ ("six" "" "sittat" "")
+ ("sixième" "" "sàdis" "")
+ ("soccer" "" "kouratou al'qadami" "")
+ ("soeur" "hermana" "oukht" "")
+ ("soif (avoir)" "sed" "" "")
+ ("soir" "tarde" "masà'" "")
+ ("soleil" "" "chams" "")
+ ("son" "su" "" "")
+ ("son / sa / ses (féminin)" "" "-hà" "")
+ ("son / sa / ses (masculin)" "" "-hou" "")
+ ("sont" "" "moùjoùda(t)" "")
+ ("sortir" "" "kharaja, yakhroujou" "")
+ ("soulier" "zapato" "Hidhà'" "")
+ ("soupe" "sopa" "Hasà'" "")
+ ("souper" "cenando" "^achà'" "")
+ ("sourire" "" "ibtasama, yabtasimou" "")
+ ("sous" "debajo" "" "")
+ ("spectacle théâtral" "" "^arD" "")
+ ("stade" "estadio" "istàd" "")
+ ("station" "estacion" "maHaTTat" "")
+ ("station d'essence" "gasolinera" "maHaTTatou waqoùdin" "")
+ ("statue" "" "timthàl, tamàthìl" "")
+ ("stylo" "" "qalam, aqlàm" "")
+ ("sucre" "" "sukkar" "")
+ ("sucré" "" "Houlw" "")
+ ("sud" "" "janoùb" "")
+ ("suis" "soy" "" "")
+ ("sur" "encima" "^alà" "")
+ ("surface" "" "SaTH" "")
+ ("syllabe" "" "maqta" "")
+ ("synagogue" "" "kanìs" "")
+ ("s’assoir" "" "jalasa, yajlisou" "")
+ ("T" "" "Tà" "")
+ ("t" "" "tà" "")
+ ("table" "mesa" "mà’ida(t)" "")
+ ("tableau" "" "laouHa(t)" "")
+ ("tablier" "" "maryala(t)" "")
+ ("taille" "demasiado" "" "")
+ ("taire (se)" "" "sakata, yaskoutou" "")
+ ("tambour" "" "Tabl, Touboùl" "")
+ ("tapis" "" "bisàT" "")
+ ("tard" "tarde" "" "")
+ ("tasse" "taza" "koùb" "")
+ ("taxi" "taxi" "sayyàratou oujara(t)" "")
+ ("téléphone" "teléfono" "hàtif, hawàtif" "")
+ ("télévision" "televisor" "talfizioun" "")
+ ("temple" "" "ma^abad, ma^àbid" "")
+ ("temps" "" "waqt" "")
+ ("temps (climat)" "" "jaww" "")
+ ("temps (météo)" "tiempo" "" "")
+ ("tenir" "tengo (?)" "" "google translate: i have")
+ ("tennis" "tenis" "kouratou al'maDribi" "")
+ ("tente" "" "khayma(t), khyàm" "")
+ ("terme (d'âge)" "" "akhir" "")
+ ("termine" "termina" "" "")
+ ("terminer (se)" "" "intahà, yantahì" "")
+ ("texte" "" "naSS" "")
+ ("th" "" "thà" "")
+ ("thé" "té" "chàyy" "")
+ ("théatre" "teatro" "masraH" "")
+ ("ticket" "entrade" "tadhkira(t)" "")
+ ("timbre" "sello" "Tawàbi^" "")
+ ("tissu" "" "mansoùj, mansoùjàt" "")
+ ("toi (féminin)" "" "anti" "")
+ ("toi (masculin)" "" "anta" "")
+ ("toilette" "retrete" "mirHàD" "")
+ ("toilettes" "servicios" "daouratou al'miyàh" "")
+ ("tomber (pluie, neige, ...)" "" "yatasàqatou" "")
+ ("ton / ta / tes (féminin)" "" "-ki" "")
+ ("ton / ta / tes (masculin)" "" "-ka" "")
+ ("tôt" "" "bàkiran, moubakkiran" "")
+ ("tour" "" "dawr" "")
+ ("tourne" "" "yan^atifou" "")
+ ("tourner" "gira" "dàra, yadoùrou" "")
+ ("tous" "todos" "jamì^" "")
+ ("tout droit" "sigue derecho" "" "")
+ ("train" "tren" "qiTàr" "")
+ ("traje (verb) (?)" "traje" "" "google translate: trajera -> bring")
+ ("trajet / voyage" "" "safra(t)" "")
+ ("travail" "" "^amal" "")
+ ("travailler" "trabaja" "^amila, ya^malou" "")
+ ("traverser" "" "^abara, ya^bourou" "")
+ ("très" "muy" "jiddan" "")
+ ("triste" "" "Hazìn" "")
+ ("trois" "" "thalàtha" "")
+ ("troisième" "tercer" "" "")
+ ("tromper (se)" "" "akhTa'a, youkhTi'ou" "")
+ ("trop" "demasiado" "" "")
+ ("trouver" "" "wajada, yajidou" "")
+ ("trouver par hazard" "" "^athara, ya^athourou ^alà" "")
+ ("tu" "tú" "" "")
+ ("tu (poli)" "usted" "" "")
+ ("tu dois" "tienes que" "" "")
+ ("type, catégorie, genre, espèce, sorte" "tipo" "naou^, anwà^" "")
+ ("un" "un" "wàHid" "")
+ ("un ensemble, totalité, multitude" "" "jamì^" "")
+ ("un jour quelconque" "" "yaouman mà" "")
+ ("un peu (?)" "algo" "" "google translate: something")
+ ("une" "una" "" "")
+ ("une autre" "" "oukhrà" "")
+ ("une, l'une" "" "iHdà" "")
+ ("université" "universidad" "jàmi^a(t)" "")
+ ("usine" "fábrica" "maSna^" "")
+ ("va" "va" "" "")
+ ("vaches" "" "abqàr" "")
+ ("valise" "maleta" "Haqìba(t), Haqìbati al'malàbisi" "")
+ ("venant" "" "qàdim" "")
+ ("vend" "vende" "" "")
+ ("vendeur" "" "bà'i^, oùna" "")
+ ("vendre" "" "bà^a, yabì^ou" "")
+ ("vendredi" "viernes" "yaouma al-joumou^a" "")
+ ("venir" "" "jà'a, yajì'ou" "")
+ ("venteux" "" "^àSif" "")
+ ("verre" "vaso" "" "")
+ ("vers" "" "ilà" "")
+ ("vers de terre" "" "doud" "")
+ ("verser" "" "Sabba, yaSoubbou" "")
+ ("vert" "verde" "akhDar, khaDrà'" "")
+ ("vêtement" "ropa" "malbas, malàbis" "")
+ ("viande" "carne" "laHm" "")
+ ("vide" "" "fàrigh" "")
+ ("vider" "" "farragha, youfarrighou" "")
+ ("vieux" "viejo" "mousinn" "")
+ ("village" "" "qarya(t)" "")
+ ("ville" "ciudad" "madìna(t)" "")
+ ("vin" "" "khamr" "")
+ ("vingt" "" "ichroùn" "")
+ ("virer" "" "in^aTafa, yan^aTifou" "")
+ ("visage" "cara" "wajh" "")
+ ("visite" "visitando" "ziyàra(t)" "")
+ ("visiter" "" "zàra, yazoùrou" "")
+ ("vite" "" "sarì^" "")
+ ("vitrine" "" "wàjiha(t)" "")
+ ("vive" "" "dàma" "")
+ ("vivre" "vive" "" "")
+ ("vivre (en quelque part)" "" "^àcha, ya^ìchou" "")
+ ("voici ..." "aquí está" "hà + pronom isolé" "")
+ ("voir" "" "ra'à, yarà" "")
+ ("voisin" "" "jàr" "")
+ ("voiture" "" "sayyàra(t)" "")
+ ("voix / bruit / son" "" "Saout / aSwàt" "")
+ ("vol" "vuelo" "" "")
+ ("vol (voyage)" "" "raHila(t)" "")
+ ("vont" "quedan" "" "")
+ ("votre" "" "-koum" "")
+ ("vouloir" "quiere" "aràda, yourìdou" "")
+ ("vous" "vosotros" "" "")
+ ("vous (pronon)" "" "antoum" "")
+ ("vous deux (pronom affixe)" "" "koumà" "")
+ ("vous êtez le (la) bienvenue" "" "anta (anti) ^alà al'raHbi wa al'sa^a(t)" "")
+ ("voyage" "" "safar" "")
+ ("voyageur" "" "mousàfir" "")
+ ("vrai" "" "SaHìH" "")
+ ("w / ou" "" "wàw" "")
+ ("y" "" "yà" "")
+ ("y a t'il" "" "hal hounàka" "")
+ ("Z" "" "Zà" "")
+ ("z" "" "zà" "")
+ ("zéro" "" "sifr" ""))
+
+
+;;;
+;;;; Verbs
+;;;
+
+
+("Verbs"
+ "emballer"
+ "monter"
+ "demeurer"
+ "trouver par hazard"
+ "prendre une photo"
+ "répondre"
+ "demander si"
+ "coucher (se)"
+ "choisir"
+ "inviter"
+ "mentir"
+ "taire (se)"
+ "traverser"
+ "tromper (se)"
+ "verser"
+ "vider"
+ "virer"
+ "obtenir"
+ "penser"
+ "pleurer"
+ "rire"
+ "sourire"
+ "préférer"
+ "jouer (de la musique)"
+ "devoir"
+ "préparer"
+ "conclure (se)"
+ "situer (se)"
+ "contacter"
+ "désirer"
+ "parler de, s'entretenir"
+ "rencontrer (se)"
+ "aider à"
+ "terminer (se)"
+ "commencer"
+ "amener"
+ "mettre"
+ "être permis de"
+ "danser"
+ "chanter"
+ "chercher"
+ "répéter"
+ "signifier"
+ "contenir"
+ "pouvoir"
+ "vivre (en quelque part)"
+ "vendre"
+ "travailler"
+ "serrer contre soi"
+ "sentir quelque chose"
+ "sentir (se)"
+ "se réveiller"
+ "réveiller"
+ "regarder"
+ "quitter"
+ "passer par"
+ "prendre un repas"
+ "lire"
+ "jouer"
+ "habiter"
+ "gouter"
+ "être debout"
+ "embrasser"
+ "écouter (quelque chose)"
+ "couter"
+ "brosser les dents"
+ "brosser les cheveux"
+ "avoir besoin"
+ "attendre"
+ "marcher"
+ "conduire"
+ "cuisiner"
+ "nager"
+ "revêtir"
+ "acheter"
+ "ouvrir"
+ "tourner"
+ "parler"
+ "passer"
+ "être"
+ "trouver"
+ "s’assoir"
+ "sortir"
+ "se lever"
+ "se réjouir"
+ "revenir / retourner"
+ "rester"
+ "rencontrer"
+ "remplir"
+ "regarder (quelque chose)"
+ "prendre"
+ "posséder"
+ "payer"
+ "ne pas être"
+ "monter en selle, en voiture, ..."
+ "manger"
+ "laver"
+ "vouloir"
+ "venir"
+ "oublier"
+ "voir"
+ "répliquer / répondre"
+ "faire"
+ "examiner"
+ "étudier"
+ "être malade / tomber malade"
+ "entrer"
+ "enseigner"
+ "écrire"
+ "dormir"
+ "dire"
+ "descendre"
+ "demander"
+ "connaître"
+ "savoir"
+ "comprendre"
+ "boire"
+ "avoir faim"
+ "arriver"
+ "aller"
+ "accompagner"
+ "visiter"
+ "donner"
+ "appeler")
+
+
+;;;
+;;;; Prepositions
+;;;
+
+
+("Prepositions"
+ "ensemble (plusieurs)"
+ "et"
+ "quoi / qu'es-ce que"
+ "dans"
+ "qui"
+ "moi"
+ "avec / au moyen de"
+ "ton / ta / tes (féminin)"
+ "à / pour"
+ "toi (masculin)"
+ "vers"
+ "où"
+ "ton / ta / tes (masculin)"
+ "lui"
+ "ne pas"
+ "son / sa / ses (masculin)"
+ "de"
+ "toi (féminin)"
+ "es-ce que"
+ "non"
+ "mon / ma / mes (masculin)"
+ "puis"
+ "son / sa / ses (féminin)"
+ "bienvenue / bonjour"
+ "comment"
+ "ô / eh"
+ "ici"
+ "merci"
+ "avec"
+ "oui"
+ "elle"
+ "très"
+ "sur"
+ "passer par"
+ "pour lui"
+ "quand à... eh bien"
+ "notre"
+ "certes"
+ "cela"
+ "nous"
+ "votre"
+ "là"
+ "y a t'il"
+ "pourquoi"
+ "quand (interrogatif)"
+ "aussitôt / immédiatement"
+ "aussi"
+ "entre"
+ "pas du tout / jamais"
+ "seulement"
+ "bien!"
+ "alors")
+
+
+;;;
+;;;; ~Numbers
+;;;
+
+
+("~Numbers"
+ "_20"
+ "_10"
+ "9"
+ "8"
+ "7"
+ "6"
+ "5"
+ "4"
+ "3"
+ "2"
+ "1"
+ "zéro"
+ "un"
+ "deux"
+ "trois"
+ "quatre"
+ "cinq"
+ "six"
+ "sept"
+ "huit"
+ "neuf"
+ "dix"
+ "vingt")
+
+
+;;;
+;;;; Days
+;;;
+
+
+("Days"
+ "mardi"
+ "lundi"
+ "mercredi"
+ "dimanche"
+ "vendredi"
+ "jeudi"
+ "samedi")
+
+
+;;;
+;;;; Months
+;;;
+
+
+("Months"
+ "septembre"
+ "octobre"
+ "novembre"
+ "décembre"
+ "juin"
+ "juillet"
+ "aout"
+ "mai"
+ "mars"
+ "janvier"
+ "février"
+ "avril")
+
+
+;;;
+;;;; Phrases
+;;;
+
+
+("Phrases"
+ "avec plaisir"
+ "Ne t'en fais pas")
+
+
+;;;
+;;;; Questions
+;;;
+
+
+("Questions"
+ "un peu (?)"
+ "tenir"
+ "avoir (age) (!?)"
+ "autres (les) (?)"
+ "traje (verb) (?)"
+ "lo (?)")
+
+
+;;;
+;;;; Questions Arabic
+;;;
+
+
+("Questions Arabic"
+ "masquée (?)"
+ "demeurant (?)"
+ "contenu (le)"
+ "chutes (?)"
+ "cardamome"
+ "boeuf (?)")
+
+
+;;;
+;;;; Test
+;;;
+
+
+("Test"
+ "argent"
+ "après"
+ "_20")
+
+
+;;;
+;;;; ~Letters
+;;;
+
+
+("~Letters"
+ "a / à"
+ "b"
+ "t"
+ "th"
+ "j"
+ "H"
+ "kh"
+ "d"
+ "dh"
+ "r"
+ "z"
+ "s"
+ "ch"
+ "S"
+ "D"
+ "T"
+ "Z"
+ "gh"
+ "f"
+ "q"
+ "k"
+ "l"
+ "m"
+ "n"
+ "h"
+ "w / ou"
+ "y")
+
+
+;;;
+;;;; ~Accents
+;;;
+
+
+("~Accents"
+ "accent a"
+ "accent i"
+ "accent ou"
+ "accent soukoun"
+ "accent wasla"
+ "accent hamza"
+ "accent chadda"
+ "accent tanwin")
+
+
+;;;
+;;;; Expressions
+;;;
+
+
+("Expressions"
+ "il est à l'heure"
+ "vous êtez le (la) bienvenue")
+
+
+;;;
+;;;; <Review>
+;;;
+
+
+("<Review>")
+
+
+;;;
+;;;; <Session>
+;;;
+
+
+("<Session>")
